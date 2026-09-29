@@ -1,0 +1,2501 @@
+car_id,brand,model,year,age,fuel,transmission,kilometers,owners,location,price_lakh
+1,Maruti Suzuki,Dzire,2023,3,Electric,Automatic,64291,2,Chennai,6.41
+2,Honda,Amaze,2024,2,Diesel,Automatic,25840,1,Mumbai,8.01
+3,Maruti Suzuki,Swift,2016,10,Petrol,Manual,146496,1,Delhi,1.1
+4,Hyundai,Verna,2019,7,Petrol,Automatic,71448,2,Pune,2.93
+5,Maruti Suzuki,Dzire,2016,10,Diesel,Manual,85412,2,Chennai,1.1
+6,Tata,Nexon,2020,6,Petrol,Manual,52980,1,Bangalore,3.53
+7,Mahindra,Scorpio,2021,5,CNG,Manual,27489,1,Chennai,10.69
+8,Kia,Seltos,2024,2,Petrol,Manual,45330,2,Bangalore,10.45
+9,Toyota,Glanza,2021,5,Petrol,Manual,61626,1,Hyderabad,10.83
+10,Toyota,Fortuner,2023,3,Petrol,Manual,53405,1,Pune,28.06
+11,Mahindra,Scorpio,2021,5,Petrol,Automatic,66032,2,Hyderabad,9.81
+12,Kia,Carens,2022,4,Petrol,Manual,40069,2,Hyderabad,5.27
+13,Kia,Sonet,2023,3,Diesel,Manual,30366,2,Hyderabad,8.44
+14,Toyota,Glanza,2023,3,Petrol,Automatic,40952,2,Bangalore,12.42
+15,Toyota,Fortuner,2022,4,Petrol,Manual,51240,2,Bangalore,26.7
+16,Maruti Suzuki,Brezza,2024,2,Diesel,Automatic,15310,1,Bangalore,6.82
+17,Kia,Carens,2019,7,Diesel,Automatic,87828,1,Hyderabad,6.49
+18,Toyota,Glanza,2017,9,Diesel,Manual,117251,2,Delhi,7.27
+19,Maruti Suzuki,Brezza,2025,1,Petrol,Manual,15529,1,Hyderabad,4.6
+20,Kia,Seltos,2023,3,Diesel,Manual,48902,1,Delhi,10.7
+21,Toyota,Fortuner,2015,11,Petrol,Manual,119776,2,Hyderabad,20.4
+22,Mahindra,XUV700,2017,9,Diesel,Manual,91624,1,Pune,8.98
+23,Maruti Suzuki,Brezza,2015,11,Petrol,Automatic,144563,2,Hyderabad,1.1
+24,Kia,Carens,2018,8,Petrol,Automatic,113428,1,Chennai,4.09
+25,Hyundai,Creta,2025,1,CNG,Manual,3500,1,Delhi,10.57
+26,Hyundai,Venue,2017,9,Petrol,Manual,106437,1,Delhi,1.1
+27,Honda,Amaze,2022,4,Petrol,Automatic,53986,2,Mumbai,4.61
+28,Maruti Suzuki,Swift,2022,4,Diesel,Manual,52065,1,Bangalore,3.09
+29,Tata,Altroz,2020,6,Diesel,Manual,61978,2,Chennai,2.76
+30,Kia,Carens,2018,8,Diesel,Manual,88158,2,Bangalore,3.71
+31,Mahindra,XUV700,2016,10,Diesel,Automatic,113339,1,Chennai,8.96
+32,Tata,Harrier,2024,2,CNG,Manual,18394,1,Hyderabad,9.53
+33,Kia,Sonet,2021,5,Electric,Manual,58697,1,Chennai,9.17
+34,Honda,Amaze,2020,6,Diesel,Manual,57318,2,Delhi,3.28
+35,Honda,City,2024,2,Petrol,Automatic,39496,2,Pune,7.97
+36,Tata,Punch,2019,7,Electric,Manual,79026,1,Pune,4.12
+37,Tata,Harrier,2016,10,Petrol,Manual,112392,3,Mumbai,1.36
+38,Honda,City,2016,10,Petrol,Manual,132741,1,Pune,1.96
+39,Tata,Nexon,2021,5,Diesel,Manual,49219,1,Mumbai,5.18
+40,Kia,Seltos,2017,9,Diesel,Automatic,124369,1,Delhi,6.51
+41,Kia,Seltos,2018,8,Petrol,Manual,80363,1,Pune,6.06
+42,Honda,City,2017,9,Diesel,Automatic,120990,1,Pune,4.4
+43,Honda,WR-V,2020,6,Petrol,Automatic,61232,1,Mumbai,4.59
+44,Toyota,Glanza,2017,9,Electric,Automatic,70465,3,Mumbai,10.8
+45,Honda,Amaze,2020,6,CNG,Manual,52949,2,Pune,3.45
+46,Honda,Amaze,2018,8,Petrol,Manual,90458,1,Chennai,1.7
+47,Toyota,Fortuner,2015,11,Diesel,Manual,109551,1,Pune,23.66
+48,Maruti Suzuki,Swift,2023,3,Petrol,Automatic,17503,3,Hyderabad,3.31
+49,Honda,WR-V,2025,1,Diesel,Automatic,18059,1,Chennai,9.54
+50,Tata,Harrier,2015,11,Diesel,Automatic,138363,1,Delhi,4.76
+51,Tata,Altroz,2021,5,Petrol,Automatic,77935,1,Hyderabad,4.17
+52,Tata,Altroz,2023,3,Petrol,Manual,36712,1,Pune,5.16
+53,Toyota,Glanza,2015,11,CNG,Manual,120495,1,Mumbai,6.15
+54,Hyundai,i20,2020,6,Petrol,Automatic,66849,1,Pune,3.2
+55,Maruti Suzuki,Dzire,2022,4,CNG,Manual,18024,2,Hyderabad,2.77
+56,Honda,Amaze,2016,10,Petrol,Automatic,124338,1,Pune,1.1
+57,Hyundai,Creta,2020,6,Petrol,Manual,54861,1,Hyderabad,7.1
+58,Mahindra,Thar,2017,9,Petrol,Manual,125847,2,Delhi,5.95
+59,Mahindra,Scorpio,2018,8,Petrol,Automatic,87670,1,Bangalore,8.19
+60,Tata,Harrier,2022,4,Petrol,Manual,44465,1,Bangalore,8.09
+61,Tata,Harrier,2024,2,Petrol,Manual,46594,1,Delhi,8.82
+62,Maruti Suzuki,Brezza,2025,1,CNG,Automatic,3500,1,Delhi,6.25
+63,Toyota,Fortuner,2015,11,Electric,Automatic,145650,1,Delhi,25.65
+64,Honda,WR-V,2024,2,Petrol,Automatic,3500,1,Bangalore,8.42
+65,Kia,Seltos,2025,1,Petrol,Automatic,11167,1,Hyderabad,12.61
+66,Honda,Amaze,2024,2,Diesel,Manual,16394,1,Bangalore,7.33
+67,Hyundai,Venue,2018,8,Electric,Manual,81108,1,Hyderabad,3.29
+68,Toyota,Glanza,2025,1,Diesel,Manual,46420,1,Chennai,13.61
+69,Toyota,Glanza,2018,8,Electric,Automatic,84502,1,Chennai,10.56
+70,Mahindra,Thar,2022,4,CNG,Automatic,62946,1,Delhi,13.24
+71,Tata,Punch,2018,8,Petrol,Manual,90570,1,Hyderabad,1.1
+72,Kia,Seltos,2025,1,Diesel,Automatic,12755,1,Bangalore,13.28
+73,Kia,Carens,2023,3,Diesel,Manual,26947,1,Chennai,7.81
+74,Kia,Seltos,2019,7,Electric,Automatic,50762,1,Chennai,10.56
+75,Hyundai,i20,2022,4,Petrol,Manual,50799,1,Delhi,4.18
+76,Kia,Carens,2022,4,Petrol,Automatic,54870,1,Chennai,6.87
+77,Honda,WR-V,2023,3,Petrol,Manual,32077,1,Pune,5.62
+78,Honda,City,2025,1,CNG,Manual,3500,1,Chennai,10.56
+79,Toyota,Fortuner,2017,9,Petrol,Manual,112571,1,Pune,23.41
+80,Honda,Amaze,2023,3,Electric,Manual,3500,1,Pune,9.14
+81,Toyota,Fortuner,2017,9,CNG,Manual,86599,1,Delhi,23.8
+82,Honda,WR-V,2019,7,Petrol,Manual,50258,1,Pune,2.97
+83,Mahindra,XUV700,2017,9,Petrol,Automatic,89030,1,Hyderabad,9.43
+84,Toyota,Fortuner,2022,4,CNG,Automatic,66718,1,Chennai,28.1
+85,Honda,Amaze,2016,10,CNG,Manual,123468,1,Pune,1.44
+86,Honda,WR-V,2017,9,Petrol,Manual,74105,3,Hyderabad,1.1
+87,Maruti Suzuki,Baleno,2025,1,CNG,Automatic,8612,1,Hyderabad,7.82
+88,Honda,Amaze,2019,7,CNG,Manual,97741,1,Delhi,3.7
+89,Mahindra,Scorpio,2024,2,Diesel,Manual,16850,2,Pune,11.69
+90,Maruti Suzuki,Brezza,2022,4,Petrol,Automatic,27793,1,Delhi,4.25
+91,Tata,Nexon,2016,10,Diesel,Manual,132093,1,Pune,1.1
+92,Kia,Carens,2022,4,Diesel,Manual,53511,1,Hyderabad,7.93
+93,Maruti Suzuki,Baleno,2023,3,CNG,Manual,72702,2,Chennai,3.47
+94,Maruti Suzuki,Dzire,2017,9,Petrol,Manual,89484,2,Hyderabad,1.1
+95,Hyundai,Venue,2021,5,Petrol,Manual,61391,1,Hyderabad,3.87
+96,Honda,Amaze,2022,4,Diesel,Manual,50764,1,Mumbai,7.47
+97,Tata,Altroz,2023,3,Petrol,Automatic,47444,1,Chennai,5.08
+98,Hyundai,i20,2024,2,Petrol,Manual,31134,1,Bangalore,6.42
+99,Kia,Seltos,2021,5,Petrol,Manual,61352,2,Chennai,7.92
+100,Tata,Harrier,2016,10,Petrol,Automatic,137881,1,Pune,3.35
+101,Honda,City,2022,4,Diesel,Manual,86337,2,Chennai,6.14
+102,Toyota,Innova,2018,8,Diesel,Automatic,98271,1,Delhi,16.25
+103,Hyundai,i20,2019,7,Diesel,Manual,85637,2,Chennai,1.98
+104,Hyundai,Creta,2022,4,CNG,Manual,48037,1,Bangalore,8.56
+105,Maruti Suzuki,Brezza,2021,5,Diesel,Manual,50892,1,Mumbai,3.46
+106,Honda,Amaze,2021,5,Petrol,Automatic,60721,1,Pune,5.54
+107,Kia,Seltos,2024,2,CNG,Automatic,30509,2,Pune,10.63
+108,Kia,Sonet,2017,9,Petrol,Manual,118154,3,Hyderabad,1.1
+109,Toyota,Fortuner,2025,1,Diesel,Manual,3500,1,Pune,31.81
+110,Tata,Altroz,2016,10,Petrol,Manual,107545,2,Chennai,1.1
+111,Hyundai,Venue,2023,3,Petrol,Manual,42673,1,Bangalore,5.23
+112,Hyundai,Verna,2017,9,Diesel,Manual,99645,1,Chennai,1.1
+113,Honda,Amaze,2017,9,Petrol,Manual,91706,1,Pune,1.37
+114,Toyota,Innova,2022,4,Diesel,Manual,54001,1,Hyderabad,17.65
+115,Tata,Punch,2022,4,Diesel,Automatic,45858,1,Delhi,7.36
+116,Kia,Sonet,2017,9,Petrol,Manual,116173,1,Hyderabad,4.21
+117,Hyundai,Venue,2017,9,Diesel,Manual,112875,1,Mumbai,2.05
+118,Honda,WR-V,2019,7,CNG,Manual,72044,2,Hyderabad,2.63
+119,Hyundai,Creta,2023,3,Petrol,Automatic,40239,2,Pune,8.06
+120,Honda,City,2022,4,Electric,Automatic,37321,2,Chennai,9.27
+121,Honda,Amaze,2023,3,Petrol,Manual,55529,1,Chennai,5.45
+122,Tata,Harrier,2020,6,Diesel,Manual,87254,1,Delhi,6.54
+123,Kia,Seltos,2023,3,Diesel,Manual,33181,1,Mumbai,10.0
+124,Hyundai,Verna,2024,2,Petrol,Automatic,32898,1,Chennai,7.42
+125,Maruti Suzuki,Swift,2016,10,Petrol,Manual,97867,3,Pune,1.1
+126,Maruti Suzuki,Brezza,2018,8,Petrol,Automatic,96562,1,Mumbai,1.32
+127,Mahindra,Scorpio,2016,10,Diesel,Automatic,124766,2,Delhi,7.93
+128,Honda,City,2016,10,Petrol,Manual,80526,2,Chennai,2.0
+129,Kia,Sonet,2017,9,Petrol,Automatic,62478,1,Bangalore,5.16
+130,Mahindra,Scorpio,2020,6,Diesel,Automatic,55736,1,Pune,11.32
+131,Honda,WR-V,2018,8,Petrol,Manual,106421,1,Delhi,2.9
+132,Tata,Punch,2016,10,Diesel,Manual,115234,1,Chennai,1.1
+133,Kia,Carens,2019,7,Petrol,Automatic,89164,2,Chennai,3.84
+134,Honda,City,2023,3,Petrol,Manual,20321,1,Pune,7.29
+135,Kia,Sonet,2018,8,Diesel,Automatic,84462,2,Delhi,4.65
+136,Tata,Harrier,2016,10,CNG,Manual,132665,1,Delhi,2.04
+137,Toyota,Glanza,2016,10,Diesel,Manual,100156,1,Bangalore,7.28
+138,Tata,Punch,2025,1,Petrol,Manual,9663,1,Pune,6.78
+139,Tata,Harrier,2022,4,Petrol,Manual,49122,2,Chennai,6.4
+140,Honda,City,2016,10,Diesel,Manual,90195,3,Delhi,2.91
+141,Maruti Suzuki,Baleno,2018,8,Petrol,Manual,105653,2,Chennai,1.1
+142,Honda,Amaze,2016,10,Diesel,Manual,111632,1,Hyderabad,1.1
+143,Hyundai,i20,2016,10,CNG,Automatic,133007,2,Hyderabad,1.1
+144,Maruti Suzuki,Baleno,2022,4,Electric,Manual,71441,1,Delhi,6.1
+145,Honda,WR-V,2022,4,Petrol,Manual,41530,3,Chennai,4.16
+146,Hyundai,Verna,2015,11,Petrol,Automatic,111911,1,Mumbai,1.1
+147,Kia,Seltos,2019,7,Diesel,Manual,87253,3,Hyderabad,6.53
+148,Honda,WR-V,2017,9,Petrol,Manual,107476,2,Mumbai,1.1
+149,Mahindra,Scorpio,2016,10,Petrol,Automatic,116331,1,Bangalore,6.71
+150,Tata,Altroz,2018,8,Petrol,Manual,84934,1,Pune,1.1
+151,Hyundai,Verna,2023,3,Petrol,Automatic,40039,1,Pune,6.48
+152,Maruti Suzuki,Brezza,2019,7,Diesel,Manual,89672,3,Hyderabad,1.23
+153,Maruti Suzuki,Baleno,2024,2,Electric,Automatic,24420,1,Mumbai,8.91
+154,Toyota,Fortuner,2022,4,Diesel,Manual,41956,1,Pune,28.96
+155,Maruti Suzuki,Baleno,2019,7,Petrol,Automatic,83035,1,Delhi,1.49
+156,Hyundai,i20,2016,10,Petrol,Manual,130565,3,Bangalore,1.1
+157,Maruti Suzuki,Dzire,2018,8,Petrol,Automatic,106659,1,Hyderabad,1.1
+158,Toyota,Fortuner,2023,3,Diesel,Manual,20373,2,Pune,29.51
+159,Mahindra,Scorpio,2015,11,Diesel,Manual,114280,1,Pune,6.47
+160,Honda,Amaze,2021,5,Diesel,Automatic,37006,2,Hyderabad,4.75
+161,Mahindra,XUV300,2025,1,Diesel,Manual,22936,1,Pune,10.23
+162,Kia,Sonet,2016,10,Petrol,Manual,116565,3,Hyderabad,1.1
+163,Toyota,Innova,2016,10,Petrol,Automatic,105881,2,Pune,13.05
+164,Hyundai,Creta,2024,2,Petrol,Manual,8741,1,Hyderabad,9.4
+165,Hyundai,i20,2021,5,Petrol,Manual,61583,1,Pune,4.38
+166,Mahindra,Thar,2020,6,Electric,Manual,87704,2,Chennai,11.58
+167,Maruti Suzuki,Baleno,2019,7,Petrol,Manual,85247,3,Chennai,1.1
+168,Mahindra,Scorpio,2022,4,Petrol,Manual,76309,1,Bangalore,10.06
+169,Toyota,Innova,2019,7,CNG,Automatic,66428,2,Chennai,16.55
+170,Honda,Amaze,2020,6,Petrol,Manual,66036,1,Mumbai,3.59
+171,Hyundai,Venue,2024,2,CNG,Automatic,20851,1,Delhi,8.36
+172,Hyundai,Venue,2022,4,Petrol,Automatic,46191,1,Chennai,3.14
+173,Hyundai,Venue,2019,7,Petrol,Manual,100759,1,Chennai,1.39
+174,Toyota,Innova,2023,3,Petrol,Manual,58185,1,Pune,18.12
+175,Hyundai,i20,2015,11,Petrol,Automatic,120520,2,Mumbai,1.1
+176,Kia,Carens,2017,9,Petrol,Automatic,119489,1,Delhi,3.63
+177,Honda,WR-V,2022,4,Petrol,Manual,49776,3,Hyderabad,2.33
+178,Kia,Seltos,2016,10,Petrol,Manual,116301,1,Chennai,4.07
+179,Hyundai,i20,2015,11,CNG,Manual,136477,1,Hyderabad,1.1
+180,Hyundai,Verna,2016,10,CNG,Manual,107727,2,Mumbai,1.1
+181,Maruti Suzuki,Swift,2017,9,Petrol,Manual,96101,2,Hyderabad,1.1
+182,Mahindra,XUV300,2020,6,Diesel,Manual,79951,1,Chennai,7.41
+183,Kia,Carens,2016,10,Diesel,Automatic,116757,1,Hyderabad,3.85
+184,Toyota,Innova,2023,3,Petrol,Manual,40198,1,Chennai,17.75
+185,Honda,City,2019,7,Electric,Automatic,71903,1,Delhi,7.9
+186,Honda,Amaze,2015,11,Petrol,Automatic,128197,1,Hyderabad,1.1
+187,Kia,Carens,2017,9,Electric,Automatic,94872,1,Bangalore,6.69
+188,Hyundai,Venue,2016,10,Petrol,Automatic,105813,1,Delhi,1.1
+189,Hyundai,Verna,2021,5,Diesel,Manual,59122,1,Chennai,4.54
+190,Kia,Seltos,2015,11,Diesel,Automatic,148118,1,Pune,4.83
+191,Hyundai,i20,2019,7,Petrol,Manual,83271,3,Pune,1.39
+192,Kia,Carens,2025,1,Diesel,Manual,63322,1,Chennai,10.26
+193,Honda,WR-V,2023,3,Petrol,Manual,28072,1,Bangalore,6.94
+194,Hyundai,Creta,2025,1,Petrol,Automatic,3500,2,Pune,10.73
+195,Hyundai,Verna,2023,3,Electric,Automatic,47479,1,Chennai,8.59
+196,Hyundai,i20,2024,2,Petrol,Manual,38292,1,Bangalore,6.61
+197,Mahindra,XUV300,2015,11,Petrol,Manual,105519,1,Chennai,2.37
+198,Tata,Altroz,2019,7,Petrol,Manual,85532,2,Bangalore,1.1
+199,Maruti Suzuki,Baleno,2020,6,Petrol,Automatic,73905,1,Pune,2.44
+200,Mahindra,XUV300,2022,4,Petrol,Automatic,61935,1,Mumbai,9.87
+201,Toyota,Fortuner,2016,10,Petrol,Manual,144288,1,Chennai,22.34
+202,Maruti Suzuki,Swift,2020,6,Petrol,Manual,77753,1,Bangalore,1.87
+203,Hyundai,Creta,2020,6,Petrol,Manual,69501,3,Bangalore,4.72
+204,Maruti Suzuki,Dzire,2023,3,CNG,Manual,34470,1,Mumbai,4.88
+205,Tata,Nexon,2024,2,Petrol,Manual,40314,1,Pune,3.85
+206,Maruti Suzuki,Baleno,2020,6,Diesel,Automatic,75550,1,Mumbai,3.6
+207,Toyota,Glanza,2025,1,Diesel,Manual,20986,1,Hyderabad,12.21
+208,Mahindra,XUV300,2019,7,Diesel,Manual,90865,1,Pune,5.6
+209,Tata,Harrier,2025,1,Petrol,Manual,3500,2,Pune,9.28
+210,Toyota,Innova,2024,2,Diesel,Automatic,32723,2,Hyderabad,19.85
+211,Mahindra,Scorpio,2015,11,Petrol,Automatic,126434,1,Hyderabad,5.36
+212,Toyota,Innova,2025,1,Petrol,Manual,3500,1,Chennai,19.49
+213,Mahindra,XUV300,2020,6,Petrol,Automatic,71433,2,Pune,6.9
+214,Honda,City,2021,5,Diesel,Manual,73723,2,Hyderabad,6.69
+215,Tata,Harrier,2019,7,Petrol,Manual,82083,1,Mumbai,4.94
+216,Maruti Suzuki,Dzire,2021,5,Diesel,Automatic,81943,1,Pune,3.48
+217,Maruti Suzuki,Brezza,2020,6,Petrol,Manual,64493,2,Chennai,1.1
+218,Maruti Suzuki,Brezza,2023,3,Diesel,Manual,45206,1,Mumbai,5.03
+219,Maruti Suzuki,Brezza,2021,5,Diesel,Manual,77799,1,Bangalore,2.83
+220,Maruti Suzuki,Swift,2024,2,Petrol,Automatic,20330,1,Chennai,5.67
+221,Kia,Seltos,2017,9,CNG,Automatic,109882,2,Hyderabad,5.53
+222,Honda,City,2024,2,Diesel,Manual,41041,1,Hyderabad,9.14
+223,Toyota,Innova,2019,7,CNG,Manual,95436,1,Hyderabad,14.08
+224,Tata,Altroz,2017,9,Diesel,Manual,93289,1,Mumbai,1.1
+225,Maruti Suzuki,Dzire,2016,10,Diesel,Automatic,125305,3,Delhi,1.1
+226,Mahindra,Scorpio,2022,4,Petrol,Manual,54670,1,Bangalore,11.31
+227,Kia,Seltos,2018,8,Petrol,Manual,78284,1,Chennai,6.09
+228,Hyundai,Creta,2022,4,CNG,Manual,55682,1,Chennai,8.43
+229,Tata,Punch,2016,10,Petrol,Manual,122600,2,Chennai,1.1
+230,Tata,Altroz,2024,2,Petrol,Manual,30039,1,Chennai,6.16
+231,Honda,City,2022,4,Petrol,Automatic,48731,1,Bangalore,8.63
+232,Toyota,Fortuner,2019,7,Petrol,Automatic,91773,1,Delhi,26.16
+233,Mahindra,XUV300,2024,2,Petrol,Manual,14824,2,Bangalore,8.36
+234,Maruti Suzuki,Brezza,2025,1,Petrol,Manual,20690,1,Bangalore,6.1
+235,Maruti Suzuki,Baleno,2018,8,Petrol,Automatic,81566,2,Chennai,1.1
+236,Toyota,Innova,2022,4,Petrol,Automatic,24183,2,Chennai,17.04
+237,Mahindra,XUV300,2015,11,Petrol,Manual,117968,1,Delhi,1.1
+238,Tata,Harrier,2021,5,Petrol,Manual,46877,2,Mumbai,6.83
+239,Honda,WR-V,2025,1,Petrol,Manual,4669,1,Pune,7.13
+240,Maruti Suzuki,Baleno,2025,1,CNG,Manual,3500,2,Delhi,5.28
+241,Honda,WR-V,2020,6,Petrol,Manual,65797,1,Mumbai,4.33
+242,Toyota,Fortuner,2025,1,Diesel,Manual,3500,1,Delhi,32.92
+243,Tata,Altroz,2019,7,Petrol,Manual,80054,1,Chennai,1.5
+244,Honda,City,2021,5,Petrol,Manual,47737,2,Mumbai,6.38
+245,Kia,Sonet,2017,9,Diesel,Manual,104340,1,Hyderabad,3.2
+246,Toyota,Innova,2019,7,Petrol,Manual,93101,2,Bangalore,14.78
+247,Mahindra,Thar,2017,9,Petrol,Manual,87611,1,Pune,7.37
+248,Hyundai,Creta,2016,10,Petrol,Automatic,125449,2,Hyderabad,2.95
+249,Tata,Punch,2022,4,Petrol,Manual,60595,1,Pune,3.56
+250,Honda,City,2023,3,Petrol,Automatic,42057,1,Bangalore,8.43
+251,Kia,Seltos,2025,1,Electric,Manual,39617,1,Delhi,14.2
+252,Mahindra,XUV700,2016,10,Electric,Manual,89444,1,Delhi,10.22
+253,Toyota,Fortuner,2016,10,Petrol,Automatic,127411,1,Bangalore,23.4
+254,Mahindra,XUV700,2019,7,Diesel,Manual,107092,3,Bangalore,10.29
+255,Hyundai,Venue,2023,3,Petrol,Automatic,25104,2,Pune,6.42
+256,Tata,Punch,2024,2,Diesel,Manual,38950,1,Hyderabad,6.9
+257,Honda,Amaze,2024,2,Diesel,Automatic,24105,1,Chennai,8.23
+258,Kia,Carens,2020,6,Petrol,Manual,46537,1,Delhi,5.75
+259,Toyota,Glanza,2018,8,CNG,Automatic,80444,2,Pune,7.05
+260,Toyota,Fortuner,2022,4,Petrol,Manual,32363,1,Mumbai,27.95
+261,Tata,Harrier,2023,3,Petrol,Manual,32410,1,Pune,9.46
+262,Tata,Nexon,2018,8,Petrol,Manual,99868,1,Bangalore,1.36
+263,Hyundai,Venue,2022,4,Petrol,Manual,72588,1,Delhi,4.54
+264,Toyota,Fortuner,2020,6,Petrol,Manual,96248,1,Chennai,26.33
+265,Hyundai,Creta,2023,3,Petrol,Manual,63678,1,Bangalore,7.84
+266,Toyota,Fortuner,2018,8,Petrol,Manual,87385,1,Hyderabad,24.52
+267,Hyundai,Verna,2021,5,Petrol,Automatic,53296,1,Hyderabad,4.04
+268,Hyundai,Creta,2018,8,Petrol,Automatic,90963,3,Chennai,4.04
+269,Mahindra,Scorpio,2016,10,Petrol,Automatic,111056,2,Delhi,7.3
+270,Hyundai,i20,2024,2,Diesel,Manual,10200,3,Mumbai,6.18
+271,Kia,Seltos,2019,7,CNG,Manual,53044,1,Mumbai,6.95
+272,Honda,City,2025,1,Petrol,Manual,3500,2,Delhi,9.4
+273,Maruti Suzuki,Dzire,2023,3,Petrol,Manual,31041,1,Pune,3.78
+274,Hyundai,i20,2019,7,Diesel,Manual,85149,1,Pune,2.78
+275,Mahindra,XUV700,2021,5,CNG,Automatic,76223,1,Pune,12.68
+276,Honda,City,2017,9,Petrol,Manual,117688,1,Hyderabad,2.51
+277,Tata,Harrier,2021,5,Petrol,Manual,78337,1,Bangalore,6.31
+278,Kia,Carens,2015,11,Petrol,Manual,103854,3,Hyderabad,1.1
+279,Kia,Seltos,2017,9,Petrol,Manual,69182,1,Mumbai,5.41
+280,Hyundai,Verna,2020,6,Petrol,Automatic,50906,1,Chennai,3.69
+281,Kia,Sonet,2018,8,Petrol,Automatic,103296,2,Pune,2.9
+282,Mahindra,XUV300,2024,2,Petrol,Automatic,15530,1,Chennai,10.29
+283,Kia,Seltos,2019,7,Petrol,Manual,77264,3,Chennai,5.0
+284,Tata,Harrier,2024,2,Diesel,Automatic,35326,3,Chennai,8.55
+285,Maruti Suzuki,Brezza,2015,11,Diesel,Manual,108813,2,Hyderabad,1.1
+286,Hyundai,i20,2025,1,Petrol,Manual,21438,1,Hyderabad,6.17
+287,Honda,Amaze,2015,11,Petrol,Automatic,153314,1,Pune,1.1
+288,Kia,Carens,2022,4,Petrol,Manual,47971,2,Pune,7.15
+289,Hyundai,Venue,2022,4,Petrol,Manual,69944,1,Chennai,4.24
+290,Maruti Suzuki,Swift,2023,3,Petrol,Manual,26698,1,Delhi,4.15
+291,Tata,Altroz,2022,4,Petrol,Manual,28909,1,Bangalore,3.82
+292,Maruti Suzuki,Dzire,2016,10,Petrol,Manual,111379,1,Bangalore,1.1
+293,Tata,Altroz,2016,10,Petrol,Automatic,98749,2,Pune,1.1
+294,Kia,Seltos,2021,5,Petrol,Manual,63056,3,Pune,6.83
+295,Tata,Altroz,2023,3,Petrol,Manual,31492,3,Hyderabad,3.6
+296,Maruti Suzuki,Swift,2018,8,Electric,Manual,56371,2,Bangalore,2.85
+297,Maruti Suzuki,Brezza,2024,2,Petrol,Manual,3500,2,Chennai,5.05
+298,Mahindra,XUV700,2022,4,Petrol,Manual,47067,2,Pune,11.46
+299,Mahindra,XUV300,2018,8,CNG,Automatic,96703,2,Hyderabad,5.16
+300,Toyota,Fortuner,2015,11,Petrol,Automatic,126757,1,Hyderabad,23.33
+301,Tata,Nexon,2020,6,Electric,Manual,63679,1,Delhi,5.32
+302,Kia,Carens,2018,8,Petrol,Automatic,88190,3,Delhi,2.78
+303,Tata,Punch,2016,10,Diesel,Manual,128273,1,Bangalore,1.1
+304,Mahindra,XUV700,2015,11,Petrol,Manual,125646,1,Delhi,5.86
+305,Hyundai,Creta,2016,10,Petrol,Manual,132552,2,Delhi,1.88
+306,Toyota,Glanza,2018,8,Electric,Automatic,101384,2,Delhi,10.72
+307,Maruti Suzuki,Baleno,2022,4,Diesel,Manual,29360,1,Delhi,3.6
+308,Maruti Suzuki,Brezza,2019,7,Diesel,Manual,76789,3,Mumbai,1.1
+309,Maruti Suzuki,Baleno,2021,5,Petrol,Manual,49092,1,Hyderabad,2.05
+310,Mahindra,Scorpio,2024,2,Petrol,Automatic,8651,1,Hyderabad,12.7
+311,Tata,Nexon,2024,2,Petrol,Manual,41760,1,Pune,5.29
+312,Kia,Sonet,2024,2,Diesel,Automatic,3500,2,Mumbai,10.34
+313,Tata,Harrier,2025,1,Diesel,Manual,3500,1,Pune,11.32
+314,Kia,Carens,2023,3,Petrol,Automatic,48644,1,Delhi,9.34
+315,Maruti Suzuki,Dzire,2018,8,Diesel,Automatic,121992,1,Mumbai,1.84
+316,Tata,Altroz,2016,10,Diesel,Manual,104649,2,Delhi,1.1
+317,Hyundai,Venue,2016,10,Diesel,Automatic,113855,2,Hyderabad,1.1
+318,Mahindra,XUV300,2018,8,Petrol,Manual,111561,1,Pune,3.76
+319,Kia,Carens,2016,10,Petrol,Automatic,124884,1,Chennai,2.93
+320,Hyundai,i20,2025,1,Petrol,Automatic,3500,2,Delhi,7.77
+321,Tata,Harrier,2024,2,Diesel,Manual,11809,2,Delhi,8.61
+322,Toyota,Fortuner,2017,9,Petrol,Automatic,101631,1,Mumbai,24.86
+323,Kia,Sonet,2016,10,CNG,Manual,111033,1,Mumbai,2.48
+324,Honda,City,2022,4,Petrol,Manual,53861,1,Delhi,6.56
+325,Mahindra,XUV300,2021,5,Electric,Manual,75237,1,Delhi,9.57
+326,Kia,Seltos,2019,7,Petrol,Manual,81652,1,Pune,6.84
+327,Honda,Amaze,2025,1,Electric,Automatic,24245,1,Chennai,10.96
+328,Mahindra,XUV300,2015,11,Diesel,Manual,133024,1,Bangalore,3.12
+329,Honda,WR-V,2018,8,Petrol,Manual,88173,2,Hyderabad,2.65
+330,Maruti Suzuki,Baleno,2018,8,Petrol,Manual,118552,2,Pune,1.1
+331,Kia,Seltos,2015,11,Diesel,Manual,131219,2,Hyderabad,3.25
+332,Maruti Suzuki,Swift,2019,7,Diesel,Manual,85686,2,Bangalore,1.91
+333,Maruti Suzuki,Swift,2017,9,Petrol,Automatic,117432,2,Bangalore,1.1
+334,Hyundai,i20,2025,1,Petrol,Manual,3500,1,Mumbai,6.87
+335,Honda,City,2020,6,Electric,Manual,56655,1,Hyderabad,7.23
+336,Tata,Punch,2021,5,Petrol,Automatic,36752,1,Bangalore,5.34
+337,Hyundai,i20,2016,10,Petrol,Automatic,91297,2,Bangalore,1.32
+338,Hyundai,Creta,2020,6,Diesel,Automatic,69193,1,Bangalore,7.57
+339,Mahindra,XUV700,2018,8,CNG,Manual,90040,1,Chennai,9.41
+340,Tata,Altroz,2019,7,Petrol,Automatic,88563,2,Delhi,1.77
+341,Mahindra,Scorpio,2017,9,Petrol,Automatic,77096,2,Delhi,6.66
+342,Mahindra,Scorpio,2016,10,Electric,Automatic,112779,2,Delhi,9.16
+343,Hyundai,i20,2025,1,Petrol,Manual,25101,2,Chennai,6.4
+344,Toyota,Fortuner,2019,7,Petrol,Automatic,93615,1,Hyderabad,25.32
+345,Kia,Seltos,2016,10,CNG,Automatic,138224,2,Hyderabad,4.23
+346,Honda,Amaze,2019,7,Petrol,Manual,109068,1,Chennai,1.7
+347,Tata,Punch,2015,11,Diesel,Manual,135725,1,Chennai,1.1
+348,Kia,Sonet,2018,8,Diesel,Manual,97013,1,Bangalore,4.49
+349,Honda,City,2022,4,Petrol,Automatic,34411,2,Pune,7.37
+350,Hyundai,i20,2019,7,CNG,Automatic,75440,1,Chennai,4.11
+351,Maruti Suzuki,Dzire,2025,1,CNG,Manual,11419,1,Chennai,5.4
+352,Kia,Sonet,2020,6,Petrol,Manual,59500,1,Bangalore,4.84
+353,Hyundai,Venue,2015,11,Diesel,Manual,132838,1,Hyderabad,1.1
+354,Maruti Suzuki,Dzire,2018,8,Petrol,Manual,105779,2,Bangalore,1.1
+355,Maruti Suzuki,Swift,2015,11,Diesel,Manual,130819,3,Pune,1.1
+356,Kia,Seltos,2025,1,Petrol,Automatic,3500,2,Bangalore,12.29
+357,Maruti Suzuki,Brezza,2017,9,CNG,Manual,95689,2,Chennai,1.1
+358,Kia,Carens,2019,7,Diesel,Automatic,79062,2,Pune,5.91
+359,Maruti Suzuki,Baleno,2016,10,Petrol,Automatic,136565,1,Delhi,1.1
+360,Toyota,Fortuner,2015,11,Diesel,Manual,114593,1,Bangalore,23.37
+361,Mahindra,Scorpio,2016,10,Petrol,Automatic,86431,1,Delhi,5.95
+362,Toyota,Fortuner,2025,1,Diesel,Manual,3500,1,Delhi,30.56
+363,Mahindra,Thar,2018,8,Electric,Manual,118809,3,Mumbai,10.76
+364,Toyota,Fortuner,2022,4,Petrol,Manual,37639,1,Chennai,26.52
+365,Hyundai,i20,2018,8,Petrol,Manual,93655,2,Hyderabad,1.1
+366,Tata,Nexon,2022,4,Petrol,Manual,35929,1,Bangalore,4.31
+367,Tata,Altroz,2023,3,Petrol,Manual,31304,1,Mumbai,6.44
+368,Toyota,Fortuner,2015,11,Petrol,Manual,144298,1,Chennai,22.46
+369,Toyota,Fortuner,2021,5,Diesel,Automatic,85052,2,Delhi,28.23
+370,Kia,Sonet,2019,7,Petrol,Manual,48722,1,Pune,5.36
+371,Toyota,Fortuner,2017,9,Petrol,Manual,124354,1,Bangalore,24.12
+372,Mahindra,Scorpio,2021,5,Diesel,Manual,53482,2,Pune,9.37
+373,Mahindra,XUV300,2018,8,Petrol,Automatic,73861,1,Mumbai,5.32
+374,Honda,Amaze,2019,7,Diesel,Manual,97689,2,Pune,2.62
+375,Kia,Seltos,2019,7,CNG,Automatic,65741,1,Pune,9.15
+376,Hyundai,Venue,2024,2,Petrol,Automatic,57462,1,Mumbai,7.43
+377,Toyota,Glanza,2024,2,Petrol,Automatic,24552,1,Hyderabad,13.7
+378,Maruti Suzuki,Swift,2019,7,Petrol,Automatic,69161,1,Delhi,1.71
+379,Toyota,Innova,2025,1,Diesel,Automatic,6693,1,Chennai,22.1
+380,Honda,City,2017,9,Petrol,Manual,103530,1,Bangalore,2.71
+381,Toyota,Innova,2022,4,Diesel,Automatic,42776,2,Mumbai,18.47
+382,Maruti Suzuki,Brezza,2017,9,Petrol,Automatic,102401,1,Mumbai,1.1
+383,Toyota,Glanza,2025,1,Diesel,Manual,3500,1,Pune,13.49
+384,Honda,Amaze,2020,6,Electric,Automatic,39301,1,Delhi,8.57
+385,Tata,Harrier,2023,3,Petrol,Automatic,48810,1,Bangalore,9.84
+386,Mahindra,XUV700,2020,6,Diesel,Manual,59683,1,Delhi,12.32
+387,Kia,Seltos,2022,4,CNG,Automatic,49118,3,Chennai,9.32
+388,Kia,Seltos,2021,5,Diesel,Manual,37525,2,Chennai,9.3
+389,Kia,Seltos,2015,11,Petrol,Manual,128869,1,Delhi,5.01
+390,Honda,Amaze,2017,9,Petrol,Automatic,116387,2,Mumbai,2.17
+391,Maruti Suzuki,Brezza,2025,1,Petrol,Manual,47196,1,Delhi,6.22
+392,Toyota,Innova,2019,7,Diesel,Manual,76984,2,Mumbai,16.03
+393,Honda,City,2015,11,Diesel,Manual,126001,1,Bangalore,2.49
+394,Tata,Punch,2019,7,Petrol,Automatic,95175,1,Bangalore,2.81
+395,Honda,Amaze,2019,7,Petrol,Automatic,69777,1,Delhi,3.82
+396,Tata,Altroz,2016,10,Petrol,Manual,128669,1,Pune,1.1
+397,Hyundai,i20,2016,10,Petrol,Automatic,128105,1,Chennai,1.1
+398,Hyundai,i20,2019,7,Petrol,Manual,65250,1,Bangalore,2.76
+399,Maruti Suzuki,Swift,2017,9,Petrol,Automatic,82446,1,Hyderabad,1.63
+400,Toyota,Glanza,2024,2,Diesel,Manual,23052,2,Hyderabad,12.11
+401,Maruti Suzuki,Brezza,2023,3,Petrol,Manual,18314,2,Chennai,3.62
+402,Mahindra,XUV300,2018,8,Petrol,Manual,71319,1,Chennai,4.11
+403,Tata,Nexon,2015,11,Petrol,Manual,109213,1,Hyderabad,1.1
+404,Tata,Harrier,2025,1,Diesel,Manual,5869,1,Bangalore,11.35
+405,Hyundai,Creta,2022,4,Diesel,Manual,18916,1,Mumbai,8.67
+406,Tata,Punch,2021,5,Diesel,Manual,62738,1,Bangalore,4.65
+407,Kia,Sonet,2023,3,Petrol,Manual,29883,2,Bangalore,6.62
+408,Tata,Punch,2019,7,Petrol,Manual,101972,1,Mumbai,1.64
+409,Kia,Sonet,2015,11,Petrol,Manual,125772,1,Pune,1.26
+410,Kia,Seltos,2022,4,CNG,Manual,13009,1,Mumbai,10.3
+411,Kia,Carens,2017,9,Electric,Automatic,114205,1,Pune,5.58
+412,Toyota,Glanza,2021,5,Petrol,Manual,60580,2,Bangalore,8.7
+413,Tata,Punch,2020,6,Petrol,Manual,97451,2,Delhi,2.48
+414,Maruti Suzuki,Brezza,2018,8,Diesel,Manual,95238,1,Bangalore,1.1
+415,Hyundai,i20,2022,4,CNG,Automatic,22926,1,Delhi,5.2
+416,Kia,Carens,2022,4,CNG,Manual,36205,1,Chennai,6.09
+417,Toyota,Glanza,2023,3,Petrol,Manual,40843,1,Mumbai,11.13
+418,Maruti Suzuki,Dzire,2015,11,CNG,Manual,104467,1,Chennai,1.1
+419,Hyundai,Venue,2021,5,Petrol,Manual,61898,2,Chennai,2.05
+420,Hyundai,Verna,2017,9,Petrol,Manual,80422,2,Delhi,1.1
+421,Tata,Punch,2020,6,Petrol,Automatic,57829,1,Bangalore,3.57
+422,Honda,City,2022,4,Petrol,Manual,55662,1,Delhi,7.07
+423,Kia,Sonet,2019,7,Petrol,Automatic,98833,1,Pune,5.14
+424,Hyundai,Creta,2025,1,Petrol,Manual,6931,1,Bangalore,9.65
+425,Tata,Harrier,2018,8,Diesel,Manual,89012,3,Bangalore,4.22
+426,Maruti Suzuki,Dzire,2025,1,Electric,Manual,10215,1,Delhi,9.03
+427,Tata,Harrier,2021,5,Petrol,Automatic,66422,2,Mumbai,7.97
+428,Toyota,Glanza,2017,9,Petrol,Automatic,106770,2,Chennai,7.21
+429,Tata,Nexon,2016,10,Petrol,Manual,134115,1,Chennai,1.1
+430,Maruti Suzuki,Brezza,2025,1,Petrol,Manual,3500,1,Chennai,5.84
+431,Maruti Suzuki,Baleno,2020,6,Diesel,Automatic,56724,1,Bangalore,4.71
+432,Kia,Carens,2019,7,Petrol,Manual,69794,1,Bangalore,4.44
+433,Honda,Amaze,2016,10,Electric,Manual,126969,1,Mumbai,2.2
+434,Hyundai,i20,2022,4,Petrol,Automatic,34545,1,Chennai,5.77
+435,Honda,WR-V,2021,5,CNG,Manual,63765,2,Delhi,3.48
+436,Maruti Suzuki,Dzire,2021,5,Petrol,Manual,54808,1,Hyderabad,2.92
+437,Hyundai,Venue,2018,8,Petrol,Manual,105378,1,Bangalore,1.69
+438,Maruti Suzuki,Dzire,2015,11,Diesel,Manual,141770,1,Bangalore,1.1
+439,Maruti Suzuki,Dzire,2020,6,Petrol,Automatic,69562,2,Pune,1.1
+440,Mahindra,XUV300,2023,3,Petrol,Manual,44960,2,Hyderabad,7.33
+441,Honda,Amaze,2018,8,Petrol,Automatic,88915,1,Mumbai,3.74
+442,Mahindra,XUV300,2020,6,Petrol,Automatic,47451,1,Bangalore,8.12
+443,Hyundai,i20,2019,7,Petrol,Automatic,88221,1,Pune,3.41
+444,Mahindra,XUV700,2025,1,Petrol,Automatic,4486,1,Pune,15.57
+445,Kia,Carens,2021,5,Diesel,Manual,41013,2,Bangalore,5.78
+446,Mahindra,Scorpio,2016,10,Petrol,Manual,144073,2,Chennai,4.59
+447,Tata,Nexon,2025,1,Petrol,Manual,21011,1,Hyderabad,6.93
+448,Toyota,Fortuner,2025,1,Petrol,Manual,15405,1,Chennai,31.2
+449,Maruti Suzuki,Swift,2017,9,Diesel,Manual,108296,2,Pune,1.1
+450,Honda,WR-V,2021,5,Petrol,Manual,52294,1,Mumbai,5.37
+451,Hyundai,Creta,2024,2,Petrol,Manual,27816,1,Delhi,9.11
+452,Kia,Seltos,2022,4,Petrol,Automatic,71197,1,Bangalore,9.6
+453,Mahindra,XUV300,2015,11,Petrol,Automatic,101256,1,Mumbai,4.27
+454,Kia,Seltos,2019,7,Petrol,Automatic,103142,2,Hyderabad,7.2
+455,Mahindra,Thar,2016,10,Petrol,Automatic,116741,2,Hyderabad,6.18
+456,Kia,Carens,2018,8,Petrol,Manual,88254,1,Hyderabad,3.39
+457,Hyundai,i20,2025,1,CNG,Automatic,3500,1,Mumbai,8.7
+458,Toyota,Fortuner,2025,1,Diesel,Manual,13591,1,Mumbai,30.86
+459,Hyundai,Venue,2023,3,Electric,Manual,38785,1,Mumbai,8.36
+460,Honda,City,2017,9,Electric,Automatic,132566,1,Chennai,5.97
+461,Hyundai,Venue,2019,7,Diesel,Manual,76193,3,Mumbai,1.77
+462,Hyundai,Venue,2018,8,CNG,Manual,67473,2,Hyderabad,1.1
+463,Kia,Sonet,2025,1,Diesel,Manual,21725,1,Chennai,10.53
+464,Kia,Carens,2016,10,Diesel,Manual,113840,2,Mumbai,2.42
+465,Toyota,Fortuner,2025,1,Petrol,Manual,27113,2,Mumbai,30.19
+466,Tata,Punch,2019,7,CNG,Manual,72758,1,Hyderabad,2.4
+467,Hyundai,i20,2022,4,Electric,Automatic,62200,1,Chennai,8.07
+468,Hyundai,Verna,2015,11,Petrol,Automatic,150455,1,Chennai,1.1
+469,Kia,Sonet,2016,10,CNG,Manual,114798,1,Hyderabad,2.71
+470,Tata,Punch,2019,7,Diesel,Manual,77695,1,Chennai,1.79
+471,Honda,WR-V,2022,4,Petrol,Manual,51941,2,Bangalore,5.31
+472,Kia,Seltos,2017,9,Diesel,Automatic,125765,1,Hyderabad,6.95
+473,Honda,City,2020,6,Petrol,Manual,80769,1,Bangalore,5.52
+474,Kia,Seltos,2022,4,Petrol,Manual,53090,2,Pune,8.04
+475,Kia,Sonet,2016,10,Electric,Automatic,119430,1,Hyderabad,5.6
+476,Maruti Suzuki,Dzire,2023,3,Petrol,Automatic,43754,1,Delhi,4.24
+477,Toyota,Innova,2019,7,Petrol,Manual,96735,1,Delhi,14.72
+478,Maruti Suzuki,Brezza,2023,3,Petrol,Automatic,35961,1,Delhi,5.53
+479,Hyundai,i20,2015,11,Petrol,Manual,137290,1,Mumbai,1.1
+480,Kia,Seltos,2018,8,Petrol,Automatic,83923,1,Hyderabad,8.07
+481,Honda,Amaze,2015,11,Petrol,Manual,123528,1,Mumbai,1.1
+482,Hyundai,Verna,2020,6,Electric,Automatic,49880,1,Chennai,6.59
+483,Tata,Altroz,2019,7,Diesel,Manual,81158,1,Delhi,2.32
+484,Maruti Suzuki,Brezza,2023,3,CNG,Manual,39286,1,Delhi,3.69
+485,Mahindra,XUV700,2022,4,Petrol,Manual,43347,1,Mumbai,12.96
+486,Mahindra,Thar,2015,11,Diesel,Manual,146395,3,Delhi,5.97
+487,Toyota,Fortuner,2015,11,Diesel,Automatic,125285,1,Delhi,24.08
+488,Maruti Suzuki,Dzire,2015,11,Electric,Manual,144076,1,Bangalore,1.1
+489,Toyota,Fortuner,2021,5,Petrol,Automatic,35415,2,Delhi,26.81
+490,Tata,Harrier,2017,9,Petrol,Manual,123693,1,Delhi,2.3
+491,Maruti Suzuki,Brezza,2023,3,Electric,Automatic,57662,1,Hyderabad,8.0
+492,Tata,Altroz,2023,3,Petrol,Automatic,23488,1,Chennai,5.45
+493,Honda,Amaze,2023,3,Petrol,Automatic,29397,1,Hyderabad,6.91
+494,Tata,Harrier,2018,8,Diesel,Manual,83421,1,Hyderabad,4.46
+495,Maruti Suzuki,Dzire,2024,2,Petrol,Automatic,32939,1,Hyderabad,6.45
+496,Kia,Carens,2020,6,Petrol,Manual,57067,1,Mumbai,4.95
+497,Mahindra,Scorpio,2023,3,Petrol,Automatic,3500,1,Pune,11.87
+498,Mahindra,Thar,2016,10,Diesel,Manual,115422,1,Mumbai,8.54
+499,Hyundai,Verna,2018,8,Diesel,Automatic,108288,1,Mumbai,2.3
+500,Tata,Altroz,2016,10,Petrol,Automatic,100716,2,Mumbai,1.29
+501,Kia,Seltos,2017,9,Diesel,Manual,95484,1,Delhi,5.58
+502,Mahindra,Thar,2020,6,Petrol,Automatic,82621,1,Hyderabad,12.04
+503,Hyundai,i20,2023,3,Petrol,Automatic,31318,2,Delhi,5.69
+504,Kia,Seltos,2017,9,CNG,Manual,111603,3,Delhi,3.01
+505,Maruti Suzuki,Brezza,2022,4,Petrol,Manual,27661,1,Pune,4.26
+506,Kia,Seltos,2015,11,Petrol,Manual,113761,2,Chennai,2.41
+507,Maruti Suzuki,Swift,2024,2,Petrol,Automatic,18091,1,Bangalore,5.37
+508,Toyota,Fortuner,2018,8,Petrol,Manual,119859,1,Chennai,24.01
+509,Mahindra,Thar,2025,1,Diesel,Manual,49356,1,Pune,15.51
+510,Hyundai,Creta,2019,7,Petrol,Manual,86937,1,Mumbai,5.94
+511,Maruti Suzuki,Baleno,2018,8,Petrol,Automatic,120188,2,Delhi,1.1
+512,Maruti Suzuki,Brezza,2019,7,Petrol,Manual,89774,1,Chennai,1.1
+513,Kia,Sonet,2022,4,Petrol,Manual,47573,1,Hyderabad,6.79
+514,Maruti Suzuki,Swift,2018,8,Petrol,Manual,108658,1,Chennai,1.1
+515,Honda,Amaze,2019,7,Diesel,Manual,68609,1,Hyderabad,4.19
+516,Mahindra,Thar,2016,10,Diesel,Automatic,121523,1,Hyderabad,9.72
+517,Kia,Carens,2017,9,Diesel,Manual,97374,1,Hyderabad,3.34
+518,Tata,Nexon,2022,4,Electric,Manual,65672,2,Mumbai,7.57
+519,Toyota,Fortuner,2021,5,Petrol,Manual,35566,1,Mumbai,27.35
+520,Honda,City,2015,11,Petrol,Manual,142649,2,Mumbai,1.1
+521,Honda,WR-V,2025,1,Electric,Manual,3500,1,Hyderabad,10.08
+522,Mahindra,XUV700,2022,4,Diesel,Manual,46631,1,Mumbai,13.22
+523,Mahindra,Scorpio,2017,9,Petrol,Automatic,111619,1,Delhi,7.33
+524,Maruti Suzuki,Swift,2018,8,Diesel,Manual,85815,1,Hyderabad,1.1
+525,Honda,City,2023,3,Diesel,Manual,28921,2,Pune,7.99
+526,Toyota,Innova,2020,6,Electric,Manual,93761,1,Bangalore,18.86
+527,Honda,City,2023,3,Petrol,Manual,32315,3,Mumbai,7.05
+528,Mahindra,XUV700,2020,6,CNG,Automatic,70466,1,Chennai,12.96
+529,Honda,Amaze,2015,11,Petrol,Manual,136230,1,Hyderabad,1.1
+530,Mahindra,Thar,2017,9,Diesel,Automatic,88987,1,Hyderabad,9.65
+531,Tata,Nexon,2016,10,Diesel,Manual,129906,2,Bangalore,1.1
+532,Maruti Suzuki,Dzire,2020,6,Diesel,Manual,67024,2,Delhi,1.56
+533,Mahindra,Thar,2018,8,Petrol,Automatic,129930,2,Mumbai,8.71
+534,Hyundai,i20,2022,4,Petrol,Automatic,62510,1,Bangalore,5.11
+535,Mahindra,XUV700,2015,11,Petrol,Manual,136774,2,Bangalore,5.67
+536,Toyota,Innova,2017,9,Petrol,Manual,104350,2,Delhi,12.69
+537,Tata,Altroz,2016,10,Petrol,Manual,109732,1,Mumbai,1.1
+538,Hyundai,Creta,2016,10,Diesel,Manual,98279,1,Delhi,3.87
+539,Kia,Seltos,2016,10,Diesel,Manual,107740,2,Pune,5.37
+540,Honda,WR-V,2019,7,Petrol,Automatic,74002,1,Pune,5.0
+541,Hyundai,Verna,2021,5,Petrol,Manual,60801,2,Hyderabad,2.9
+542,Tata,Punch,2025,1,Diesel,Manual,27738,1,Chennai,6.75
+543,Hyundai,Venue,2021,5,Petrol,Manual,43893,2,Delhi,3.8
+544,Kia,Carens,2016,10,Diesel,Automatic,97933,1,Bangalore,5.46
+545,Honda,WR-V,2018,8,Petrol,Automatic,101410,2,Mumbai,2.44
+546,Hyundai,i20,2022,4,Petrol,Manual,60937,1,Hyderabad,4.15
+547,Hyundai,Verna,2021,5,Petrol,Manual,56725,1,Bangalore,4.03
+548,Tata,Nexon,2025,1,Diesel,Manual,3500,1,Delhi,8.82
+549,Kia,Carens,2016,10,Diesel,Manual,112638,3,Pune,1.1
+550,Kia,Carens,2019,7,Petrol,Manual,71139,1,Chennai,3.5
+551,Tata,Altroz,2025,1,Electric,Manual,4031,1,Hyderabad,9.16
+552,Toyota,Glanza,2025,1,Petrol,Manual,38085,3,Chennai,10.79
+553,Tata,Punch,2023,3,Diesel,Manual,11117,1,Mumbai,6.45
+554,Hyundai,Venue,2017,9,Petrol,Manual,132901,1,Pune,1.1
+555,Toyota,Glanza,2019,7,Petrol,Automatic,72247,1,Chennai,9.9
+556,Tata,Nexon,2020,6,Petrol,Manual,71443,1,Pune,3.06
+557,Hyundai,Creta,2023,3,Electric,Manual,31790,1,Delhi,10.69
+558,Mahindra,Scorpio,2025,1,Petrol,Manual,17701,2,Mumbai,12.75
+559,Maruti Suzuki,Brezza,2015,11,CNG,Automatic,86075,1,Delhi,1.1
+560,Toyota,Glanza,2019,7,Diesel,Automatic,60736,1,Bangalore,9.38
+561,Tata,Altroz,2022,4,CNG,Manual,23313,1,Delhi,4.47
+562,Toyota,Fortuner,2019,7,Petrol,Manual,86713,1,Chennai,24.81
+563,Kia,Seltos,2016,10,Petrol,Automatic,136716,1,Pune,5.25
+564,Toyota,Glanza,2021,5,Petrol,Automatic,47516,2,Hyderabad,10.32
+565,Toyota,Glanza,2016,10,Petrol,Manual,104692,1,Delhi,5.13
+566,Tata,Harrier,2022,4,Petrol,Manual,64469,1,Mumbai,7.73
+567,Honda,WR-V,2022,4,Petrol,Manual,40730,1,Chennai,4.6
+568,Mahindra,XUV300,2020,6,Petrol,Manual,75291,1,Chennai,5.77
+569,Mahindra,Thar,2019,7,Petrol,Automatic,68474,1,Pune,9.93
+570,Maruti Suzuki,Baleno,2020,6,Diesel,Automatic,75817,3,Pune,1.29
+571,Maruti Suzuki,Swift,2017,9,Petrol,Automatic,104031,1,Pune,1.1
+572,Toyota,Innova,2023,3,Diesel,Automatic,45586,1,Pune,20.92
+573,Toyota,Glanza,2015,11,CNG,Manual,141019,1,Pune,5.41
+574,Tata,Punch,2025,1,Petrol,Automatic,3500,1,Hyderabad,8.17
+575,Tata,Nexon,2017,9,Diesel,Manual,98170,1,Mumbai,2.84
+576,Toyota,Fortuner,2017,9,Petrol,Manual,109401,1,Delhi,23.78
+577,Toyota,Fortuner,2018,8,Petrol,Manual,112951,1,Chennai,23.08
+578,Mahindra,XUV300,2017,9,Petrol,Automatic,98426,2,Bangalore,3.79
+579,Tata,Punch,2025,1,Diesel,Manual,14662,2,Bangalore,6.15
+580,Hyundai,Verna,2024,2,Diesel,Manual,45882,1,Bangalore,8.02
+581,Mahindra,Thar,2015,11,Petrol,Manual,141857,1,Chennai,5.74
+582,Hyundai,Venue,2019,7,Petrol,Automatic,74580,1,Mumbai,3.67
+583,Tata,Punch,2025,1,Electric,Manual,24284,1,Pune,9.7
+584,Mahindra,XUV700,2018,8,Petrol,Manual,108294,1,Bangalore,8.56
+585,Toyota,Innova,2020,6,Electric,Manual,67904,1,Mumbai,20.32
+586,Hyundai,Venue,2021,5,Petrol,Automatic,57018,1,Delhi,5.05
+587,Kia,Seltos,2022,4,Petrol,Automatic,45111,1,Hyderabad,10.49
+588,Maruti Suzuki,Dzire,2020,6,Petrol,Automatic,71773,1,Pune,2.34
+589,Toyota,Innova,2017,9,Diesel,Manual,94322,1,Delhi,15.05
+590,Hyundai,i20,2015,11,Petrol,Automatic,80150,2,Delhi,1.1
+591,Maruti Suzuki,Baleno,2019,7,Diesel,Manual,54882,1,Mumbai,2.52
+592,Kia,Carens,2018,8,CNG,Manual,68247,1,Chennai,2.49
+593,Honda,Amaze,2016,10,Petrol,Manual,112738,2,Pune,1.1
+594,Toyota,Glanza,2024,2,Electric,Manual,18872,2,Bangalore,13.83
+595,Tata,Punch,2018,8,Petrol,Automatic,53598,1,Delhi,2.93
+596,Toyota,Glanza,2022,4,Electric,Manual,35570,1,Bangalore,13.21
+597,Maruti Suzuki,Swift,2016,10,Diesel,Automatic,116708,1,Bangalore,1.38
+598,Hyundai,Venue,2019,7,Electric,Manual,85658,1,Bangalore,6.96
+599,Mahindra,XUV300,2022,4,Petrol,Manual,63955,2,Bangalore,6.05
+600,Kia,Carens,2015,11,Petrol,Automatic,133516,1,Delhi,1.47
+601,Maruti Suzuki,Brezza,2016,10,Petrol,Manual,125463,1,Hyderabad,1.1
+602,Hyundai,Creta,2017,9,Petrol,Manual,92935,1,Mumbai,3.01
+603,Toyota,Glanza,2025,1,Petrol,Manual,3500,1,Mumbai,13.98
+604,Mahindra,Thar,2023,3,Diesel,Automatic,33837,3,Pune,13.99
+605,Hyundai,i20,2024,2,Electric,Manual,25832,2,Hyderabad,8.65
+606,Maruti Suzuki,Swift,2024,2,Petrol,Manual,9219,3,Bangalore,4.33
+607,Mahindra,Thar,2024,2,Diesel,Manual,15891,1,Hyderabad,12.86
+608,Maruti Suzuki,Dzire,2019,7,Diesel,Automatic,72512,1,Bangalore,3.93
+609,Honda,City,2020,6,Petrol,Automatic,53885,3,Hyderabad,5.74
+610,Kia,Sonet,2018,8,Petrol,Manual,91960,2,Bangalore,3.31
+611,Maruti Suzuki,Dzire,2017,9,Diesel,Manual,124448,1,Mumbai,1.1
+612,Kia,Sonet,2016,10,Diesel,Manual,164052,1,Chennai,1.75
+613,Honda,City,2019,7,Petrol,Automatic,58403,1,Chennai,5.76
+614,Kia,Carens,2018,8,Petrol,Automatic,110403,1,Hyderabad,2.42
+615,Hyundai,Verna,2019,7,Diesel,Automatic,83904,1,Chennai,3.08
+616,Toyota,Fortuner,2025,1,Diesel,Automatic,24539,1,Bangalore,31.11
+617,Maruti Suzuki,Brezza,2022,4,Diesel,Manual,53159,1,Pune,4.1
+618,Toyota,Glanza,2017,9,Petrol,Automatic,108076,2,Mumbai,6.68
+619,Mahindra,Scorpio,2021,5,Petrol,Manual,50630,3,Chennai,8.91
+620,Kia,Sonet,2019,7,CNG,Manual,79874,1,Delhi,3.88
+621,Tata,Harrier,2025,1,Diesel,Manual,20332,2,Chennai,9.8
+622,Mahindra,XUV700,2015,11,Petrol,Automatic,124792,1,Hyderabad,8.02
+623,Honda,City,2015,11,CNG,Manual,131883,1,Chennai,1.67
+624,Toyota,Glanza,2025,1,Diesel,Manual,10539,3,Hyderabad,12.08
+625,Maruti Suzuki,Brezza,2022,4,Electric,Automatic,81482,1,Chennai,7.23
+626,Maruti Suzuki,Baleno,2015,11,Petrol,Automatic,132119,1,Hyderabad,1.1
+627,Toyota,Innova,2018,8,Petrol,Automatic,111978,1,Chennai,13.92
+628,Toyota,Innova,2020,6,CNG,Manual,57920,2,Chennai,14.57
+629,Kia,Sonet,2022,4,Petrol,Automatic,32207,1,Hyderabad,7.46
+630,Mahindra,Scorpio,2020,6,CNG,Automatic,68594,1,Mumbai,11.05
+631,Kia,Sonet,2020,6,Petrol,Automatic,76854,1,Delhi,5.99
+632,Tata,Altroz,2022,4,Petrol,Manual,51943,2,Delhi,3.13
+633,Kia,Carens,2017,9,Petrol,Automatic,96653,2,Pune,3.16
+634,Hyundai,Venue,2016,10,Diesel,Automatic,126174,1,Mumbai,1.85
+635,Kia,Seltos,2017,9,Petrol,Manual,103544,1,Hyderabad,5.32
+636,Hyundai,Verna,2016,10,Electric,Automatic,107389,2,Pune,2.79
+637,Honda,City,2022,4,Petrol,Automatic,51004,2,Pune,7.48
+638,Maruti Suzuki,Baleno,2022,4,Petrol,Manual,10249,2,Bangalore,1.95
+639,Honda,City,2017,9,Petrol,Manual,97590,1,Chennai,3.2
+640,Mahindra,Thar,2015,11,Petrol,Manual,124623,1,Hyderabad,6.36
+641,Honda,City,2018,8,Petrol,Manual,110154,2,Delhi,3.54
+642,Honda,Amaze,2019,7,Diesel,Automatic,105005,1,Delhi,4.89
+643,Hyundai,Venue,2017,9,Petrol,Automatic,100277,3,Mumbai,1.1
+644,Toyota,Glanza,2017,9,Petrol,Manual,106873,1,Chennai,6.86
+645,Maruti Suzuki,Brezza,2025,1,Petrol,Manual,8779,1,Chennai,5.08
+646,Hyundai,Verna,2019,7,CNG,Manual,82068,2,Pune,2.57
+647,Hyundai,Verna,2025,1,Diesel,Manual,22733,1,Chennai,8.03
+648,Kia,Sonet,2024,2,Diesel,Manual,3500,1,Hyderabad,9.67
+649,Kia,Carens,2016,10,CNG,Manual,110592,1,Bangalore,1.75
+650,Tata,Altroz,2024,2,Petrol,Manual,19949,1,Bangalore,6.85
+651,Mahindra,Thar,2019,7,Petrol,Manual,88336,3,Mumbai,8.34
+652,Tata,Harrier,2019,7,Petrol,Manual,79040,2,Pune,3.19
+653,Honda,WR-V,2016,10,Petrol,Manual,150076,1,Mumbai,1.1
+654,Tata,Nexon,2021,5,Petrol,Manual,24269,2,Mumbai,2.58
+655,Hyundai,Verna,2020,6,Diesel,Automatic,71672,2,Mumbai,4.18
+656,Hyundai,i20,2022,4,Petrol,Manual,65182,1,Bangalore,4.11
+657,Tata,Harrier,2021,5,Electric,Automatic,23445,1,Delhi,11.19
+658,Maruti Suzuki,Dzire,2017,9,Diesel,Manual,111578,1,Delhi,1.1
+659,Honda,WR-V,2017,9,Electric,Automatic,110081,2,Hyderabad,2.73
+660,Mahindra,Scorpio,2018,8,Diesel,Automatic,105395,2,Chennai,7.24
+661,Toyota,Glanza,2015,11,Petrol,Manual,94478,2,Chennai,4.46
+662,Hyundai,Venue,2015,11,Petrol,Automatic,133067,1,Pune,1.1
+663,Maruti Suzuki,Baleno,2021,5,Petrol,Automatic,46764,2,Hyderabad,1.43
+664,Kia,Sonet,2020,6,Diesel,Manual,57493,2,Pune,7.05
+665,Honda,Amaze,2020,6,CNG,Manual,109159,1,Chennai,2.69
+666,Honda,City,2018,8,Diesel,Automatic,100413,1,Chennai,5.77
+667,Tata,Harrier,2017,9,Petrol,Automatic,112839,1,Mumbai,4.97
+668,Toyota,Innova,2015,11,Petrol,Manual,112463,2,Mumbai,11.73
+669,Maruti Suzuki,Dzire,2020,6,Petrol,Automatic,81548,1,Delhi,3.04
+670,Kia,Seltos,2017,9,Petrol,Manual,113125,1,Hyderabad,4.8
+671,Kia,Seltos,2020,6,Petrol,Automatic,80094,2,Mumbai,8.93
+672,Kia,Seltos,2025,1,Diesel,Automatic,11719,1,Delhi,13.65
+673,Kia,Sonet,2015,11,Petrol,Automatic,136953,1,Chennai,1.1
+674,Honda,Amaze,2015,11,Petrol,Manual,114118,1,Delhi,1.1
+675,Maruti Suzuki,Brezza,2020,6,Petrol,Automatic,79815,1,Chennai,2.58
+676,Honda,City,2021,5,Diesel,Automatic,54512,1,Delhi,7.22
+677,Hyundai,Verna,2018,8,Petrol,Manual,112805,1,Mumbai,1.14
+678,Tata,Altroz,2017,9,Petrol,Manual,80092,1,Pune,1.1
+679,Kia,Seltos,2016,10,Petrol,Manual,107862,1,Chennai,4.52
+680,Honda,Amaze,2024,2,Diesel,Manual,3500,1,Pune,8.2
+681,Maruti Suzuki,Swift,2024,2,CNG,Automatic,28223,1,Delhi,5.56
+682,Tata,Harrier,2018,8,Diesel,Automatic,81767,2,Hyderabad,4.99
+683,Maruti Suzuki,Swift,2025,1,Petrol,Manual,3959,2,Delhi,5.42
+684,Hyundai,Venue,2025,1,Electric,Automatic,35280,1,Chennai,9.64
+685,Honda,Amaze,2017,9,Petrol,Manual,106791,1,Bangalore,2.51
+686,Toyota,Glanza,2021,5,Diesel,Automatic,47011,2,Mumbai,11.91
+687,Honda,Amaze,2019,7,CNG,Manual,84468,2,Mumbai,2.49
+688,Honda,City,2020,6,Diesel,Manual,69505,2,Delhi,5.59
+689,Kia,Sonet,2021,5,Diesel,Automatic,25909,1,Pune,7.52
+690,Tata,Harrier,2023,3,Diesel,Manual,47301,1,Pune,9.12
+691,Maruti Suzuki,Brezza,2019,7,Petrol,Automatic,65289,1,Hyderabad,1.1
+692,Hyundai,Venue,2024,2,Diesel,Manual,47384,1,Bangalore,7.77
+693,Toyota,Glanza,2022,4,Petrol,Automatic,50416,1,Hyderabad,10.55
+694,Mahindra,XUV700,2023,3,Petrol,Manual,44567,1,Hyderabad,14.51
+695,Mahindra,Scorpio,2025,1,Petrol,Manual,24356,1,Pune,14.02
+696,Kia,Carens,2018,8,Diesel,Manual,94340,1,Pune,5.24
+697,Hyundai,i20,2017,9,Diesel,Automatic,131463,2,Chennai,1.81
+698,Toyota,Innova,2017,9,Petrol,Manual,97143,2,Bangalore,12.8
+699,Honda,City,2018,8,Petrol,Automatic,109866,1,Delhi,4.31
+700,Honda,City,2022,4,CNG,Automatic,57742,1,Mumbai,8.52
+701,Hyundai,Verna,2024,2,Petrol,Automatic,3500,1,Delhi,8.1
+702,Mahindra,Scorpio,2022,4,Petrol,Automatic,43745,2,Hyderabad,9.75
+703,Hyundai,i20,2025,1,CNG,Manual,23706,1,Bangalore,6.73
+704,Tata,Nexon,2015,11,Diesel,Manual,122925,1,Bangalore,1.1
+705,Kia,Seltos,2023,3,Diesel,Manual,24239,2,Hyderabad,10.45
+706,Honda,WR-V,2020,6,Petrol,Automatic,62813,2,Chennai,3.92
+707,Toyota,Fortuner,2016,10,CNG,Automatic,119513,1,Chennai,24.21
+708,Honda,Amaze,2020,6,Diesel,Manual,79390,2,Delhi,3.5
+709,Mahindra,XUV700,2022,4,Diesel,Automatic,51738,2,Hyderabad,11.85
+710,Toyota,Glanza,2018,8,Petrol,Manual,92636,2,Bangalore,5.86
+711,Toyota,Innova,2023,3,Petrol,Automatic,42073,1,Delhi,19.43
+712,Mahindra,XUV700,2022,4,Petrol,Automatic,38283,1,Mumbai,12.5
+713,Kia,Carens,2020,6,Petrol,Automatic,88850,1,Chennai,6.18
+714,Tata,Nexon,2018,8,Electric,Automatic,112921,1,Bangalore,4.6
+715,Hyundai,Verna,2025,1,Petrol,Manual,19460,1,Hyderabad,7.19
+716,Mahindra,Scorpio,2023,3,Diesel,Automatic,46183,1,Bangalore,15.18
+717,Tata,Harrier,2023,3,CNG,Automatic,41870,1,Mumbai,9.9
+718,Hyundai,Verna,2022,4,Petrol,Manual,47746,2,Pune,3.5
+719,Hyundai,i20,2016,10,Petrol,Manual,99938,1,Bangalore,1.1
+720,Mahindra,XUV300,2016,10,Diesel,Manual,82971,1,Mumbai,4.8
+721,Tata,Altroz,2021,5,Petrol,Manual,34885,3,Chennai,1.1
+722,Kia,Seltos,2024,2,Diesel,Manual,7737,3,Bangalore,10.58
+723,Tata,Punch,2017,9,Electric,Manual,101307,2,Hyderabad,2.81
+724,Hyundai,Creta,2020,6,Petrol,Manual,58851,1,Hyderabad,5.74
+725,Maruti Suzuki,Brezza,2018,8,CNG,Manual,101411,2,Bangalore,1.1
+726,Maruti Suzuki,Dzire,2022,4,Electric,Automatic,47895,1,Bangalore,6.3
+727,Mahindra,XUV700,2016,10,CNG,Manual,90794,1,Pune,8.19
+728,Maruti Suzuki,Dzire,2025,1,Petrol,Manual,21143,1,Mumbai,6.18
+729,Tata,Punch,2024,2,Diesel,Automatic,15770,2,Bangalore,8.05
+730,Toyota,Glanza,2017,9,Petrol,Manual,84196,3,Bangalore,5.9
+731,Toyota,Innova,2016,10,Petrol,Manual,110539,1,Bangalore,13.59
+732,Hyundai,Venue,2020,6,Diesel,Manual,88848,1,Hyderabad,3.04
+733,Hyundai,Verna,2021,5,Diesel,Manual,58122,1,Chennai,4.48
+734,Tata,Harrier,2021,5,Petrol,Manual,55910,1,Bangalore,6.17
+735,Hyundai,Venue,2024,2,Petrol,Automatic,3500,1,Chennai,6.25
+736,Maruti Suzuki,Swift,2016,10,Diesel,Manual,136986,1,Hyderabad,1.1
+737,Kia,Carens,2016,10,Petrol,Automatic,88138,2,Chennai,1.87
+738,Mahindra,Scorpio,2015,11,Petrol,Automatic,133985,1,Pune,5.97
+739,Tata,Altroz,2015,11,Diesel,Manual,121815,2,Bangalore,1.1
+740,Toyota,Innova,2025,1,Electric,Manual,6991,1,Mumbai,22.65
+741,Hyundai,i20,2025,1,CNG,Automatic,8203,1,Delhi,8.57
+742,Maruti Suzuki,Brezza,2025,1,Petrol,Manual,3500,1,Bangalore,5.93
+743,Tata,Nexon,2018,8,Diesel,Manual,101051,1,Hyderabad,2.02
+744,Tata,Altroz,2018,8,Diesel,Automatic,118988,1,Mumbai,2.57
+745,Maruti Suzuki,Dzire,2018,8,Diesel,Manual,92249,2,Bangalore,1.1
+746,Hyundai,Creta,2017,9,CNG,Manual,108086,1,Chennai,2.2
+747,Maruti Suzuki,Dzire,2015,11,Petrol,Manual,133519,1,Hyderabad,1.1
+748,Tata,Punch,2022,4,Diesel,Automatic,20915,1,Delhi,6.6
+749,Toyota,Innova,2022,4,Petrol,Manual,41836,1,Mumbai,17.7
+750,Toyota,Innova,2019,7,Diesel,Manual,72614,1,Pune,15.76
+751,Toyota,Glanza,2021,5,Petrol,Manual,29689,1,Chennai,9.43
+752,Toyota,Glanza,2022,4,Petrol,Automatic,41462,1,Bangalore,12.19
+753,Mahindra,Scorpio,2021,5,Diesel,Automatic,45182,1,Delhi,11.19
+754,Kia,Sonet,2019,7,Diesel,Manual,71142,1,Delhi,5.12
+755,Mahindra,Scorpio,2024,2,Diesel,Manual,38283,1,Pune,12.95
+756,Kia,Carens,2015,11,Petrol,Automatic,146452,2,Delhi,1.82
+757,Maruti Suzuki,Swift,2022,4,Petrol,Manual,41658,1,Bangalore,3.95
+758,Kia,Carens,2019,7,Petrol,Manual,71766,2,Mumbai,3.5
+759,Kia,Seltos,2022,4,Petrol,Manual,29708,2,Pune,9.71
+760,Mahindra,XUV700,2021,5,Petrol,Manual,59976,2,Bangalore,11.33
+761,Kia,Carens,2018,8,Petrol,Automatic,85302,1,Bangalore,4.92
+762,Hyundai,Venue,2020,6,Petrol,Automatic,38525,2,Pune,2.55
+763,Honda,Amaze,2025,1,Petrol,Automatic,13619,1,Delhi,8.28
+764,Tata,Harrier,2018,8,Petrol,Manual,104104,1,Pune,3.6
+765,Hyundai,Verna,2021,5,Diesel,Automatic,69540,2,Hyderabad,5.59
+766,Kia,Seltos,2016,10,Diesel,Automatic,131313,1,Chennai,5.5
+767,Toyota,Innova,2020,6,Petrol,Automatic,69033,1,Bangalore,18.33
+768,Mahindra,XUV300,2017,9,CNG,Automatic,78745,3,Hyderabad,2.72
+769,Mahindra,XUV700,2016,10,Petrol,Manual,123110,3,Hyderabad,6.34
+770,Tata,Nexon,2016,10,Electric,Manual,108847,1,Mumbai,3.06
+771,Honda,City,2015,11,Petrol,Manual,126142,2,Pune,1.33
+772,Maruti Suzuki,Baleno,2024,2,Diesel,Automatic,22296,2,Delhi,6.19
+773,Hyundai,Creta,2018,8,Petrol,Manual,73763,1,Pune,4.24
+774,Toyota,Innova,2016,10,Electric,Manual,110430,3,Chennai,12.9
+775,Tata,Punch,2023,3,Petrol,Manual,11109,2,Mumbai,6.05
+776,Hyundai,Venue,2021,5,Petrol,Manual,56734,1,Delhi,3.69
+777,Maruti Suzuki,Dzire,2020,6,Electric,Automatic,77916,1,Chennai,5.74
+778,Toyota,Fortuner,2015,11,Petrol,Automatic,143558,1,Delhi,21.91
+779,Hyundai,Verna,2020,6,Diesel,Manual,62820,2,Hyderabad,2.91
+780,Honda,Amaze,2017,9,Petrol,Manual,92009,1,Mumbai,1.98
+781,Tata,Punch,2025,1,Petrol,Manual,3500,1,Chennai,7.22
+782,Maruti Suzuki,Dzire,2022,4,Diesel,Manual,51825,1,Bangalore,4.5
+783,Hyundai,Venue,2022,4,Petrol,Automatic,52383,1,Hyderabad,6.35
+784,Kia,Carens,2025,1,Electric,Automatic,23006,1,Bangalore,12.57
+785,Mahindra,XUV300,2017,9,Electric,Automatic,102286,3,Bangalore,7.01
+786,Mahindra,Thar,2025,1,Petrol,Automatic,12338,1,Chennai,15.59
+787,Honda,WR-V,2020,6,Petrol,Automatic,35484,2,Pune,4.56
+788,Maruti Suzuki,Baleno,2024,2,Petrol,Automatic,29564,1,Chennai,6.0
+789,Maruti Suzuki,Dzire,2018,8,Diesel,Manual,101802,1,Pune,1.1
+790,Maruti Suzuki,Baleno,2021,5,Petrol,Manual,37297,1,Delhi,2.21
+791,Maruti Suzuki,Baleno,2018,8,Petrol,Manual,72676,2,Mumbai,1.1
+792,Tata,Punch,2016,10,Diesel,Manual,128126,2,Chennai,1.1
+793,Kia,Sonet,2016,10,Diesel,Automatic,112681,1,Hyderabad,4.11
+794,Hyundai,i20,2025,1,Petrol,Manual,19823,1,Hyderabad,6.61
+795,Kia,Carens,2018,8,Diesel,Manual,87160,1,Delhi,5.44
+796,Tata,Nexon,2015,11,Electric,Automatic,145087,2,Chennai,1.23
+797,Kia,Seltos,2021,5,Diesel,Manual,65373,1,Delhi,9.83
+798,Hyundai,Verna,2024,2,Diesel,Automatic,42383,1,Delhi,8.03
+799,Maruti Suzuki,Dzire,2016,10,Diesel,Manual,105103,1,Pune,1.1
+800,Honda,City,2024,2,CNG,Automatic,17637,1,Bangalore,11.06
+801,Honda,City,2021,5,Petrol,Manual,51591,1,Chennai,5.3
+802,Mahindra,Scorpio,2020,6,Petrol,Manual,61641,1,Mumbai,9.93
+803,Toyota,Innova,2016,10,Petrol,Manual,121268,1,Pune,12.24
+804,Toyota,Fortuner,2022,4,Petrol,Manual,3500,1,Hyderabad,27.85
+805,Mahindra,XUV300,2016,10,Petrol,Manual,111116,2,Delhi,1.1
+806,Kia,Carens,2017,9,Petrol,Automatic,102638,2,Mumbai,3.52
+807,Kia,Seltos,2022,4,Electric,Automatic,55988,1,Hyderabad,13.47
+808,Maruti Suzuki,Baleno,2021,5,CNG,Manual,54436,2,Bangalore,2.83
+809,Mahindra,Scorpio,2023,3,Diesel,Manual,28931,1,Hyderabad,11.5
+810,Tata,Altroz,2023,3,Petrol,Manual,49972,1,Chennai,4.04
+811,Kia,Carens,2019,7,Petrol,Manual,104810,1,Pune,6.06
+812,Mahindra,XUV300,2022,4,Petrol,Manual,39604,1,Pune,7.57
+813,Toyota,Fortuner,2025,1,Petrol,Manual,3500,2,Hyderabad,30.96
+814,Toyota,Glanza,2019,7,Petrol,Automatic,75956,1,Hyderabad,9.22
+815,Mahindra,XUV300,2023,3,Diesel,Manual,22076,2,Hyderabad,9.59
+816,Kia,Carens,2017,9,Electric,Automatic,95111,2,Mumbai,5.8
+817,Hyundai,Venue,2023,3,Petrol,Manual,54200,3,Delhi,4.17
+818,Tata,Punch,2016,10,Petrol,Manual,119748,1,Pune,1.1
+819,Mahindra,XUV700,2023,3,Petrol,Manual,29650,1,Bangalore,14.08
+820,Mahindra,XUV700,2024,2,Petrol,Automatic,14423,2,Hyderabad,14.62
+821,Honda,WR-V,2023,3,Petrol,Automatic,32368,1,Pune,7.49
+822,Toyota,Glanza,2022,4,Diesel,Manual,31181,1,Pune,11.48
+823,Hyundai,Verna,2022,4,Petrol,Automatic,38593,2,Bangalore,4.51
+824,Hyundai,Creta,2019,7,Petrol,Manual,99156,2,Delhi,5.52
+825,Honda,City,2023,3,CNG,Manual,62655,1,Bangalore,8.42
+826,Hyundai,Verna,2023,3,CNG,Manual,44255,2,Chennai,4.82
+827,Maruti Suzuki,Dzire,2023,3,Electric,Manual,30902,2,Hyderabad,7.15
+828,Toyota,Fortuner,2015,11,Diesel,Automatic,115080,1,Pune,24.23
+829,Hyundai,i20,2025,1,Petrol,Manual,16543,1,Hyderabad,7.06
+830,Hyundai,i20,2020,6,Petrol,Automatic,73204,2,Delhi,2.74
+831,Maruti Suzuki,Dzire,2025,1,Diesel,Automatic,27135,1,Hyderabad,6.46
+832,Mahindra,Scorpio,2015,11,Diesel,Manual,146158,1,Hyderabad,5.25
+833,Toyota,Glanza,2025,1,Petrol,Manual,23992,1,Mumbai,13.61
+834,Hyundai,Venue,2024,2,CNG,Manual,36033,1,Mumbai,5.73
+835,Honda,WR-V,2016,10,Petrol,Manual,117572,2,Pune,1.1
+836,Hyundai,Verna,2017,9,Diesel,Automatic,107637,2,Bangalore,2.01
+837,Kia,Carens,2018,8,Petrol,Automatic,79370,2,Bangalore,4.89
+838,Honda,Amaze,2024,2,Diesel,Automatic,10978,1,Bangalore,9.75
+839,Maruti Suzuki,Swift,2020,6,Diesel,Automatic,94908,1,Chennai,3.58
+840,Honda,WR-V,2019,7,Petrol,Manual,81375,1,Chennai,2.39
+841,Toyota,Fortuner,2018,8,Petrol,Manual,111447,1,Hyderabad,24.62
+842,Kia,Carens,2015,11,Diesel,Manual,137468,1,Delhi,1.72
+843,Hyundai,Verna,2024,2,CNG,Manual,37272,1,Hyderabad,6.13
+844,Hyundai,Verna,2015,11,Petrol,Manual,84139,1,Mumbai,1.1
+845,Maruti Suzuki,Brezza,2025,1,Petrol,Automatic,16081,1,Mumbai,7.7
+846,Kia,Carens,2020,6,Petrol,Manual,50661,3,Bangalore,3.76
+847,Tata,Nexon,2023,3,Petrol,Manual,39435,2,Delhi,4.94
+848,Kia,Seltos,2024,2,Petrol,Manual,28149,1,Bangalore,9.87
+849,Kia,Sonet,2020,6,Petrol,Manual,58824,2,Mumbai,4.95
+850,Toyota,Innova,2018,8,Diesel,Automatic,81650,1,Delhi,17.85
+851,Kia,Seltos,2020,6,Diesel,Automatic,60510,1,Chennai,9.37
+852,Maruti Suzuki,Swift,2016,10,Petrol,Manual,96198,1,Hyderabad,1.1
+853,Honda,Amaze,2020,6,Diesel,Manual,61833,2,Mumbai,3.72
+854,Tata,Punch,2018,8,CNG,Automatic,100298,2,Bangalore,1.48
+855,Mahindra,Thar,2022,4,Petrol,Automatic,62102,1,Pune,12.55
+856,Toyota,Glanza,2019,7,Diesel,Manual,74220,2,Delhi,8.47
+857,Toyota,Fortuner,2022,4,Diesel,Manual,35164,1,Pune,29.25
+858,Maruti Suzuki,Brezza,2018,8,Petrol,Automatic,98410,2,Delhi,1.1
+859,Hyundai,i20,2024,2,Petrol,Manual,36254,3,Delhi,4.83
+860,Maruti Suzuki,Swift,2021,5,Diesel,Manual,48093,1,Pune,2.83
+861,Honda,Amaze,2021,5,Petrol,Automatic,73717,1,Delhi,4.3
+862,Honda,City,2022,4,Petrol,Automatic,61521,2,Mumbai,6.03
+863,Mahindra,Thar,2020,6,Diesel,Manual,73355,1,Chennai,9.87
+864,Toyota,Glanza,2017,9,CNG,Manual,105368,1,Hyderabad,5.49
+865,Toyota,Fortuner,2018,8,Diesel,Manual,109062,1,Pune,25.05
+866,Tata,Nexon,2020,6,Petrol,Manual,87954,2,Pune,2.09
+867,Kia,Seltos,2020,6,Petrol,Manual,52708,1,Mumbai,9.23
+868,Kia,Sonet,2018,8,Petrol,Manual,90493,1,Pune,3.64
+869,Mahindra,XUV300,2024,2,Petrol,Automatic,42349,1,Bangalore,10.68
+870,Tata,Altroz,2015,11,Diesel,Automatic,150816,2,Pune,1.1
+871,Honda,WR-V,2022,4,Diesel,Automatic,62407,1,Bangalore,7.08
+872,Hyundai,Verna,2021,5,Diesel,Manual,76853,1,Mumbai,4.14
+873,Toyota,Glanza,2025,1,Petrol,Automatic,6260,1,Delhi,13.52
+874,Maruti Suzuki,Brezza,2022,4,Petrol,Manual,50212,1,Delhi,3.01
+875,Maruti Suzuki,Baleno,2020,6,Petrol,Manual,93058,1,Chennai,1.1
+876,Hyundai,Verna,2024,2,Petrol,Manual,22082,3,Chennai,5.58
+877,Maruti Suzuki,Brezza,2020,6,Electric,Manual,54652,1,Delhi,4.11
+878,Kia,Sonet,2017,9,CNG,Automatic,85773,2,Hyderabad,3.55
+879,Honda,Amaze,2021,5,Petrol,Automatic,39582,2,Delhi,5.21
+880,Tata,Punch,2025,1,Diesel,Manual,3500,1,Chennai,7.74
+881,Hyundai,Creta,2022,4,Petrol,Manual,41045,1,Delhi,8.66
+882,Mahindra,XUV300,2018,8,Diesel,Manual,97562,1,Pune,5.01
+883,Maruti Suzuki,Baleno,2021,5,CNG,Manual,38687,1,Delhi,2.78
+884,Maruti Suzuki,Brezza,2021,5,Petrol,Manual,41922,1,Hyderabad,2.59
+885,Mahindra,Scorpio,2020,6,Diesel,Manual,58501,1,Hyderabad,10.1
+886,Honda,Amaze,2019,7,Petrol,Manual,65493,1,Bangalore,3.02
+887,Hyundai,i20,2024,2,Petrol,Manual,16413,2,Delhi,6.14
+888,Honda,City,2017,9,Petrol,Automatic,87284,1,Delhi,4.84
+889,Kia,Seltos,2023,3,Petrol,Manual,37119,1,Bangalore,9.94
+890,Honda,WR-V,2017,9,Petrol,Manual,107543,2,Chennai,1.1
+891,Kia,Carens,2017,9,Petrol,Manual,106080,1,Pune,3.81
+892,Maruti Suzuki,Baleno,2023,3,Petrol,Automatic,44897,2,Delhi,4.17
+893,Hyundai,Verna,2021,5,Petrol,Automatic,62075,2,Bangalore,3.9
+894,Hyundai,i20,2022,4,Petrol,Manual,26235,1,Hyderabad,4.26
+895,Toyota,Fortuner,2020,6,Diesel,Manual,62001,2,Hyderabad,27.01
+896,Maruti Suzuki,Swift,2017,9,Petrol,Automatic,104157,1,Bangalore,1.1
+897,Kia,Carens,2016,10,Diesel,Automatic,110050,2,Mumbai,2.6
+898,Toyota,Glanza,2024,2,Petrol,Manual,28255,1,Pune,12.59
+899,Kia,Carens,2023,3,Petrol,Manual,38944,1,Bangalore,8.13
+900,Kia,Sonet,2017,9,Diesel,Manual,95541,1,Pune,3.71
+901,Kia,Seltos,2023,3,Diesel,Automatic,35279,2,Bangalore,11.98
+902,Mahindra,Thar,2021,5,Petrol,Manual,63815,1,Hyderabad,11.72
+903,Mahindra,Scorpio,2019,7,Diesel,Manual,81068,1,Mumbai,9.87
+904,Maruti Suzuki,Brezza,2019,7,CNG,Manual,74174,1,Delhi,1.1
+905,Kia,Sonet,2021,5,Petrol,Manual,63468,1,Delhi,5.41
+906,Hyundai,Venue,2020,6,Electric,Manual,48066,1,Delhi,5.21
+907,Tata,Harrier,2018,8,Electric,Manual,99988,1,Hyderabad,6.55
+908,Kia,Carens,2021,5,Diesel,Manual,39784,3,Delhi,4.97
+909,Kia,Carens,2018,8,Petrol,Automatic,45473,1,Delhi,5.39
+910,Toyota,Glanza,2020,6,Electric,Automatic,79573,1,Delhi,12.69
+911,Tata,Harrier,2018,8,Diesel,Manual,55311,2,Hyderabad,4.61
+912,Hyundai,i20,2022,4,Diesel,Manual,50709,1,Pune,5.22
+913,Honda,Amaze,2018,8,Diesel,Manual,83282,1,Mumbai,2.82
+914,Maruti Suzuki,Brezza,2019,7,Petrol,Manual,69257,2,Pune,1.1
+915,Kia,Carens,2016,10,Petrol,Automatic,137145,2,Pune,1.99
+916,Hyundai,Verna,2016,10,Diesel,Manual,138582,2,Delhi,1.1
+917,Kia,Seltos,2017,9,Petrol,Manual,100776,2,Bangalore,4.31
+918,Tata,Harrier,2017,9,Petrol,Automatic,106094,2,Pune,4.42
+919,Kia,Seltos,2015,11,Petrol,Manual,110565,1,Delhi,3.58
+920,Tata,Punch,2019,7,CNG,Manual,59522,2,Delhi,1.48
+921,Hyundai,Verna,2016,10,Diesel,Manual,112390,1,Pune,1.37
+922,Kia,Seltos,2021,5,Petrol,Manual,95144,2,Bangalore,7.42
+923,Honda,WR-V,2024,2,Petrol,Automatic,35002,1,Hyderabad,8.37
+924,Maruti Suzuki,Brezza,2021,5,Petrol,Automatic,53097,2,Pune,2.82
+925,Kia,Seltos,2024,2,CNG,Automatic,18633,1,Hyderabad,11.88
+926,Maruti Suzuki,Swift,2025,1,Diesel,Manual,3500,2,Bangalore,6.4
+927,Tata,Punch,2022,4,Diesel,Manual,59175,2,Mumbai,5.03
+928,Hyundai,Verna,2015,11,Petrol,Manual,140270,1,Pune,1.1
+929,Tata,Punch,2021,5,Petrol,Manual,68408,1,Delhi,3.0
+930,Mahindra,Scorpio,2016,10,Petrol,Automatic,120030,1,Mumbai,5.56
+931,Tata,Punch,2020,6,Diesel,Manual,85536,2,Delhi,2.55
+932,Mahindra,XUV700,2021,5,Diesel,Automatic,50553,1,Chennai,13.49
+933,Honda,City,2022,4,Petrol,Automatic,65287,1,Delhi,7.58
+934,Honda,City,2025,1,Diesel,Manual,18187,1,Chennai,9.14
+935,Kia,Carens,2025,1,Petrol,Manual,3500,1,Delhi,8.72
+936,Hyundai,Verna,2017,9,Petrol,Manual,97839,2,Pune,1.1
+937,Toyota,Glanza,2025,1,Petrol,Manual,13039,1,Hyderabad,13.11
+938,Toyota,Glanza,2018,8,Petrol,Manual,100588,1,Chennai,6.23
+939,Tata,Nexon,2015,11,CNG,Automatic,114925,2,Pune,1.1
+940,Tata,Harrier,2022,4,Diesel,Manual,54468,1,Mumbai,9.06
+941,Maruti Suzuki,Brezza,2021,5,Diesel,Automatic,39606,2,Delhi,4.72
+942,Kia,Sonet,2024,2,Diesel,Manual,19988,3,Mumbai,7.47
+943,Honda,WR-V,2018,8,Petrol,Manual,105175,3,Chennai,1.1
+944,Kia,Carens,2023,3,Electric,Automatic,20639,1,Bangalore,12.15
+945,Hyundai,Venue,2025,1,CNG,Automatic,3500,1,Delhi,7.65
+946,Toyota,Glanza,2019,7,Diesel,Automatic,73413,1,Delhi,9.82
+947,Hyundai,Verna,2021,5,Petrol,Manual,64511,2,Hyderabad,2.49
+948,Mahindra,XUV300,2023,3,CNG,Manual,16770,2,Mumbai,8.34
+949,Honda,City,2016,10,Petrol,Automatic,107798,1,Chennai,2.59
+950,Toyota,Innova,2025,1,Diesel,Manual,19444,3,Delhi,19.82
+951,Tata,Altroz,2023,3,Diesel,Automatic,30794,1,Mumbai,7.62
+952,Hyundai,Verna,2018,8,Petrol,Automatic,79506,1,Bangalore,2.12
+953,Kia,Carens,2018,8,Petrol,Manual,77818,2,Chennai,2.96
+954,Kia,Carens,2016,10,Diesel,Automatic,99484,1,Mumbai,4.44
+955,Maruti Suzuki,Brezza,2021,5,Petrol,Manual,57041,1,Mumbai,3.33
+956,Mahindra,XUV700,2015,11,Diesel,Automatic,113861,2,Mumbai,8.45
+957,Hyundai,Creta,2015,11,Petrol,Manual,145965,2,Chennai,2.07
+958,Hyundai,Venue,2018,8,Petrol,Manual,107068,1,Bangalore,1.1
+959,Toyota,Innova,2024,2,Petrol,Manual,14983,1,Pune,18.68
+960,Mahindra,XUV300,2017,9,Petrol,Automatic,94243,1,Hyderabad,4.15
+961,Honda,City,2025,1,Diesel,Automatic,10874,1,Mumbai,11.78
+962,Maruti Suzuki,Swift,2024,2,Petrol,Automatic,3500,1,Pune,5.71
+963,Hyundai,Creta,2020,6,Diesel,Automatic,90982,2,Pune,6.5
+964,Toyota,Glanza,2018,8,Diesel,Automatic,93273,1,Delhi,8.43
+965,Honda,Amaze,2019,7,Electric,Manual,96281,1,Bangalore,6.83
+966,Mahindra,XUV300,2024,2,Petrol,Automatic,3500,1,Mumbai,10.58
+967,Kia,Seltos,2023,3,CNG,Automatic,21107,3,Chennai,9.7
+968,Tata,Nexon,2020,6,Petrol,Manual,83669,1,Delhi,1.85
+969,Hyundai,Venue,2025,1,Petrol,Manual,3500,1,Chennai,6.36
+970,Mahindra,Thar,2015,11,Petrol,Automatic,116066,1,Hyderabad,7.62
+971,Hyundai,i20,2023,3,Diesel,Manual,3500,1,Hyderabad,5.79
+972,Honda,City,2021,5,Diesel,Manual,43698,3,Bangalore,6.39
+973,Kia,Seltos,2018,8,Petrol,Automatic,84323,1,Hyderabad,7.29
+974,Toyota,Fortuner,2017,9,Diesel,Automatic,85885,2,Hyderabad,24.49
+975,Maruti Suzuki,Baleno,2021,5,Petrol,Manual,61791,3,Mumbai,1.1
+976,Honda,WR-V,2016,10,Petrol,Manual,116067,1,Mumbai,1.1
+977,Honda,Amaze,2015,11,Petrol,Automatic,134307,1,Mumbai,1.53
+978,Kia,Sonet,2019,7,Diesel,Manual,104706,1,Mumbai,6.2
+979,Maruti Suzuki,Swift,2021,5,Petrol,Manual,60497,1,Hyderabad,2.03
+980,Tata,Altroz,2016,10,Diesel,Manual,125485,2,Hyderabad,1.1
+981,Mahindra,Scorpio,2016,10,Petrol,Manual,74836,1,Bangalore,6.8
+982,Mahindra,XUV300,2015,11,Petrol,Automatic,123499,1,Hyderabad,2.21
+983,Hyundai,Creta,2023,3,Electric,Automatic,39953,2,Chennai,11.36
+984,Hyundai,i20,2023,3,Petrol,Manual,36312,1,Pune,4.72
+985,Maruti Suzuki,Baleno,2015,11,Petrol,Manual,117707,1,Pune,1.1
+986,Kia,Carens,2021,5,CNG,Manual,58669,1,Hyderabad,7.43
+987,Honda,Amaze,2019,7,Petrol,Automatic,60864,2,Pune,3.31
+988,Toyota,Glanza,2015,11,Petrol,Manual,132516,1,Pune,3.99
+989,Maruti Suzuki,Dzire,2018,8,Electric,Automatic,90120,2,Bangalore,3.47
+990,Toyota,Fortuner,2021,5,Petrol,Manual,58529,1,Delhi,26.45
+991,Kia,Seltos,2019,7,CNG,Automatic,55563,1,Bangalore,8.29
+992,Tata,Nexon,2016,10,Petrol,Manual,111011,2,Chennai,1.1
+993,Toyota,Innova,2022,4,Petrol,Manual,19150,1,Delhi,17.68
+994,Toyota,Innova,2025,1,Petrol,Manual,7651,1,Bangalore,20.7
+995,Toyota,Fortuner,2024,2,Petrol,Automatic,3500,2,Chennai,28.71
+996,Tata,Punch,2024,2,Petrol,Automatic,10944,2,Pune,6.35
+997,Kia,Seltos,2024,2,Petrol,Manual,11915,1,Hyderabad,11.67
+998,Hyundai,i20,2023,3,Electric,Manual,9165,2,Pune,8.59
+999,Honda,WR-V,2015,11,Petrol,Automatic,94930,1,Pune,1.1
+1000,Maruti Suzuki,Baleno,2023,3,Petrol,Manual,57020,1,Hyderabad,3.89
+1001,Maruti Suzuki,Dzire,2022,4,Petrol,Manual,24330,1,Mumbai,3.77
+1002,Kia,Seltos,2019,7,Diesel,Manual,59480,1,Chennai,7.5
+1003,Honda,Amaze,2021,5,Petrol,Manual,48276,1,Hyderabad,3.86
+1004,Tata,Altroz,2022,4,Diesel,Manual,57225,1,Mumbai,5.71
+1005,Hyundai,Venue,2020,6,Petrol,Manual,85765,1,Mumbai,2.72
+1006,Toyota,Glanza,2016,10,Petrol,Automatic,118993,2,Pune,6.52
+1007,Toyota,Glanza,2015,11,Diesel,Manual,142862,1,Bangalore,6.77
+1008,Tata,Altroz,2023,3,Petrol,Manual,32227,1,Hyderabad,4.34
+1009,Tata,Punch,2016,10,Diesel,Automatic,129111,1,Hyderabad,1.1
+1010,Kia,Sonet,2022,4,Diesel,Manual,35875,1,Hyderabad,7.63
+1011,Toyota,Innova,2025,1,Petrol,Automatic,15541,1,Mumbai,21.68
+1012,Honda,Amaze,2019,7,Petrol,Automatic,93947,3,Pune,2.26
+1013,Tata,Altroz,2022,4,Petrol,Automatic,40949,2,Delhi,4.82
+1014,Tata,Nexon,2020,6,Diesel,Manual,64177,3,Mumbai,3.52
+1015,Maruti Suzuki,Swift,2017,9,Petrol,Manual,115395,1,Pune,1.1
+1016,Toyota,Glanza,2025,1,Diesel,Manual,9549,1,Delhi,13.6
+1017,Maruti Suzuki,Swift,2017,9,Petrol,Manual,137078,2,Mumbai,1.1
+1018,Hyundai,i20,2023,3,Petrol,Manual,29552,3,Mumbai,4.73
+1019,Hyundai,Creta,2025,1,Diesel,Manual,16954,2,Chennai,10.32
+1020,Kia,Seltos,2017,9,Diesel,Manual,108298,2,Delhi,5.35
+1021,Maruti Suzuki,Baleno,2025,1,Petrol,Automatic,11160,1,Hyderabad,6.74
+1022,Maruti Suzuki,Brezza,2021,5,Diesel,Automatic,53568,1,Delhi,4.73
+1023,Mahindra,XUV700,2021,5,Diesel,Automatic,13851,3,Mumbai,12.59
+1024,Hyundai,i20,2022,4,Diesel,Manual,51996,1,Chennai,4.27
+1025,Kia,Seltos,2019,7,Electric,Automatic,79730,1,Pune,10.11
+1026,Kia,Carens,2018,8,Petrol,Manual,122519,2,Pune,1.97
+1027,Kia,Carens,2023,3,Diesel,Manual,40657,1,Bangalore,8.28
+1028,Hyundai,Verna,2025,1,Petrol,Automatic,18152,1,Bangalore,8.53
+1029,Tata,Harrier,2015,11,Petrol,Automatic,111191,1,Pune,3.47
+1030,Hyundai,i20,2017,9,Diesel,Manual,114222,1,Mumbai,1.1
+1031,Maruti Suzuki,Brezza,2023,3,Diesel,Automatic,27233,1,Pune,5.27
+1032,Toyota,Innova,2020,6,Petrol,Manual,68627,1,Delhi,15.79
+1033,Maruti Suzuki,Dzire,2017,9,Petrol,Manual,88545,1,Hyderabad,1.1
+1034,Toyota,Innova,2025,1,Diesel,Automatic,3500,2,Hyderabad,21.57
+1035,Honda,WR-V,2021,5,Electric,Manual,44929,1,Bangalore,8.59
+1036,Kia,Sonet,2019,7,CNG,Manual,97254,1,Mumbai,4.58
+1037,Tata,Nexon,2019,7,Petrol,Automatic,95695,2,Delhi,2.02
+1038,Tata,Altroz,2022,4,Petrol,Manual,50409,2,Pune,2.63
+1039,Maruti Suzuki,Baleno,2019,7,Diesel,Automatic,70899,1,Chennai,1.71
+1040,Kia,Sonet,2015,11,Petrol,Manual,121793,1,Pune,1.1
+1041,Kia,Seltos,2020,6,Petrol,Automatic,54970,2,Pune,7.48
+1042,Hyundai,Venue,2018,8,Petrol,Manual,104600,1,Bangalore,1.71
+1043,Tata,Punch,2016,10,Petrol,Manual,102713,1,Pune,1.1
+1044,Kia,Carens,2017,9,Diesel,Automatic,95133,1,Hyderabad,6.62
+1045,Maruti Suzuki,Swift,2018,8,Diesel,Manual,121260,3,Delhi,1.1
+1046,Kia,Sonet,2019,7,CNG,Manual,61994,1,Mumbai,4.49
+1047,Tata,Altroz,2018,8,CNG,Automatic,60974,3,Chennai,1.1
+1048,Kia,Sonet,2022,4,Petrol,Automatic,21366,1,Pune,8.16
+1049,Maruti Suzuki,Swift,2021,5,Petrol,Automatic,38044,1,Chennai,3.28
+1050,Mahindra,Thar,2021,5,Diesel,Automatic,42896,1,Mumbai,13.82
+1051,Honda,Amaze,2015,11,Electric,Automatic,115771,1,Delhi,3.83
+1052,Maruti Suzuki,Dzire,2019,7,Petrol,Automatic,85848,3,Pune,1.1
+1053,Maruti Suzuki,Swift,2022,4,Petrol,Manual,51731,1,Delhi,3.27
+1054,Honda,WR-V,2018,8,Petrol,Automatic,84509,1,Delhi,3.93
+1055,Honda,Amaze,2020,6,Petrol,Automatic,46058,1,Hyderabad,5.44
+1056,Maruti Suzuki,Dzire,2016,10,Petrol,Manual,108796,1,Delhi,1.1
+1057,Mahindra,Thar,2018,8,Diesel,Manual,87840,1,Bangalore,10.28
+1058,Mahindra,XUV300,2015,11,Electric,Automatic,135177,1,Chennai,5.38
+1059,Honda,City,2015,11,Diesel,Automatic,128056,1,Chennai,2.66
+1060,Honda,Amaze,2017,9,Petrol,Manual,105630,1,Hyderabad,1.1
+1061,Maruti Suzuki,Dzire,2025,1,Petrol,Manual,3500,2,Hyderabad,5.81
+1062,Toyota,Innova,2015,11,Electric,Manual,135332,2,Mumbai,14.34
+1063,Maruti Suzuki,Brezza,2020,6,Petrol,Automatic,68983,1,Delhi,2.42
+1064,Toyota,Fortuner,2022,4,Petrol,Automatic,12721,2,Chennai,28.97
+1065,Toyota,Glanza,2024,2,Diesel,Automatic,3500,2,Mumbai,13.89
+1066,Maruti Suzuki,Baleno,2020,6,Diesel,Manual,79701,1,Hyderabad,2.25
+1067,Tata,Altroz,2021,5,Diesel,Automatic,77023,1,Hyderabad,6.5
+1068,Hyundai,i20,2017,9,Diesel,Manual,127264,1,Chennai,1.1
+1069,Honda,City,2024,2,Petrol,Manual,18836,1,Chennai,7.83
+1070,Maruti Suzuki,Brezza,2020,6,Petrol,Manual,97463,2,Delhi,1.1
+1071,Honda,Amaze,2024,2,Petrol,Automatic,30739,1,Delhi,7.51
+1072,Kia,Sonet,2018,8,Diesel,Manual,72899,3,Bangalore,3.38
+1073,Honda,City,2015,11,Petrol,Manual,122008,1,Delhi,1.44
+1074,Mahindra,Scorpio,2020,6,Diesel,Automatic,70735,2,Bangalore,10.15
+1075,Tata,Nexon,2025,1,CNG,Manual,3500,1,Delhi,6.9
+1076,Toyota,Glanza,2023,3,Petrol,Automatic,47299,1,Hyderabad,11.78
+1077,Maruti Suzuki,Brezza,2022,4,Diesel,Automatic,44249,1,Bangalore,5.8
+1078,Tata,Altroz,2020,6,Diesel,Manual,76692,3,Mumbai,2.87
+1079,Toyota,Innova,2015,11,Petrol,Manual,109037,1,Pune,11.43
+1080,Honda,City,2022,4,Diesel,Manual,39225,1,Mumbai,7.44
+1081,Mahindra,Scorpio,2021,5,CNG,Automatic,64180,1,Delhi,11.97
+1082,Honda,City,2025,1,CNG,Automatic,36559,1,Mumbai,10.22
+1083,Honda,Amaze,2017,9,Electric,Manual,102895,1,Delhi,4.81
+1084,Kia,Carens,2017,9,Petrol,Manual,101826,1,Bangalore,3.37
+1085,Hyundai,Venue,2015,11,Diesel,Manual,125818,2,Mumbai,1.1
+1086,Honda,Amaze,2016,10,Electric,Manual,89022,3,Chennai,1.95
+1087,Maruti Suzuki,Brezza,2015,11,CNG,Manual,121745,1,Chennai,1.1
+1088,Kia,Carens,2018,8,Petrol,Automatic,78657,1,Hyderabad,3.47
+1089,Honda,Amaze,2021,5,CNG,Manual,54434,2,Hyderabad,4.71
+1090,Hyundai,Venue,2017,9,CNG,Manual,103059,1,Chennai,1.1
+1091,Hyundai,Verna,2016,10,Petrol,Manual,114612,2,Chennai,1.1
+1092,Toyota,Glanza,2023,3,Diesel,Manual,20966,2,Delhi,12.18
+1093,Honda,City,2017,9,Petrol,Manual,145061,1,Chennai,1.95
+1094,Kia,Carens,2024,2,Petrol,Manual,22633,1,Hyderabad,9.17
+1095,Tata,Punch,2019,7,CNG,Manual,88887,1,Bangalore,2.51
+1096,Toyota,Glanza,2017,9,Petrol,Manual,100294,2,Mumbai,6.1
+1097,Hyundai,i20,2021,5,Petrol,Manual,27339,2,Hyderabad,2.97
+1098,Tata,Nexon,2023,3,Diesel,Automatic,17467,2,Pune,5.92
+1099,Tata,Altroz,2019,7,Petrol,Automatic,83504,1,Mumbai,3.53
+1100,Honda,WR-V,2021,5,Petrol,Manual,58794,2,Mumbai,4.59
+1101,Hyundai,Verna,2017,9,Petrol,Automatic,86661,1,Mumbai,1.83
+1102,Mahindra,Scorpio,2020,6,Diesel,Manual,54210,2,Bangalore,11.17
+1103,Toyota,Glanza,2020,6,Petrol,Manual,86455,1,Pune,8.9
+1104,Honda,Amaze,2016,10,Petrol,Automatic,150186,1,Delhi,1.1
+1105,Maruti Suzuki,Dzire,2020,6,Petrol,Manual,103606,2,Delhi,1.1
+1106,Toyota,Fortuner,2025,1,Petrol,Automatic,5474,1,Mumbai,32.07
+1107,Honda,Amaze,2017,9,Diesel,Manual,93291,1,Mumbai,2.27
+1108,Kia,Sonet,2017,9,Diesel,Manual,102833,2,Mumbai,3.47
+1109,Maruti Suzuki,Dzire,2017,9,Petrol,Manual,105651,1,Pune,1.1
+1110,Mahindra,Scorpio,2017,9,Petrol,Automatic,101008,1,Hyderabad,6.63
+1111,Hyundai,i20,2017,9,Petrol,Manual,78354,1,Hyderabad,1.1
+1112,Toyota,Fortuner,2020,6,Diesel,Manual,69902,1,Mumbai,27.04
+1113,Kia,Carens,2022,4,Electric,Manual,70607,1,Mumbai,9.92
+1114,Hyundai,Creta,2018,8,Diesel,Manual,96206,1,Mumbai,4.64
+1115,Maruti Suzuki,Swift,2021,5,Diesel,Manual,37653,2,Bangalore,3.37
+1116,Tata,Harrier,2021,5,Diesel,Manual,59287,1,Bangalore,8.28
+1117,Kia,Carens,2019,7,Electric,Automatic,94209,1,Hyderabad,7.71
+1118,Tata,Altroz,2025,1,Petrol,Manual,7903,1,Chennai,5.34
+1119,Mahindra,XUV700,2015,11,Petrol,Manual,105418,2,Hyderabad,6.72
+1120,Hyundai,Verna,2018,8,Diesel,Manual,76580,2,Pune,1.37
+1121,Honda,Amaze,2020,6,CNG,Manual,59088,1,Bangalore,3.6
+1122,Hyundai,Venue,2016,10,Electric,Manual,145886,3,Bangalore,1.1
+1123,Mahindra,XUV700,2016,10,Petrol,Automatic,89724,1,Mumbai,9.46
+1124,Honda,WR-V,2021,5,Diesel,Automatic,73258,2,Mumbai,5.29
+1125,Honda,Amaze,2021,5,Electric,Automatic,56777,1,Bangalore,8.04
+1126,Kia,Carens,2022,4,Petrol,Automatic,48692,1,Delhi,7.89
+1127,Toyota,Innova,2018,8,Diesel,Manual,88638,2,Chennai,14.89
+1128,Kia,Carens,2022,4,Diesel,Manual,59837,1,Bangalore,8.33
+1129,Honda,Amaze,2015,11,Petrol,Automatic,155553,1,Delhi,1.1
+1130,Honda,Amaze,2019,7,Petrol,Manual,88883,2,Bangalore,2.26
+1131,Kia,Carens,2022,4,Petrol,Automatic,44174,2,Mumbai,7.33
+1132,Kia,Seltos,2017,9,Petrol,Manual,94324,1,Mumbai,5.23
+1133,Maruti Suzuki,Brezza,2016,10,Diesel,Automatic,92761,1,Hyderabad,1.1
+1134,Maruti Suzuki,Brezza,2015,11,Petrol,Automatic,150595,1,Chennai,1.1
+1135,Hyundai,i20,2025,1,Diesel,Automatic,12598,1,Bangalore,8.21
+1136,Hyundai,Verna,2020,6,Petrol,Automatic,41559,1,Hyderabad,2.01
+1137,Hyundai,Venue,2017,9,CNG,Manual,87088,3,Bangalore,1.1
+1138,Tata,Punch,2016,10,Petrol,Manual,126915,2,Delhi,1.1
+1139,Maruti Suzuki,Baleno,2020,6,Petrol,Automatic,69340,2,Hyderabad,2.04
+1140,Maruti Suzuki,Brezza,2018,8,CNG,Automatic,80955,1,Delhi,1.85
+1141,Mahindra,Thar,2016,10,Petrol,Manual,138289,1,Bangalore,8.02
+1142,Toyota,Innova,2024,2,Petrol,Manual,27847,1,Pune,19.46
+1143,Maruti Suzuki,Baleno,2018,8,Petrol,Manual,112192,2,Hyderabad,1.1
+1144,Hyundai,Creta,2018,8,Diesel,Automatic,57190,1,Delhi,7.21
+1145,Tata,Harrier,2017,9,CNG,Automatic,93128,1,Delhi,3.96
+1146,Honda,Amaze,2023,3,Petrol,Manual,52628,2,Mumbai,4.76
+1147,Honda,Amaze,2022,4,Petrol,Manual,59061,1,Mumbai,5.96
+1148,Maruti Suzuki,Swift,2019,7,Petrol,Automatic,58194,1,Pune,1.47
+1149,Kia,Sonet,2024,2,Petrol,Manual,14621,2,Hyderabad,8.15
+1150,Honda,WR-V,2016,10,Diesel,Automatic,133608,3,Chennai,1.1
+1151,Toyota,Glanza,2020,6,Petrol,Manual,47293,1,Bangalore,10.0
+1152,Maruti Suzuki,Baleno,2015,11,Petrol,Automatic,134808,1,Bangalore,1.1
+1153,Kia,Sonet,2019,7,Petrol,Manual,62539,2,Mumbai,4.24
+1154,Hyundai,i20,2025,1,Petrol,Manual,3500,1,Hyderabad,6.25
+1155,Kia,Seltos,2025,1,Electric,Automatic,12550,2,Delhi,15.88
+1156,Hyundai,Creta,2017,9,Petrol,Manual,139030,1,Pune,2.38
+1157,Mahindra,Thar,2023,3,CNG,Automatic,10622,1,Delhi,15.62
+1158,Honda,WR-V,2025,1,Petrol,Manual,8676,1,Hyderabad,6.28
+1159,Mahindra,Thar,2023,3,Diesel,Automatic,45610,1,Chennai,15.48
+1160,Honda,WR-V,2019,7,Petrol,Manual,64324,3,Chennai,1.1
+1161,Mahindra,XUV700,2021,5,Petrol,Manual,49532,2,Pune,11.04
+1162,Mahindra,Scorpio,2015,11,Petrol,Automatic,148894,1,Bangalore,5.26
+1163,Toyota,Innova,2020,6,Diesel,Automatic,75544,1,Hyderabad,18.05
+1164,Kia,Sonet,2016,10,Petrol,Automatic,116544,2,Pune,2.33
+1165,Toyota,Innova,2019,7,Petrol,Manual,82332,3,Chennai,13.71
+1166,Toyota,Innova,2017,9,Petrol,Automatic,82732,1,Bangalore,15.47
+1167,Mahindra,XUV700,2019,7,Diesel,Manual,104221,1,Delhi,10.87
+1168,Kia,Seltos,2025,1,Diesel,Manual,3500,2,Bangalore,11.42
+1169,Hyundai,Venue,2017,9,Petrol,Automatic,90670,3,Mumbai,1.1
+1170,Hyundai,i20,2024,2,Petrol,Automatic,17100,1,Mumbai,7.43
+1171,Honda,WR-V,2025,1,Diesel,Automatic,33828,1,Delhi,9.9
+1172,Toyota,Glanza,2023,3,Diesel,Manual,15935,1,Mumbai,12.47
+1173,Hyundai,i20,2025,1,Petrol,Manual,8065,2,Mumbai,7.77
+1174,Honda,WR-V,2020,6,Petrol,Manual,56170,2,Mumbai,3.13
+1175,Kia,Sonet,2025,1,Petrol,Manual,3500,1,Pune,9.04
+1176,Honda,Amaze,2024,2,Diesel,Automatic,4429,2,Chennai,7.95
+1177,Tata,Punch,2021,5,Petrol,Automatic,34482,2,Chennai,3.37
+1178,Toyota,Glanza,2024,2,Petrol,Manual,3500,2,Pune,12.36
+1179,Mahindra,XUV300,2025,1,Petrol,Manual,9046,2,Hyderabad,9.27
+1180,Mahindra,XUV300,2017,9,Electric,Automatic,112705,2,Chennai,7.78
+1181,Kia,Sonet,2025,1,Petrol,Manual,5335,2,Bangalore,8.13
+1182,Kia,Carens,2024,2,CNG,Automatic,3500,2,Hyderabad,9.02
+1183,Kia,Carens,2022,4,CNG,Automatic,56134,1,Chennai,9.08
+1184,Maruti Suzuki,Baleno,2015,11,Petrol,Manual,131001,1,Chennai,1.1
+1185,Hyundai,Creta,2015,11,Petrol,Manual,96884,1,Hyderabad,3.1
+1186,Kia,Carens,2022,4,Diesel,Manual,57415,2,Chennai,5.87
+1187,Kia,Carens,2019,7,Diesel,Manual,68197,1,Delhi,5.85
+1188,Hyundai,Creta,2022,4,Petrol,Manual,58957,1,Delhi,7.22
+1189,Honda,WR-V,2021,5,Diesel,Manual,50489,3,Chennai,3.73
+1190,Tata,Punch,2018,8,Petrol,Manual,91604,1,Mumbai,1.1
+1191,Honda,WR-V,2022,4,Petrol,Automatic,59428,1,Pune,6.39
+1192,Toyota,Innova,2020,6,Diesel,Manual,90738,1,Delhi,16.65
+1193,Maruti Suzuki,Brezza,2019,7,Petrol,Manual,89044,1,Hyderabad,1.1
+1194,Honda,City,2020,6,Diesel,Automatic,84154,1,Mumbai,8.05
+1195,Mahindra,Scorpio,2017,9,Diesel,Manual,122692,2,Mumbai,6.75
+1196,Maruti Suzuki,Brezza,2024,2,CNG,Automatic,48400,1,Delhi,6.27
+1197,Toyota,Glanza,2018,8,Diesel,Manual,91932,1,Hyderabad,9.01
+1198,Honda,City,2017,9,CNG,Automatic,113799,2,Hyderabad,2.72
+1199,Kia,Seltos,2018,8,Petrol,Automatic,79272,1,Pune,7.4
+1200,Toyota,Innova,2022,4,Petrol,Automatic,62937,1,Pune,17.72
+1201,Honda,WR-V,2020,6,Petrol,Automatic,54924,3,Mumbai,3.49
+1202,Hyundai,Venue,2021,5,Diesel,Automatic,67653,2,Bangalore,4.4
+1203,Maruti Suzuki,Dzire,2021,5,Petrol,Manual,61321,2,Mumbai,1.96
+1204,Honda,Amaze,2025,1,Petrol,Automatic,3500,1,Hyderabad,8.75
+1205,Tata,Harrier,2018,8,Diesel,Automatic,115642,1,Bangalore,5.95
+1206,Toyota,Glanza,2017,9,Petrol,Manual,74879,1,Chennai,6.67
+1207,Toyota,Glanza,2021,5,Diesel,Manual,76103,2,Pune,9.84
+1208,Honda,WR-V,2016,10,Petrol,Manual,124629,1,Chennai,1.1
+1209,Maruti Suzuki,Swift,2025,1,Diesel,Manual,6386,1,Pune,6.8
+1210,Toyota,Fortuner,2020,6,Diesel,Manual,68563,1,Bangalore,27.1
+1211,Kia,Carens,2018,8,Petrol,Automatic,72893,1,Bangalore,4.76
+1212,Honda,City,2016,10,Electric,Manual,129728,1,Mumbai,4.71
+1213,Mahindra,XUV300,2022,4,Petrol,Automatic,45962,1,Delhi,7.94
+1214,Hyundai,Venue,2016,10,Petrol,Automatic,89771,1,Hyderabad,1.1
+1215,Toyota,Fortuner,2017,9,Petrol,Manual,110568,1,Hyderabad,22.45
+1216,Hyundai,Creta,2015,11,Petrol,Manual,110939,2,Delhi,2.25
+1217,Honda,Amaze,2022,4,Diesel,Automatic,42490,2,Bangalore,7.44
+1218,Honda,Amaze,2020,6,Diesel,Manual,67325,1,Mumbai,5.48
+1219,Honda,City,2016,10,Electric,Automatic,105536,1,Bangalore,7.58
+1220,Kia,Seltos,2022,4,Petrol,Automatic,62907,2,Delhi,8.48
+1221,Tata,Altroz,2022,4,Diesel,Manual,17645,3,Chennai,5.24
+1222,Kia,Seltos,2021,5,Petrol,Automatic,71071,1,Hyderabad,8.47
+1223,Hyundai,Venue,2016,10,CNG,Manual,121840,2,Chennai,1.1
+1224,Kia,Seltos,2024,2,Diesel,Manual,13926,2,Hyderabad,10.69
+1225,Maruti Suzuki,Dzire,2023,3,Petrol,Automatic,54871,1,Pune,5.77
+1226,Tata,Altroz,2017,9,Diesel,Automatic,110201,1,Pune,1.14
+1227,Toyota,Glanza,2017,9,Petrol,Automatic,86625,1,Bangalore,7.38
+1228,Tata,Punch,2016,10,Petrol,Manual,125330,1,Hyderabad,1.1
+1229,Tata,Altroz,2015,11,CNG,Automatic,110669,1,Mumbai,1.1
+1230,Toyota,Fortuner,2025,1,CNG,Manual,3500,3,Bangalore,29.12
+1231,Mahindra,XUV700,2015,11,Petrol,Automatic,144832,1,Chennai,6.97
+1232,Hyundai,Creta,2025,1,CNG,Manual,3500,1,Bangalore,10.36
+1233,Hyundai,Venue,2025,1,Petrol,Manual,3500,1,Chennai,6.13
+1234,Toyota,Innova,2015,11,Petrol,Manual,111448,2,Pune,11.81
+1235,Tata,Nexon,2017,9,CNG,Manual,108932,1,Delhi,1.1
+1236,Kia,Carens,2017,9,Petrol,Automatic,101153,1,Mumbai,4.64
+1237,Hyundai,Venue,2015,11,Electric,Manual,101049,1,Chennai,2.94
+1238,Hyundai,Verna,2020,6,Petrol,Manual,75194,1,Pune,1.81
+1239,Honda,WR-V,2019,7,Petrol,Automatic,61108,1,Chennai,3.97
+1240,Honda,WR-V,2018,8,Diesel,Manual,117246,1,Pune,2.94
+1241,Mahindra,XUV300,2022,4,Diesel,Manual,34580,2,Delhi,7.73
+1242,Tata,Punch,2025,1,Petrol,Manual,3500,2,Chennai,5.6
+1243,Toyota,Glanza,2019,7,Petrol,Automatic,71652,1,Delhi,10.15
+1244,Toyota,Glanza,2016,10,Petrol,Manual,103780,1,Chennai,5.8
+1245,Maruti Suzuki,Baleno,2020,6,Electric,Manual,51072,1,Delhi,4.88
+1246,Mahindra,Thar,2022,4,Diesel,Manual,33942,1,Chennai,13.12
+1247,Hyundai,Creta,2021,5,Diesel,Manual,71276,1,Hyderabad,8.13
+1248,Toyota,Fortuner,2016,10,Diesel,Automatic,115952,1,Hyderabad,23.39
+1249,Kia,Sonet,2017,9,Diesel,Automatic,95976,3,Delhi,3.92
+1250,Mahindra,Thar,2022,4,Diesel,Automatic,53703,1,Bangalore,13.42
+1251,Hyundai,Verna,2016,10,Petrol,Automatic,94917,1,Delhi,1.1
+1252,Tata,Nexon,2017,9,Petrol,Manual,98066,1,Bangalore,1.44
+1253,Hyundai,Verna,2025,1,Petrol,Manual,9771,1,Delhi,7.89
+1254,Maruti Suzuki,Brezza,2015,11,Diesel,Manual,101309,1,Delhi,1.1
+1255,Kia,Sonet,2025,1,Diesel,Automatic,3500,2,Delhi,11.35
+1256,Hyundai,Venue,2017,9,Petrol,Manual,92922,1,Delhi,1.1
+1257,Hyundai,i20,2023,3,Petrol,Manual,28037,2,Delhi,4.36
+1258,Maruti Suzuki,Brezza,2019,7,Petrol,Manual,76311,1,Chennai,1.1
+1259,Hyundai,Venue,2025,1,Electric,Manual,20933,1,Mumbai,10.38
+1260,Mahindra,XUV700,2023,3,Petrol,Automatic,24606,1,Mumbai,15.13
+1261,Toyota,Fortuner,2020,6,CNG,Manual,71002,1,Mumbai,27.07
+1262,Hyundai,Verna,2021,5,Petrol,Manual,69296,2,Mumbai,2.89
+1263,Hyundai,Creta,2021,5,Petrol,Manual,57164,1,Pune,6.03
+1264,Toyota,Innova,2015,11,CNG,Automatic,134359,2,Hyderabad,12.42
+1265,Honda,City,2016,10,Petrol,Automatic,91735,1,Hyderabad,3.64
+1266,Toyota,Fortuner,2015,11,Petrol,Manual,124813,1,Mumbai,22.83
+1267,Toyota,Fortuner,2019,7,Petrol,Manual,64478,3,Delhi,23.91
+1268,Toyota,Glanza,2019,7,Petrol,Manual,67268,1,Hyderabad,7.72
+1269,Mahindra,Thar,2016,10,Diesel,Manual,112960,1,Bangalore,8.98
+1270,Hyundai,Venue,2015,11,CNG,Manual,131636,1,Mumbai,1.1
+1271,Maruti Suzuki,Brezza,2017,9,Petrol,Manual,101283,1,Mumbai,1.1
+1272,Maruti Suzuki,Baleno,2022,4,Petrol,Manual,28397,1,Delhi,4.02
+1273,Mahindra,Thar,2020,6,Petrol,Automatic,66337,1,Pune,11.63
+1274,Tata,Harrier,2019,7,Petrol,Automatic,61568,1,Mumbai,6.26
+1275,Kia,Seltos,2018,8,Diesel,Automatic,103883,1,Chennai,7.56
+1276,Maruti Suzuki,Brezza,2016,10,Petrol,Manual,94625,1,Pune,1.1
+1277,Honda,WR-V,2016,10,Petrol,Manual,95704,1,Pune,1.1
+1278,Toyota,Fortuner,2016,10,Electric,Automatic,121422,1,Mumbai,25.71
+1279,Kia,Carens,2021,5,Diesel,Manual,37499,1,Chennai,6.38
+1280,Honda,Amaze,2018,8,Diesel,Automatic,81465,1,Pune,3.53
+1281,Honda,WR-V,2024,2,Petrol,Manual,28346,1,Bangalore,8.05
+1282,Hyundai,Venue,2025,1,Diesel,Manual,25798,1,Hyderabad,8.11
+1283,Mahindra,XUV700,2016,10,Diesel,Manual,120436,1,Chennai,7.46
+1284,Toyota,Fortuner,2016,10,Petrol,Manual,99791,1,Mumbai,22.31
+1285,Maruti Suzuki,Dzire,2022,4,Petrol,Manual,62916,1,Bangalore,3.48
+1286,Maruti Suzuki,Dzire,2019,7,Diesel,Manual,85288,1,Mumbai,2.57
+1287,Mahindra,Thar,2019,7,Petrol,Manual,71971,1,Bangalore,8.98
+1288,Kia,Carens,2020,6,Diesel,Manual,53320,1,Hyderabad,5.32
+1289,Hyundai,Verna,2020,6,Diesel,Manual,77335,1,Bangalore,3.27
+1290,Toyota,Glanza,2015,11,Petrol,Manual,121855,3,Chennai,2.71
+1291,Mahindra,Scorpio,2021,5,Electric,Manual,68186,1,Mumbai,13.22
+1292,Toyota,Innova,2024,2,Petrol,Automatic,22451,1,Bangalore,20.62
+1293,Hyundai,Creta,2016,10,Petrol,Manual,133119,2,Bangalore,2.58
+1294,Tata,Punch,2019,7,Petrol,Manual,71736,1,Delhi,2.32
+1295,Kia,Sonet,2024,2,Petrol,Manual,34074,1,Mumbai,7.94
+1296,Maruti Suzuki,Dzire,2024,2,Petrol,Manual,7712,1,Delhi,6.17
+1297,Maruti Suzuki,Swift,2025,1,Petrol,Automatic,3500,2,Hyderabad,6.17
+1298,Hyundai,Creta,2019,7,Petrol,Manual,72321,3,Hyderabad,1.83
+1299,Toyota,Innova,2017,9,Petrol,Manual,99943,1,Mumbai,12.9
+1300,Mahindra,XUV700,2016,10,Petrol,Manual,118473,1,Chennai,6.84
+1301,Kia,Sonet,2023,3,Petrol,Automatic,23445,1,Delhi,9.08
+1302,Hyundai,i20,2024,2,Diesel,Automatic,48131,2,Mumbai,7.15
+1303,Toyota,Fortuner,2016,10,Diesel,Automatic,116959,1,Chennai,24.78
+1304,Tata,Harrier,2024,2,Petrol,Automatic,3500,1,Hyderabad,10.3
+1305,Mahindra,XUV300,2018,8,Diesel,Manual,125747,1,Delhi,4.88
+1306,Mahindra,XUV300,2017,9,Petrol,Manual,110404,1,Chennai,2.42
+1307,Mahindra,XUV300,2025,1,Diesel,Manual,16802,1,Mumbai,10.7
+1308,Tata,Nexon,2022,4,Diesel,Automatic,20983,1,Mumbai,6.72
+1309,Mahindra,Scorpio,2015,11,Petrol,Automatic,105100,1,Mumbai,5.92
+1310,Tata,Altroz,2024,2,Petrol,Manual,42338,1,Chennai,6.19
+1311,Mahindra,XUV300,2022,4,Petrol,Manual,32567,1,Bangalore,7.07
+1312,Mahindra,Scorpio,2015,11,Diesel,Manual,83341,1,Pune,6.24
+1313,Kia,Seltos,2021,5,Electric,Automatic,65790,1,Delhi,12.44
+1314,Kia,Sonet,2017,9,Diesel,Manual,104689,2,Mumbai,3.23
+1315,Maruti Suzuki,Brezza,2021,5,Petrol,Manual,65935,1,Hyderabad,3.15
+1316,Tata,Altroz,2019,7,Electric,Manual,91965,2,Bangalore,3.78
+1317,Mahindra,Scorpio,2025,1,Petrol,Automatic,13078,2,Pune,12.71
+1318,Toyota,Fortuner,2021,5,Petrol,Manual,86250,1,Delhi,27.53
+1319,Honda,WR-V,2025,1,Petrol,Manual,28458,1,Chennai,6.75
+1320,Mahindra,XUV300,2025,1,Diesel,Automatic,22092,2,Bangalore,12.08
+1321,Toyota,Fortuner,2017,9,CNG,Manual,84236,1,Bangalore,23.8
+1322,Tata,Altroz,2018,8,Diesel,Manual,84848,1,Delhi,2.23
+1323,Kia,Seltos,2024,2,Petrol,Manual,3740,1,Pune,12.21
+1324,Hyundai,Creta,2020,6,Petrol,Automatic,59840,1,Chennai,6.48
+1325,Honda,WR-V,2020,6,Petrol,Manual,67142,2,Hyderabad,2.11
+1326,Kia,Carens,2021,5,Diesel,Manual,51230,3,Hyderabad,6.54
+1327,Tata,Punch,2024,2,Petrol,Manual,19650,1,Chennai,6.15
+1328,Honda,City,2020,6,Diesel,Manual,89467,1,Mumbai,5.89
+1329,Mahindra,XUV700,2023,3,Diesel,Manual,19347,1,Hyderabad,14.67
+1330,Hyundai,i20,2019,7,Petrol,Manual,86136,1,Delhi,1.69
+1331,Maruti Suzuki,Baleno,2018,8,Petrol,Manual,103769,2,Hyderabad,1.1
+1332,Tata,Harrier,2025,1,Petrol,Manual,3500,1,Delhi,10.5
+1333,Tata,Altroz,2015,11,Electric,Automatic,91903,1,Bangalore,2.72
+1334,Maruti Suzuki,Brezza,2017,9,Petrol,Automatic,81144,2,Hyderabad,1.1
+1335,Toyota,Innova,2024,2,Petrol,Manual,10847,2,Pune,17.11
+1336,Maruti Suzuki,Brezza,2017,9,Petrol,Automatic,93091,1,Hyderabad,1.27
+1337,Kia,Sonet,2015,11,Petrol,Automatic,138689,1,Pune,2.12
+1338,Maruti Suzuki,Dzire,2024,2,Petrol,Manual,36564,2,Mumbai,4.63
+1339,Maruti Suzuki,Brezza,2023,3,Diesel,Manual,34854,1,Hyderabad,6.45
+1340,Mahindra,Thar,2023,3,CNG,Automatic,51875,1,Delhi,14.22
+1341,Mahindra,Scorpio,2024,2,Petrol,Manual,38323,1,Delhi,11.16
+1342,Toyota,Fortuner,2018,8,Petrol,Manual,77821,1,Chennai,23.55
+1343,Maruti Suzuki,Brezza,2021,5,Diesel,Manual,70503,3,Mumbai,2.75
+1344,Mahindra,XUV300,2018,8,Petrol,Manual,88442,2,Bangalore,3.99
+1345,Mahindra,Thar,2019,7,Electric,Manual,85147,3,Mumbai,11.89
+1346,Hyundai,Verna,2021,5,Diesel,Manual,76752,1,Hyderabad,4.13
+1347,Mahindra,XUV700,2020,6,Petrol,Manual,80159,1,Delhi,10.74
+1348,Honda,WR-V,2015,11,CNG,Manual,135136,2,Pune,1.1
+1349,Maruti Suzuki,Brezza,2022,4,Petrol,Manual,40877,2,Chennai,3.2
+1350,Mahindra,Thar,2020,6,Petrol,Manual,35739,1,Bangalore,11.46
+1351,Toyota,Fortuner,2025,1,Diesel,Manual,17249,2,Pune,30.95
+1352,Mahindra,XUV300,2020,6,Electric,Manual,66802,2,Delhi,6.92
+1353,Toyota,Glanza,2020,6,Petrol,Manual,57638,1,Mumbai,9.35
+1354,Hyundai,Creta,2021,5,Petrol,Manual,34049,1,Delhi,7.17
+1355,Kia,Sonet,2018,8,Petrol,Automatic,79589,1,Hyderabad,5.35
+1356,Toyota,Glanza,2021,5,Diesel,Manual,19161,1,Hyderabad,10.81
+1357,Honda,WR-V,2017,9,Diesel,Automatic,129234,1,Delhi,2.29
+1358,Toyota,Glanza,2020,6,Petrol,Manual,59656,1,Pune,8.93
+1359,Honda,WR-V,2019,7,Electric,Automatic,69693,1,Bangalore,5.7
+1360,Tata,Punch,2016,10,Petrol,Manual,104743,1,Mumbai,1.1
+1361,Honda,Amaze,2021,5,Diesel,Automatic,39335,1,Hyderabad,6.72
+1362,Tata,Punch,2017,9,Petrol,Manual,106215,1,Chennai,1.1
+1363,Honda,City,2022,4,CNG,Manual,34683,1,Hyderabad,7.57
+1364,Hyundai,Creta,2017,9,Petrol,Manual,93832,3,Hyderabad,3.0
+1365,Toyota,Innova,2025,1,Diesel,Manual,3500,1,Chennai,20.65
+1366,Honda,City,2023,3,Diesel,Manual,28414,1,Hyderabad,7.83
+1367,Hyundai,Venue,2023,3,Diesel,Manual,47682,1,Hyderabad,6.27
+1368,Maruti Suzuki,Swift,2023,3,CNG,Manual,39959,1,Hyderabad,4.79
+1369,Hyundai,i20,2020,6,Petrol,Automatic,66445,1,Hyderabad,4.38
+1370,Mahindra,Scorpio,2025,1,Petrol,Automatic,9871,2,Hyderabad,11.31
+1371,Toyota,Glanza,2016,10,Petrol,Automatic,130850,1,Chennai,6.23
+1372,Maruti Suzuki,Brezza,2015,11,Diesel,Manual,139710,1,Delhi,1.1
+1373,Tata,Harrier,2023,3,Petrol,Manual,30788,1,Delhi,8.52
+1374,Toyota,Glanza,2018,8,Petrol,Automatic,119214,1,Bangalore,7.95
+1375,Kia,Carens,2022,4,Petrol,Automatic,19306,1,Delhi,7.74
+1376,Kia,Carens,2023,3,Diesel,Automatic,20500,1,Pune,9.23
+1377,Honda,WR-V,2018,8,Petrol,Manual,85994,1,Bangalore,2.54
+1378,Kia,Sonet,2019,7,Diesel,Manual,64691,1,Chennai,4.39
+1379,Honda,Amaze,2016,10,Petrol,Manual,122903,1,Pune,1.1
+1380,Mahindra,XUV700,2020,6,Petrol,Manual,75788,1,Delhi,10.53
+1381,Toyota,Innova,2022,4,Diesel,Manual,39472,1,Chennai,18.51
+1382,Kia,Seltos,2025,1,Petrol,Manual,15524,2,Bangalore,12.68
+1383,Kia,Carens,2015,11,Diesel,Manual,158946,2,Delhi,1.35
+1384,Toyota,Fortuner,2016,10,Diesel,Automatic,106104,2,Hyderabad,23.65
+1385,Tata,Altroz,2015,11,Petrol,Manual,119123,3,Chennai,1.1
+1386,Toyota,Innova,2016,10,Petrol,Manual,116389,1,Delhi,11.74
+1387,Hyundai,Creta,2016,10,Diesel,Manual,113234,1,Hyderabad,3.76
+1388,Mahindra,Thar,2015,11,Petrol,Automatic,123264,1,Bangalore,7.15
+1389,Mahindra,XUV700,2021,5,Petrol,Manual,51317,1,Chennai,11.42
+1390,Mahindra,Thar,2025,1,Diesel,Manual,8656,1,Hyderabad,15.45
+1391,Maruti Suzuki,Swift,2016,10,CNG,Manual,123948,1,Chennai,1.1
+1392,Toyota,Innova,2021,5,Diesel,Manual,60162,2,Chennai,17.15
+1393,Tata,Altroz,2016,10,Petrol,Manual,119846,1,Mumbai,1.1
+1394,Honda,City,2022,4,Petrol,Manual,47986,2,Delhi,7.05
+1395,Mahindra,XUV700,2021,5,Petrol,Manual,47229,1,Hyderabad,12.21
+1396,Hyundai,Creta,2019,7,Petrol,Automatic,77757,1,Bangalore,6.28
+1397,Tata,Punch,2021,5,Electric,Automatic,51630,2,Pune,6.56
+1398,Maruti Suzuki,Swift,2020,6,Diesel,Manual,88592,1,Chennai,2.98
+1399,Hyundai,i20,2017,9,CNG,Automatic,115293,2,Chennai,1.1
+1400,Honda,City,2024,2,Electric,Manual,20091,1,Hyderabad,11.07
+1401,Toyota,Glanza,2025,1,Diesel,Manual,10973,1,Chennai,14.11
+1402,Tata,Harrier,2022,4,Diesel,Automatic,59534,1,Delhi,9.52
+1403,Tata,Punch,2019,7,Petrol,Manual,73453,1,Delhi,2.67
+1404,Tata,Punch,2022,4,Diesel,Manual,77562,2,Chennai,4.83
+1405,Honda,WR-V,2025,1,Diesel,Manual,3500,1,Hyderabad,9.3
+1406,Hyundai,Creta,2015,11,Diesel,Manual,110090,1,Bangalore,2.35
+1407,Kia,Carens,2023,3,Petrol,Manual,37406,1,Mumbai,7.95
+1408,Toyota,Fortuner,2021,5,Electric,Automatic,29208,2,Delhi,30.53
+1409,Tata,Harrier,2015,11,Diesel,Automatic,128695,1,Mumbai,3.45
+1410,Kia,Sonet,2020,6,Petrol,Manual,46554,3,Mumbai,3.96
+1411,Honda,WR-V,2020,6,Petrol,Manual,61673,1,Mumbai,4.85
+1412,Maruti Suzuki,Swift,2015,11,Diesel,Automatic,121804,1,Hyderabad,1.1
+1413,Hyundai,Creta,2016,10,Petrol,Manual,120795,1,Pune,1.59
+1414,Maruti Suzuki,Baleno,2018,8,Electric,Manual,95367,1,Mumbai,2.79
+1415,Hyundai,Verna,2016,10,Petrol,Manual,119624,1,Bangalore,1.1
+1416,Kia,Carens,2016,10,Electric,Manual,101022,3,Bangalore,2.98
+1417,Honda,City,2020,6,Petrol,Manual,57595,1,Chennai,5.89
+1418,Tata,Altroz,2021,5,Diesel,Manual,62895,2,Delhi,3.29
+1419,Mahindra,Scorpio,2021,5,Diesel,Automatic,45410,1,Delhi,11.54
+1420,Hyundai,i20,2015,11,Electric,Automatic,161239,3,Bangalore,1.87
+1421,Maruti Suzuki,Swift,2025,1,Petrol,Manual,31797,3,Bangalore,4.56
+1422,Mahindra,XUV700,2025,1,CNG,Manual,10371,1,Chennai,14.74
+1423,Maruti Suzuki,Brezza,2018,8,CNG,Manual,86256,3,Bangalore,1.1
+1424,Hyundai,Creta,2015,11,Petrol,Automatic,119527,1,Chennai,3.61
+1425,Hyundai,i20,2025,1,Diesel,Manual,20232,1,Chennai,6.89
+1426,Kia,Seltos,2022,4,Petrol,Manual,57645,2,Chennai,8.97
+1427,Maruti Suzuki,Swift,2015,11,Diesel,Automatic,123117,1,Mumbai,1.1
+1428,Maruti Suzuki,Brezza,2015,11,Petrol,Automatic,110877,3,Chennai,1.1
+1429,Tata,Harrier,2015,11,Diesel,Automatic,136581,1,Bangalore,4.61
+1430,Hyundai,Verna,2024,2,CNG,Automatic,14028,1,Delhi,6.69
+1431,Toyota,Glanza,2025,1,Petrol,Manual,3500,2,Delhi,12.94
+1432,Toyota,Innova,2021,5,Petrol,Manual,65770,2,Bangalore,16.45
+1433,Mahindra,XUV700,2019,7,Petrol,Automatic,85634,1,Delhi,10.47
+1434,Hyundai,i20,2021,5,Petrol,Manual,52700,1,Pune,5.03
+1435,Mahindra,XUV300,2023,3,Diesel,Manual,16334,1,Mumbai,9.09
+1436,Tata,Harrier,2021,5,Petrol,Automatic,65377,2,Hyderabad,6.28
+1437,Mahindra,XUV300,2025,1,Petrol,Manual,16758,1,Chennai,9.52
+1438,Maruti Suzuki,Baleno,2016,10,Petrol,Manual,136524,1,Hyderabad,1.1
+1439,Honda,Amaze,2015,11,Petrol,Automatic,120542,2,Chennai,1.1
+1440,Maruti Suzuki,Swift,2020,6,Petrol,Automatic,65863,1,Hyderabad,2.47
+1441,Kia,Carens,2015,11,Petrol,Manual,104588,1,Pune,1.1
+1442,Maruti Suzuki,Dzire,2019,7,CNG,Manual,90535,1,Delhi,1.1
+1443,Toyota,Glanza,2019,7,CNG,Manual,77450,1,Delhi,8.05
+1444,Mahindra,XUV700,2022,4,Petrol,Manual,34486,1,Delhi,12.33
+1445,Toyota,Innova,2016,10,Diesel,Manual,111925,2,Chennai,12.91
+1446,Mahindra,Scorpio,2022,4,Petrol,Automatic,58032,2,Chennai,10.22
+1447,Mahindra,XUV300,2017,9,Petrol,Manual,90879,1,Chennai,2.98
+1448,Maruti Suzuki,Dzire,2016,10,Petrol,Automatic,121202,1,Chennai,1.1
+1449,Kia,Seltos,2019,7,Petrol,Automatic,77621,1,Pune,7.24
+1450,Maruti Suzuki,Brezza,2025,1,CNG,Manual,11048,2,Pune,5.1
+1451,Tata,Altroz,2016,10,Diesel,Manual,91807,2,Hyderabad,1.1
+1452,Maruti Suzuki,Baleno,2020,6,Diesel,Automatic,35025,1,Hyderabad,2.83
+1453,Honda,City,2018,8,Petrol,Manual,97374,3,Hyderabad,2.47
+1454,Maruti Suzuki,Baleno,2017,9,Diesel,Automatic,105227,2,Delhi,1.43
+1455,Hyundai,Verna,2015,11,Petrol,Manual,144276,1,Hyderabad,1.1
+1456,Kia,Carens,2019,7,Diesel,Manual,76945,1,Pune,4.86
+1457,Maruti Suzuki,Baleno,2018,8,Petrol,Automatic,105841,1,Delhi,1.1
+1458,Mahindra,XUV700,2021,5,Petrol,Manual,30121,1,Pune,11.33
+1459,Kia,Seltos,2020,6,Petrol,Manual,40195,1,Hyderabad,7.73
+1460,Mahindra,Thar,2021,5,CNG,Automatic,57980,1,Pune,12.18
+1461,Kia,Carens,2019,7,Diesel,Manual,67832,1,Delhi,4.11
+1462,Hyundai,Venue,2019,7,Petrol,Automatic,106929,1,Mumbai,3.06
+1463,Kia,Seltos,2019,7,Diesel,Automatic,103664,2,Mumbai,7.8
+1464,Toyota,Glanza,2019,7,Petrol,Automatic,59043,1,Pune,9.72
+1465,Maruti Suzuki,Baleno,2016,10,Petrol,Manual,91769,2,Bangalore,1.1
+1466,Honda,WR-V,2018,8,Diesel,Automatic,97216,1,Hyderabad,3.86
+1467,Kia,Sonet,2018,8,Electric,Manual,74927,1,Bangalore,6.71
+1468,Tata,Nexon,2025,1,Petrol,Manual,23281,3,Hyderabad,4.79
+1469,Hyundai,Verna,2019,7,Diesel,Manual,71955,2,Bangalore,2.75
+1470,Honda,WR-V,2022,4,Petrol,Automatic,43481,2,Hyderabad,5.41
+1471,Hyundai,Venue,2020,6,Diesel,Manual,67839,1,Hyderabad,4.41
+1472,Honda,City,2022,4,CNG,Automatic,38687,2,Delhi,7.33
+1473,Tata,Nexon,2021,5,CNG,Manual,88459,1,Bangalore,3.87
+1474,Tata,Altroz,2015,11,Diesel,Manual,134410,1,Mumbai,1.1
+1475,Kia,Carens,2020,6,Petrol,Manual,84652,1,Delhi,4.77
+1476,Toyota,Glanza,2022,4,CNG,Manual,20912,1,Hyderabad,12.15
+1477,Honda,Amaze,2016,10,Petrol,Automatic,114223,1,Pune,1.1
+1478,Mahindra,XUV300,2024,2,Diesel,Manual,16103,1,Chennai,11.04
+1479,Maruti Suzuki,Swift,2020,6,Electric,Manual,57666,1,Delhi,4.64
+1480,Honda,WR-V,2020,6,Petrol,Manual,64662,1,Delhi,3.25
+1481,Honda,City,2019,7,Petrol,Manual,84384,1,Bangalore,4.76
+1482,Toyota,Innova,2016,10,Diesel,Automatic,100014,1,Bangalore,16.06
+1483,Mahindra,Scorpio,2020,6,Petrol,Manual,56489,2,Bangalore,9.09
+1484,Mahindra,Scorpio,2022,4,Petrol,Automatic,51304,1,Pune,10.92
+1485,Kia,Seltos,2015,11,CNG,Manual,124343,1,Pune,3.63
+1486,Tata,Nexon,2016,10,Petrol,Manual,126517,1,Pune,1.1
+1487,Toyota,Fortuner,2020,6,Petrol,Manual,68935,2,Hyderabad,25.57
+1488,Mahindra,Thar,2018,8,Diesel,Automatic,109465,2,Mumbai,11.11
+1489,Honda,City,2021,5,Electric,Manual,21263,1,Bangalore,9.56
+1490,Kia,Carens,2018,8,Petrol,Automatic,118465,2,Pune,3.95
+1491,Maruti Suzuki,Brezza,2015,11,Diesel,Automatic,131441,2,Mumbai,1.1
+1492,Toyota,Fortuner,2021,5,Diesel,Automatic,69783,1,Bangalore,29.44
+1493,Kia,Carens,2017,9,Petrol,Manual,121681,1,Pune,2.16
+1494,Honda,City,2025,1,CNG,Manual,3500,2,Pune,8.68
+1495,Honda,WR-V,2017,9,Petrol,Automatic,115222,1,Hyderabad,2.38
+1496,Mahindra,XUV700,2020,6,CNG,Automatic,39422,2,Chennai,12.3
+1497,Tata,Altroz,2016,10,CNG,Manual,115179,1,Pune,1.1
+1498,Hyundai,Venue,2023,3,CNG,Automatic,26319,1,Chennai,7.04
+1499,Hyundai,Venue,2020,6,Diesel,Automatic,60114,1,Delhi,5.84
+1500,Honda,Amaze,2020,6,Petrol,Manual,62284,2,Mumbai,3.94
+1501,Toyota,Glanza,2020,6,Petrol,Automatic,82257,1,Mumbai,10.59
+1502,Mahindra,XUV300,2017,9,Petrol,Manual,91109,1,Bangalore,4.77
+1503,Honda,Amaze,2022,4,Petrol,Manual,43982,2,Pune,4.9
+1504,Maruti Suzuki,Baleno,2019,7,Petrol,Manual,87454,1,Delhi,1.1
+1505,Mahindra,Scorpio,2020,6,Petrol,Manual,62534,1,Bangalore,9.62
+1506,Hyundai,i20,2024,2,Diesel,Manual,32497,1,Mumbai,6.94
+1507,Toyota,Glanza,2019,7,Petrol,Manual,98165,1,Bangalore,7.14
+1508,Hyundai,i20,2020,6,Diesel,Automatic,78906,1,Hyderabad,5.0
+1509,Toyota,Fortuner,2020,6,CNG,Manual,71877,2,Pune,25.89
+1510,Hyundai,Creta,2022,4,Diesel,Manual,31921,1,Pune,8.72
+1511,Tata,Altroz,2019,7,Electric,Manual,81236,2,Hyderabad,3.74
+1512,Kia,Seltos,2022,4,Petrol,Automatic,36703,1,Mumbai,10.81
+1513,Mahindra,XUV700,2025,1,Petrol,Automatic,3500,2,Bangalore,14.86
+1514,Tata,Harrier,2024,2,Petrol,Manual,26716,1,Hyderabad,9.25
+1515,Maruti Suzuki,Swift,2021,5,Petrol,Manual,45443,1,Delhi,2.45
+1516,Tata,Harrier,2018,8,Petrol,Manual,96561,1,Delhi,4.01
+1517,Mahindra,XUV700,2021,5,Electric,Automatic,62851,1,Mumbai,16.14
+1518,Hyundai,i20,2021,5,Petrol,Automatic,35844,1,Chennai,4.87
+1519,Kia,Seltos,2018,8,Petrol,Manual,110577,2,Pune,4.85
+1520,Mahindra,XUV300,2019,7,Diesel,Manual,83961,1,Pune,5.98
+1521,Honda,Amaze,2022,4,CNG,Manual,54495,1,Pune,5.78
+1522,Toyota,Glanza,2022,4,Electric,Automatic,51579,2,Bangalore,14.59
+1523,Mahindra,XUV700,2015,11,Diesel,Manual,142747,1,Mumbai,9.09
+1524,Hyundai,Verna,2023,3,Petrol,Manual,10925,2,Pune,5.07
+1525,Mahindra,XUV300,2016,10,Petrol,Manual,122105,3,Bangalore,1.66
+1526,Hyundai,Creta,2016,10,CNG,Manual,131932,1,Mumbai,2.7
+1527,Mahindra,XUV700,2022,4,Diesel,Manual,35337,1,Delhi,12.7
+1528,Hyundai,Creta,2025,1,Petrol,Manual,3500,1,Pune,10.65
+1529,Mahindra,Thar,2020,6,Petrol,Manual,79101,2,Mumbai,10.16
+1530,Maruti Suzuki,Baleno,2016,10,Petrol,Manual,111039,1,Mumbai,1.1
+1531,Maruti Suzuki,Swift,2022,4,Petrol,Manual,61599,2,Mumbai,3.51
+1532,Kia,Sonet,2021,5,Diesel,Automatic,87442,1,Bangalore,8.01
+1533,Honda,WR-V,2022,4,Petrol,Manual,50835,1,Mumbai,6.0
+1534,Maruti Suzuki,Swift,2018,8,Petrol,Automatic,103584,1,Pune,1.1
+1535,Honda,City,2019,7,Electric,Manual,55060,1,Pune,8.22
+1536,Tata,Altroz,2016,10,Diesel,Manual,139150,1,Mumbai,1.1
+1537,Mahindra,XUV300,2023,3,Petrol,Manual,35343,1,Hyderabad,9.21
+1538,Kia,Carens,2016,10,Electric,Manual,107925,1,Chennai,4.9
+1539,Mahindra,Thar,2020,6,Petrol,Automatic,85687,1,Delhi,9.86
+1540,Hyundai,Creta,2023,3,Diesel,Manual,27026,1,Hyderabad,9.54
+1541,Tata,Harrier,2021,5,Petrol,Manual,47125,1,Delhi,6.87
+1542,Tata,Altroz,2018,8,Petrol,Automatic,96213,1,Delhi,1.64
+1543,Toyota,Fortuner,2017,9,Petrol,Automatic,89138,3,Bangalore,23.45
+1544,Toyota,Fortuner,2018,8,Diesel,Automatic,73406,2,Mumbai,25.22
+1545,Mahindra,XUV700,2016,10,Diesel,Automatic,134430,1,Mumbai,9.18
+1546,Hyundai,i20,2022,4,Diesel,Manual,78942,1,Pune,5.29
+1547,Kia,Seltos,2021,5,Petrol,Manual,51098,1,Delhi,8.22
+1548,Mahindra,XUV700,2024,2,Diesel,Manual,27357,1,Bangalore,16.52
+1549,Maruti Suzuki,Swift,2021,5,Petrol,Automatic,64154,1,Pune,3.3
+1550,Toyota,Fortuner,2022,4,Petrol,Automatic,54321,1,Hyderabad,28.02
+1551,Tata,Harrier,2024,2,Diesel,Automatic,43343,3,Hyderabad,9.94
+1552,Maruti Suzuki,Swift,2017,9,Petrol,Manual,96856,1,Pune,1.1
+1553,Honda,WR-V,2024,2,Electric,Manual,17091,1,Hyderabad,11.2
+1554,Kia,Seltos,2020,6,Diesel,Automatic,80517,1,Delhi,8.74
+1555,Toyota,Innova,2023,3,Electric,Manual,41517,2,Mumbai,20.5
+1556,Maruti Suzuki,Brezza,2016,10,Petrol,Manual,83835,2,Bangalore,1.1
+1557,Kia,Carens,2023,3,Petrol,Manual,71532,1,Hyderabad,7.45
+1558,Mahindra,XUV700,2016,10,CNG,Manual,110191,1,Hyderabad,8.24
+1559,Kia,Sonet,2020,6,Diesel,Manual,64683,1,Delhi,5.52
+1560,Mahindra,Scorpio,2025,1,Petrol,Manual,3500,2,Chennai,12.11
+1561,Mahindra,Thar,2015,11,Petrol,Automatic,112782,1,Chennai,6.34
+1562,Tata,Altroz,2017,9,Petrol,Manual,101210,2,Hyderabad,1.1
+1563,Honda,WR-V,2018,8,CNG,Manual,93424,1,Chennai,2.64
+1564,Kia,Seltos,2020,6,Petrol,Automatic,71748,2,Mumbai,8.87
+1565,Maruti Suzuki,Brezza,2017,9,Diesel,Manual,116877,1,Mumbai,1.1
+1566,Maruti Suzuki,Brezza,2020,6,Petrol,Manual,61316,2,Mumbai,1.39
+1567,Kia,Sonet,2018,8,Petrol,Manual,90651,1,Hyderabad,3.64
+1568,Mahindra,Scorpio,2024,2,Petrol,Manual,16468,2,Pune,11.68
+1569,Mahindra,XUV300,2025,1,Petrol,Manual,3500,2,Chennai,10.47
+1570,Maruti Suzuki,Dzire,2024,2,Diesel,Manual,19296,2,Bangalore,5.11
+1571,Maruti Suzuki,Brezza,2025,1,Petrol,Manual,14381,1,Mumbai,6.21
+1572,Hyundai,Creta,2024,2,Petrol,Manual,23987,1,Pune,8.79
+1573,Kia,Seltos,2023,3,Petrol,Automatic,5319,2,Mumbai,10.26
+1574,Toyota,Innova,2015,11,Petrol,Manual,114153,1,Pune,11.73
+1575,Toyota,Innova,2022,4,Diesel,Manual,64234,1,Delhi,17.67
+1576,Honda,WR-V,2016,10,Electric,Manual,110673,2,Delhi,1.7
+1577,Honda,City,2015,11,Petrol,Manual,149448,1,Pune,1.1
+1578,Hyundai,Creta,2019,7,Petrol,Manual,88717,1,Hyderabad,5.06
+1579,Honda,City,2025,1,Petrol,Manual,3500,1,Pune,9.46
+1580,Maruti Suzuki,Baleno,2016,10,Electric,Automatic,117479,2,Delhi,2.36
+1581,Mahindra,Scorpio,2016,10,Petrol,Automatic,117628,2,Hyderabad,5.86
+1582,Toyota,Innova,2016,10,Diesel,Manual,111363,2,Pune,12.58
+1583,Hyundai,Venue,2018,8,Diesel,Automatic,100062,1,Hyderabad,2.56
+1584,Hyundai,i20,2022,4,Petrol,Automatic,63617,1,Delhi,5.88
+1585,Maruti Suzuki,Baleno,2024,2,Petrol,Automatic,37849,2,Bangalore,6.55
+1586,Hyundai,i20,2025,1,Petrol,Automatic,3500,1,Hyderabad,8.46
+1587,Maruti Suzuki,Baleno,2017,9,Diesel,Manual,97626,3,Chennai,1.1
+1588,Mahindra,XUV300,2023,3,Electric,Manual,23113,3,Pune,9.45
+1589,Kia,Sonet,2015,11,Petrol,Automatic,120472,1,Hyderabad,1.51
+1590,Tata,Altroz,2017,9,Petrol,Manual,92495,1,Pune,1.1
+1591,Toyota,Glanza,2017,9,Petrol,Manual,113000,1,Mumbai,7.43
+1592,Tata,Nexon,2018,8,Petrol,Manual,90048,1,Delhi,1.77
+1593,Maruti Suzuki,Swift,2019,7,Electric,Automatic,60742,1,Pune,5.03
+1594,Kia,Sonet,2020,6,Electric,Manual,69716,1,Hyderabad,8.23
+1595,Hyundai,Venue,2022,4,Petrol,Automatic,42892,1,Pune,4.65
+1596,Mahindra,XUV300,2017,9,Diesel,Manual,99163,1,Pune,3.43
+1597,Mahindra,XUV700,2020,6,Diesel,Manual,63125,1,Hyderabad,11.04
+1598,Maruti Suzuki,Dzire,2020,6,Diesel,Manual,99042,1,Pune,2.01
+1599,Toyota,Fortuner,2017,9,CNG,Automatic,137467,1,Pune,23.78
+1600,Honda,Amaze,2015,11,Petrol,Manual,123301,1,Bangalore,1.1
+1601,Honda,WR-V,2021,5,Diesel,Manual,45119,1,Delhi,7.0
+1602,Kia,Seltos,2017,9,Petrol,Manual,104663,1,Chennai,4.5
+1603,Mahindra,Scorpio,2016,10,Petrol,Manual,116004,2,Chennai,5.26
+1604,Kia,Sonet,2017,9,Petrol,Manual,99411,1,Mumbai,2.31
+1605,Toyota,Innova,2021,5,Diesel,Manual,55018,1,Hyderabad,17.7
+1606,Maruti Suzuki,Swift,2019,7,CNG,Manual,57005,1,Hyderabad,1.1
+1607,Hyundai,Venue,2021,5,Petrol,Manual,57690,1,Pune,4.1
+1608,Kia,Sonet,2021,5,Diesel,Manual,40555,1,Hyderabad,6.93
+1609,Mahindra,XUV300,2023,3,CNG,Automatic,41642,2,Hyderabad,9.22
+1610,Toyota,Glanza,2015,11,Petrol,Manual,116952,2,Mumbai,5.05
+1611,Honda,City,2021,5,Petrol,Manual,47548,1,Bangalore,5.91
+1612,Toyota,Innova,2020,6,Electric,Manual,89577,2,Hyderabad,17.03
+1613,Honda,WR-V,2019,7,Electric,Automatic,76932,2,Bangalore,6.58
+1614,Kia,Seltos,2023,3,Petrol,Automatic,51057,2,Mumbai,10.6
+1615,Kia,Seltos,2020,6,Petrol,Automatic,56560,2,Delhi,6.56
+1616,Honda,City,2022,4,Diesel,Manual,52448,2,Hyderabad,5.81
+1617,Kia,Seltos,2023,3,Petrol,Automatic,26578,1,Delhi,10.89
+1618,Toyota,Fortuner,2023,3,Electric,Manual,24618,2,Pune,30.71
+1619,Maruti Suzuki,Brezza,2018,8,Diesel,Manual,125073,1,Hyderabad,1.1
+1620,Toyota,Glanza,2020,6,Diesel,Manual,72256,3,Hyderabad,8.72
+1621,Mahindra,XUV300,2025,1,Diesel,Manual,3664,1,Pune,10.71
+1622,Toyota,Fortuner,2018,8,Diesel,Manual,76513,1,Chennai,24.66
+1623,Toyota,Glanza,2016,10,Petrol,Manual,109196,2,Delhi,4.43
+1624,Hyundai,Venue,2016,10,Petrol,Manual,109155,1,Chennai,1.1
+1625,Tata,Harrier,2018,8,CNG,Automatic,91105,2,Mumbai,4.05
+1626,Honda,Amaze,2024,2,Diesel,Manual,3955,1,Delhi,6.92
+1627,Hyundai,Venue,2020,6,Diesel,Automatic,59136,3,Chennai,3.31
+1628,Kia,Carens,2023,3,Electric,Manual,29186,1,Delhi,10.18
+1629,Honda,WR-V,2024,2,Petrol,Automatic,6055,1,Hyderabad,8.27
+1630,Tata,Altroz,2020,6,Electric,Manual,67480,2,Pune,5.61
+1631,Honda,WR-V,2015,11,Petrol,Automatic,121723,1,Delhi,1.1
+1632,Hyundai,Venue,2019,7,Petrol,Automatic,87317,1,Mumbai,3.51
+1633,Hyundai,Venue,2023,3,Petrol,Automatic,59757,1,Mumbai,6.59
+1634,Maruti Suzuki,Swift,2021,5,Petrol,Manual,77899,2,Hyderabad,1.1
+1635,Maruti Suzuki,Brezza,2022,4,Petrol,Automatic,28221,2,Chennai,3.95
+1636,Tata,Altroz,2023,3,Petrol,Manual,28791,1,Mumbai,5.44
+1637,Hyundai,Creta,2015,11,Petrol,Automatic,132333,1,Pune,1.46
+1638,Maruti Suzuki,Dzire,2015,11,Electric,Manual,115553,2,Bangalore,1.1
+1639,Maruti Suzuki,Swift,2024,2,Petrol,Manual,23604,2,Delhi,4.96
+1640,Tata,Altroz,2022,4,Petrol,Manual,64764,1,Hyderabad,4.54
+1641,Tata,Nexon,2021,5,CNG,Manual,66317,1,Delhi,3.72
+1642,Maruti Suzuki,Swift,2019,7,Diesel,Manual,72566,1,Delhi,1.36
+1643,Maruti Suzuki,Dzire,2024,2,Petrol,Manual,18789,2,Chennai,3.54
+1644,Honda,City,2019,7,Petrol,Automatic,92773,1,Chennai,5.1
+1645,Toyota,Fortuner,2015,11,Petrol,Automatic,133331,2,Mumbai,22.45
+1646,Honda,City,2022,4,Petrol,Manual,66256,1,Bangalore,7.26
+1647,Hyundai,i20,2018,8,Petrol,Manual,96996,3,Delhi,1.1
+1648,Maruti Suzuki,Dzire,2022,4,Electric,Manual,67344,3,Mumbai,6.47
+1649,Tata,Punch,2024,2,Diesel,Manual,37568,1,Bangalore,6.92
+1650,Hyundai,i20,2019,7,Petrol,Manual,82616,3,Chennai,1.1
+1651,Toyota,Glanza,2024,2,Petrol,Automatic,38160,3,Delhi,12.8
+1652,Toyota,Innova,2023,3,Diesel,Manual,19915,1,Hyderabad,19.65
+1653,Toyota,Glanza,2023,3,Petrol,Manual,55377,1,Mumbai,10.65
+1654,Kia,Carens,2024,2,Petrol,Manual,21680,2,Mumbai,7.38
+1655,Maruti Suzuki,Swift,2024,2,Diesel,Manual,27557,3,Hyderabad,4.39
+1656,Maruti Suzuki,Baleno,2015,11,Petrol,Automatic,127731,1,Bangalore,1.1
+1657,Maruti Suzuki,Swift,2019,7,Petrol,Manual,65662,1,Chennai,1.1
+1658,Maruti Suzuki,Brezza,2020,6,Petrol,Manual,60870,2,Bangalore,2.23
+1659,Hyundai,Creta,2019,7,CNG,Manual,69676,1,Bangalore,5.74
+1660,Toyota,Fortuner,2025,1,Petrol,Automatic,4315,1,Pune,31.67
+1661,Tata,Harrier,2024,2,Petrol,Manual,36322,1,Hyderabad,8.25
+1662,Tata,Nexon,2023,3,Diesel,Automatic,23328,1,Bangalore,6.39
+1663,Hyundai,Creta,2017,9,CNG,Manual,90440,1,Chennai,3.53
+1664,Mahindra,Scorpio,2024,2,CNG,Automatic,28914,3,Hyderabad,12.23
+1665,Maruti Suzuki,Dzire,2020,6,Petrol,Automatic,57487,1,Delhi,3.43
+1666,Honda,City,2017,9,Diesel,Automatic,99184,1,Chennai,5.63
+1667,Toyota,Glanza,2023,3,Diesel,Manual,37944,1,Mumbai,13.06
+1668,Hyundai,Venue,2023,3,Diesel,Manual,17501,1,Bangalore,6.45
+1669,Tata,Punch,2024,2,Diesel,Manual,22373,1,Bangalore,6.91
+1670,Toyota,Glanza,2023,3,Diesel,Manual,40994,1,Pune,12.6
+1671,Hyundai,Venue,2023,3,CNG,Manual,40925,2,Delhi,4.69
+1672,Tata,Nexon,2024,2,Diesel,Automatic,5341,1,Delhi,8.31
+1673,Honda,City,2024,2,Petrol,Manual,34369,1,Bangalore,8.14
+1674,Hyundai,Verna,2019,7,Diesel,Manual,80807,1,Hyderabad,1.34
+1675,Kia,Carens,2015,11,Petrol,Automatic,125678,2,Bangalore,1.1
+1676,Toyota,Glanza,2020,6,Diesel,Manual,67003,1,Bangalore,9.19
+1677,Kia,Carens,2021,5,Diesel,Automatic,97290,1,Bangalore,9.32
+1678,Hyundai,Creta,2021,5,Petrol,Manual,48958,2,Pune,5.26
+1679,Mahindra,XUV300,2018,8,CNG,Manual,102764,1,Delhi,3.91
+1680,Maruti Suzuki,Dzire,2015,11,Diesel,Manual,119463,2,Chennai,1.1
+1681,Hyundai,i20,2023,3,Electric,Manual,35902,1,Hyderabad,9.31
+1682,Mahindra,XUV700,2015,11,Diesel,Automatic,98470,1,Mumbai,9.73
+1683,Maruti Suzuki,Swift,2017,9,Diesel,Automatic,120450,1,Mumbai,1.1
+1684,Kia,Sonet,2025,1,Petrol,Manual,3500,1,Delhi,9.58
+1685,Kia,Carens,2018,8,Petrol,Manual,68097,2,Pune,3.53
+1686,Honda,Amaze,2017,9,Petrol,Manual,112637,1,Bangalore,1.1
+1687,Honda,City,2025,1,Petrol,Automatic,3500,2,Hyderabad,9.26
+1688,Maruti Suzuki,Swift,2015,11,Petrol,Manual,141919,1,Hyderabad,1.1
+1689,Tata,Harrier,2018,8,CNG,Automatic,83168,2,Mumbai,6.09
+1690,Toyota,Innova,2017,9,Diesel,Manual,94113,1,Bangalore,14.01
+1691,Hyundai,Creta,2022,4,Petrol,Manual,11922,1,Mumbai,8.12
+1692,Toyota,Innova,2024,2,Diesel,Automatic,3500,1,Delhi,21.29
+1693,Maruti Suzuki,Baleno,2025,1,Petrol,Manual,12093,1,Chennai,7.02
+1694,Honda,City,2015,11,Diesel,Manual,135636,2,Hyderabad,1.1
+1695,Mahindra,XUV700,2017,9,Diesel,Manual,92605,1,Mumbai,9.5
+1696,Mahindra,XUV700,2023,3,Petrol,Manual,27507,1,Hyderabad,13.88
+1697,Tata,Altroz,2023,3,Petrol,Automatic,27713,3,Pune,4.55
+1698,Maruti Suzuki,Swift,2018,8,Petrol,Automatic,73263,1,Pune,1.1
+1699,Mahindra,Thar,2025,1,Petrol,Automatic,3500,1,Mumbai,16.27
+1700,Tata,Nexon,2021,5,Diesel,Manual,18916,1,Delhi,5.31
+1701,Maruti Suzuki,Swift,2020,6,Diesel,Automatic,79862,2,Pune,3.14
+1702,Hyundai,Venue,2015,11,CNG,Automatic,138057,1,Mumbai,1.15
+1703,Hyundai,Creta,2019,7,Electric,Manual,85993,1,Delhi,8.45
+1704,Maruti Suzuki,Brezza,2018,8,Diesel,Manual,80758,1,Chennai,1.47
+1705,Tata,Altroz,2024,2,CNG,Automatic,12815,3,Delhi,5.6
+1706,Hyundai,Verna,2023,3,Electric,Manual,52371,1,Mumbai,8.56
+1707,Mahindra,XUV300,2019,7,Petrol,Manual,85235,1,Chennai,5.58
+1708,Tata,Harrier,2017,9,Petrol,Manual,115617,2,Mumbai,3.03
+1709,Mahindra,XUV300,2023,3,Petrol,Automatic,26358,1,Chennai,9.99
+1710,Tata,Altroz,2022,4,Petrol,Automatic,56243,1,Delhi,5.1
+1711,Maruti Suzuki,Swift,2015,11,Diesel,Manual,137701,1,Delhi,1.1
+1712,Mahindra,Scorpio,2021,5,Petrol,Manual,54022,1,Pune,8.65
+1713,Hyundai,Venue,2023,3,Petrol,Automatic,37641,2,Delhi,5.43
+1714,Honda,Amaze,2021,5,CNG,Manual,58779,3,Chennai,4.44
+1715,Toyota,Fortuner,2025,1,Petrol,Automatic,3500,1,Mumbai,32.09
+1716,Kia,Seltos,2023,3,Petrol,Manual,51127,1,Hyderabad,8.95
+1717,Honda,WR-V,2021,5,Petrol,Manual,68996,2,Mumbai,3.85
+1718,Maruti Suzuki,Brezza,2015,11,CNG,Manual,134848,1,Pune,1.1
+1719,Hyundai,Verna,2024,2,Electric,Automatic,8661,2,Hyderabad,9.46
+1720,Toyota,Fortuner,2015,11,Petrol,Manual,132293,1,Mumbai,22.56
+1721,Kia,Seltos,2017,9,CNG,Manual,93229,1,Delhi,5.46
+1722,Honda,City,2022,4,Petrol,Manual,39777,1,Delhi,7.92
+1723,Maruti Suzuki,Dzire,2017,9,Diesel,Manual,97630,1,Bangalore,1.1
+1724,Honda,Amaze,2018,8,Petrol,Manual,99819,1,Bangalore,1.87
+1725,Honda,Amaze,2023,3,Diesel,Manual,39110,3,Bangalore,4.54
+1726,Tata,Altroz,2016,10,Petrol,Manual,139516,2,Pune,1.1
+1727,Hyundai,Creta,2020,6,Petrol,Manual,40203,1,Mumbai,6.09
+1728,Hyundai,Venue,2015,11,Petrol,Manual,109845,1,Chennai,1.1
+1729,Mahindra,XUV300,2019,7,Diesel,Manual,100502,1,Mumbai,5.81
+1730,Maruti Suzuki,Dzire,2018,8,CNG,Manual,91269,1,Chennai,1.1
+1731,Honda,Amaze,2023,3,Diesel,Automatic,24083,1,Mumbai,8.31
+1732,Kia,Seltos,2022,4,Petrol,Automatic,49318,1,Chennai,11.15
+1733,Tata,Punch,2021,5,Diesel,Automatic,84896,3,Delhi,2.93
+1734,Toyota,Glanza,2019,7,Electric,Automatic,85835,1,Hyderabad,12.46
+1735,Hyundai,Verna,2023,3,Diesel,Automatic,33781,1,Chennai,7.53
+1736,Hyundai,Venue,2017,9,Petrol,Automatic,89700,1,Mumbai,1.1
+1737,Toyota,Glanza,2023,3,CNG,Manual,18412,1,Delhi,12.17
+1738,Toyota,Fortuner,2017,9,Petrol,Manual,103121,1,Delhi,23.69
+1739,Toyota,Innova,2020,6,Diesel,Automatic,87111,1,Pune,18.0
+1740,Mahindra,Thar,2024,2,Diesel,Manual,15275,1,Mumbai,15.02
+1741,Maruti Suzuki,Brezza,2020,6,Diesel,Automatic,61221,1,Bangalore,4.61
+1742,Maruti Suzuki,Brezza,2023,3,Diesel,Automatic,16279,1,Chennai,7.32
+1743,Hyundai,Venue,2017,9,Petrol,Manual,98649,2,Chennai,1.1
+1744,Mahindra,XUV700,2017,9,Diesel,Manual,91722,1,Bangalore,9.46
+1745,Toyota,Innova,2025,1,Diesel,Manual,12852,1,Delhi,21.45
+1746,Hyundai,i20,2022,4,Petrol,Automatic,42485,1,Mumbai,5.54
+1747,Hyundai,i20,2020,6,Diesel,Manual,74676,1,Chennai,3.35
+1748,Maruti Suzuki,Baleno,2017,9,Diesel,Automatic,100455,2,Hyderabad,1.1
+1749,Kia,Carens,2015,11,Electric,Manual,99517,2,Hyderabad,2.41
+1750,Tata,Punch,2019,7,CNG,Manual,56793,1,Pune,2.28
+1751,Hyundai,Verna,2023,3,Petrol,Manual,23885,1,Hyderabad,5.24
+1752,Kia,Sonet,2017,9,CNG,Manual,104551,1,Pune,2.47
+1753,Kia,Carens,2022,4,Petrol,Manual,43899,1,Chennai,5.93
+1754,Tata,Punch,2015,11,Petrol,Automatic,129361,2,Chennai,1.1
+1755,Honda,WR-V,2019,7,CNG,Manual,67815,2,Mumbai,2.06
+1756,Toyota,Glanza,2019,7,Diesel,Automatic,78411,2,Delhi,10.27
+1757,Hyundai,i20,2018,8,Electric,Automatic,78892,1,Chennai,4.93
+1758,Honda,WR-V,2022,4,Petrol,Manual,48097,3,Mumbai,3.26
+1759,Kia,Carens,2015,11,Diesel,Manual,98374,2,Chennai,2.93
+1760,Tata,Altroz,2015,11,Petrol,Manual,127081,1,Bangalore,1.1
+1761,Kia,Seltos,2016,10,Diesel,Automatic,101543,1,Delhi,7.0
+1762,Honda,Amaze,2021,5,Electric,Automatic,88702,2,Chennai,7.52
+1763,Toyota,Glanza,2023,3,CNG,Manual,24213,1,Mumbai,10.88
+1764,Kia,Sonet,2019,7,Petrol,Automatic,91428,1,Pune,5.13
+1765,Tata,Nexon,2017,9,Diesel,Automatic,131012,1,Bangalore,3.4
+1766,Kia,Carens,2025,1,Diesel,Manual,29752,2,Pune,9.87
+1767,Maruti Suzuki,Swift,2016,10,Petrol,Automatic,108552,1,Hyderabad,1.1
+1768,Maruti Suzuki,Dzire,2021,5,Petrol,Manual,51061,2,Bangalore,3.13
+1769,Mahindra,Thar,2024,2,Diesel,Manual,16292,1,Chennai,14.01
+1770,Maruti Suzuki,Brezza,2022,4,Petrol,Automatic,55021,1,Chennai,4.47
+1771,Honda,WR-V,2021,5,Petrol,Manual,56618,1,Mumbai,6.41
+1772,Hyundai,Verna,2021,5,Petrol,Manual,58947,2,Mumbai,2.97
+1773,Mahindra,XUV700,2018,8,CNG,Manual,82971,1,Delhi,8.54
+1774,Mahindra,XUV300,2020,6,Diesel,Manual,45848,1,Delhi,7.65
+1775,Maruti Suzuki,Brezza,2020,6,Diesel,Manual,84646,1,Hyderabad,1.99
+1776,Maruti Suzuki,Dzire,2020,6,Diesel,Manual,49833,1,Pune,3.4
+1777,Mahindra,XUV700,2023,3,Petrol,Automatic,46217,1,Mumbai,14.62
+1778,Tata,Punch,2020,6,CNG,Manual,43471,2,Chennai,2.4
+1779,Mahindra,Thar,2020,6,Petrol,Automatic,64979,1,Pune,12.61
+1780,Hyundai,Verna,2015,11,Diesel,Manual,148097,2,Chennai,1.1
+1781,Toyota,Innova,2023,3,Diesel,Manual,34406,2,Pune,18.41
+1782,Kia,Seltos,2018,8,CNG,Manual,98606,1,Bangalore,7.05
+1783,Honda,WR-V,2015,11,Petrol,Automatic,121008,1,Pune,1.1
+1784,Toyota,Fortuner,2024,2,Petrol,Manual,17424,1,Chennai,28.45
+1785,Maruti Suzuki,Swift,2023,3,Petrol,Manual,32549,1,Bangalore,3.14
+1786,Tata,Punch,2018,8,Petrol,Automatic,94317,1,Mumbai,2.24
+1787,Hyundai,i20,2022,4,Diesel,Manual,26596,1,Bangalore,6.05
+1788,Kia,Carens,2020,6,Petrol,Manual,76072,2,Bangalore,5.4
+1789,Hyundai,Creta,2016,10,Electric,Manual,107956,1,Hyderabad,5.98
+1790,Honda,Amaze,2018,8,Diesel,Automatic,73255,1,Pune,3.73
+1791,Kia,Seltos,2018,8,CNG,Automatic,55773,1,Bangalore,6.68
+1792,Hyundai,i20,2024,2,Electric,Manual,7411,1,Chennai,9.1
+1793,Mahindra,XUV700,2018,8,Diesel,Manual,122911,1,Delhi,10.72
+1794,Toyota,Innova,2015,11,Diesel,Automatic,106486,1,Hyderabad,13.83
+1795,Tata,Punch,2016,10,Diesel,Manual,114756,1,Mumbai,1.1
+1796,Kia,Sonet,2018,8,Petrol,Manual,81933,1,Mumbai,4.35
+1797,Tata,Altroz,2024,2,Petrol,Manual,9116,1,Chennai,5.91
+1798,Mahindra,XUV300,2016,10,CNG,Manual,122737,1,Mumbai,3.53
+1799,Hyundai,Venue,2023,3,Petrol,Manual,60477,1,Delhi,5.31
+1800,Hyundai,Venue,2025,1,Petrol,Manual,3500,1,Chennai,6.88
+1801,Kia,Sonet,2022,4,Petrol,Manual,19990,1,Bangalore,7.09
+1802,Kia,Sonet,2019,7,Petrol,Manual,60625,3,Hyderabad,1.94
+1803,Tata,Punch,2016,10,Diesel,Manual,124928,1,Pune,1.1
+1804,Toyota,Glanza,2015,11,Petrol,Manual,139428,1,Bangalore,4.35
+1805,Tata,Nexon,2023,3,Electric,Manual,47239,2,Mumbai,7.57
+1806,Tata,Harrier,2018,8,CNG,Manual,66926,1,Delhi,3.76
+1807,Mahindra,Thar,2016,10,Petrol,Manual,137774,1,Mumbai,6.56
+1808,Kia,Carens,2019,7,Petrol,Automatic,76175,1,Mumbai,5.71
+1809,Hyundai,Verna,2019,7,Electric,Automatic,73078,1,Chennai,5.79
+1810,Maruti Suzuki,Brezza,2022,4,CNG,Manual,53291,1,Pune,2.83
+1811,Mahindra,Thar,2022,4,Diesel,Automatic,33790,1,Hyderabad,14.22
+1812,Tata,Nexon,2024,2,Diesel,Manual,21704,1,Delhi,6.48
+1813,Hyundai,Venue,2015,11,Petrol,Automatic,127997,1,Bangalore,1.1
+1814,Honda,City,2019,7,Petrol,Manual,70757,1,Hyderabad,4.78
+1815,Hyundai,Creta,2016,10,Diesel,Manual,109325,1,Hyderabad,3.44
+1816,Tata,Punch,2017,9,Petrol,Automatic,118309,1,Chennai,1.82
+1817,Tata,Harrier,2023,3,Diesel,Manual,18097,1,Mumbai,9.35
+1818,Honda,Amaze,2023,3,Petrol,Manual,16771,1,Chennai,6.0
+1819,Maruti Suzuki,Baleno,2021,5,Petrol,Manual,68629,1,Bangalore,2.31
+1820,Maruti Suzuki,Dzire,2018,8,Electric,Manual,75598,1,Chennai,1.74
+1821,Honda,WR-V,2015,11,Petrol,Manual,112467,1,Bangalore,1.1
+1822,Toyota,Glanza,2022,4,Petrol,Manual,69813,1,Chennai,8.47
+1823,Honda,City,2015,11,Diesel,Manual,120723,1,Mumbai,3.14
+1824,Honda,City,2017,9,CNG,Manual,139645,1,Hyderabad,3.4
+1825,Kia,Seltos,2021,5,Petrol,Manual,60525,1,Mumbai,7.98
+1826,Kia,Sonet,2019,7,Petrol,Automatic,82018,3,Bangalore,3.25
+1827,Kia,Carens,2019,7,Diesel,Manual,91039,1,Pune,5.22
+1828,Toyota,Innova,2015,11,Petrol,Manual,139344,2,Bangalore,10.96
+1829,Toyota,Innova,2016,10,Electric,Manual,94702,1,Hyderabad,15.97
+1830,Honda,Amaze,2020,6,Diesel,Manual,41571,1,Delhi,5.53
+1831,Maruti Suzuki,Baleno,2018,8,Petrol,Automatic,98391,1,Mumbai,1.1
+1832,Maruti Suzuki,Dzire,2024,2,Petrol,Automatic,42544,2,Bangalore,5.2
+1833,Mahindra,Thar,2020,6,Petrol,Automatic,60704,1,Bangalore,11.54
+1834,Hyundai,i20,2018,8,Diesel,Manual,116234,1,Delhi,1.75
+1835,Kia,Sonet,2025,1,Petrol,Manual,12754,1,Bangalore,9.46
+1836,Maruti Suzuki,Baleno,2018,8,Petrol,Manual,96627,1,Pune,1.1
+1837,Kia,Sonet,2018,8,Petrol,Manual,90820,1,Mumbai,3.77
+1838,Honda,Amaze,2017,9,Electric,Automatic,101501,1,Bangalore,5.96
+1839,Tata,Harrier,2023,3,Petrol,Manual,47186,1,Pune,8.44
+1840,Kia,Sonet,2021,5,CNG,Automatic,45521,1,Chennai,6.0
+1841,Kia,Carens,2021,5,Petrol,Manual,83629,1,Delhi,6.73
+1842,Toyota,Innova,2018,8,Electric,Automatic,95317,2,Mumbai,17.52
+1843,Maruti Suzuki,Swift,2015,11,Petrol,Manual,124948,1,Chennai,1.1
+1844,Toyota,Fortuner,2019,7,Petrol,Manual,41262,1,Chennai,25.13
+1845,Honda,WR-V,2025,1,Diesel,Manual,11611,3,Chennai,7.12
+1846,Honda,Amaze,2015,11,Petrol,Automatic,129093,1,Mumbai,1.1
+1847,Toyota,Fortuner,2025,1,CNG,Automatic,3500,1,Bangalore,31.3
+1848,Kia,Carens,2019,7,Electric,Automatic,129873,1,Delhi,7.07
+1849,Tata,Nexon,2017,9,Petrol,Manual,96698,2,Delhi,1.1
+1850,Tata,Nexon,2017,9,Petrol,Manual,111999,1,Chennai,1.38
+1851,Kia,Seltos,2023,3,Petrol,Automatic,58639,1,Delhi,11.05
+1852,Honda,WR-V,2016,10,Diesel,Manual,100811,1,Pune,1.1
+1853,Kia,Seltos,2025,1,Petrol,Manual,34228,2,Pune,10.83
+1854,Maruti Suzuki,Dzire,2015,11,CNG,Manual,145421,1,Pune,1.1
+1855,Toyota,Fortuner,2020,6,CNG,Automatic,96257,1,Hyderabad,26.42
+1856,Toyota,Fortuner,2022,4,Petrol,Manual,33292,1,Bangalore,27.94
+1857,Tata,Nexon,2015,11,Diesel,Manual,120248,1,Hyderabad,1.1
+1858,Tata,Harrier,2021,5,Petrol,Automatic,58665,2,Pune,5.84
+1859,Hyundai,Verna,2025,1,Petrol,Automatic,3500,1,Chennai,7.27
+1860,Kia,Seltos,2020,6,Petrol,Automatic,62662,1,Pune,7.94
+1861,Honda,Amaze,2025,1,Diesel,Automatic,10351,1,Delhi,10.4
+1862,Maruti Suzuki,Brezza,2020,6,Petrol,Automatic,81608,1,Chennai,2.19
+1863,Hyundai,Venue,2025,1,Diesel,Manual,3554,1,Chennai,7.95
+1864,Honda,City,2024,2,Diesel,Manual,3500,3,Delhi,8.96
+1865,Honda,City,2023,3,Diesel,Manual,35335,2,Delhi,8.31
+1866,Toyota,Glanza,2020,6,Petrol,Manual,73997,2,Chennai,8.25
+1867,Kia,Seltos,2021,5,Diesel,Manual,24222,1,Chennai,9.29
+1868,Kia,Carens,2022,4,Diesel,Manual,35383,1,Hyderabad,7.48
+1869,Toyota,Innova,2017,9,Diesel,Automatic,114062,2,Mumbai,14.76
+1870,Maruti Suzuki,Dzire,2018,8,Petrol,Automatic,91345,1,Chennai,1.1
+1871,Tata,Punch,2015,11,Diesel,Manual,120273,2,Chennai,1.1
+1872,Kia,Sonet,2024,2,Diesel,Manual,23737,1,Mumbai,9.93
+1873,Mahindra,XUV300,2021,5,Petrol,Manual,58750,1,Chennai,6.42
+1874,Toyota,Glanza,2023,3,CNG,Manual,44385,2,Chennai,10.32
+1875,Honda,City,2018,8,CNG,Manual,100393,1,Pune,3.99
+1876,Kia,Carens,2022,4,Petrol,Manual,25122,1,Mumbai,8.03
+1877,Toyota,Innova,2025,1,Diesel,Manual,18736,1,Mumbai,21.45
+1878,Tata,Harrier,2018,8,Diesel,Manual,89290,1,Hyderabad,5.75
+1879,Tata,Harrier,2020,6,Diesel,Manual,56654,1,Mumbai,7.77
+1880,Maruti Suzuki,Swift,2024,2,Petrol,Manual,29251,1,Chennai,4.56
+1881,Hyundai,Venue,2017,9,Diesel,Automatic,96244,1,Hyderabad,1.35
+1882,Tata,Nexon,2022,4,Diesel,Automatic,31714,1,Chennai,5.87
+1883,Tata,Altroz,2023,3,Petrol,Automatic,54132,1,Pune,5.09
+1884,Tata,Altroz,2020,6,Petrol,Automatic,59381,1,Delhi,4.11
+1885,Tata,Altroz,2021,5,CNG,Manual,52661,1,Hyderabad,2.55
+1886,Toyota,Innova,2015,11,CNG,Manual,125102,1,Hyderabad,11.14
+1887,Hyundai,Verna,2023,3,Diesel,Manual,49885,1,Hyderabad,4.93
+1888,Mahindra,Scorpio,2021,5,Diesel,Manual,48733,1,Mumbai,10.36
+1889,Toyota,Glanza,2021,5,Petrol,Automatic,51100,1,Bangalore,11.1
+1890,Hyundai,Venue,2019,7,Petrol,Manual,88906,1,Mumbai,1.64
+1891,Kia,Carens,2022,4,Petrol,Manual,46412,1,Hyderabad,6.35
+1892,Hyundai,Venue,2020,6,Petrol,Manual,64516,1,Bangalore,3.17
+1893,Hyundai,i20,2020,6,Petrol,Automatic,65183,1,Mumbai,4.51
+1894,Honda,City,2015,11,Diesel,Automatic,105383,3,Pune,1.87
+1895,Toyota,Innova,2016,10,Petrol,Manual,135386,3,Pune,11.21
+1896,Hyundai,i20,2024,2,Diesel,Automatic,29701,3,Bangalore,7.0
+1897,Tata,Punch,2024,2,Diesel,Manual,34451,1,Pune,7.09
+1898,Honda,Amaze,2023,3,Petrol,Manual,21001,1,Pune,5.36
+1899,Kia,Sonet,2025,1,Diesel,Manual,8997,1,Delhi,9.84
+1900,Mahindra,XUV300,2022,4,Petrol,Manual,35727,1,Hyderabad,7.11
+1901,Kia,Seltos,2016,10,Diesel,Automatic,104147,2,Hyderabad,5.37
+1902,Hyundai,i20,2021,5,Petrol,Automatic,47111,1,Pune,3.62
+1903,Mahindra,Thar,2025,1,Petrol,Manual,5183,1,Delhi,14.13
+1904,Honda,Amaze,2015,11,Diesel,Automatic,128634,1,Delhi,1.25
+1905,Mahindra,XUV300,2021,5,CNG,Manual,48314,1,Hyderabad,7.5
+1906,Tata,Harrier,2024,2,Petrol,Automatic,17741,1,Bangalore,10.84
+1907,Honda,WR-V,2021,5,Petrol,Automatic,40986,1,Hyderabad,4.85
+1908,Mahindra,XUV700,2015,11,Petrol,Manual,146600,2,Pune,4.6
+1909,Honda,WR-V,2022,4,Petrol,Automatic,68964,1,Bangalore,5.82
+1910,Maruti Suzuki,Swift,2021,5,Diesel,Manual,64936,1,Hyderabad,3.35
+1911,Mahindra,XUV700,2020,6,Petrol,Manual,73212,1,Mumbai,11.36
+1912,Honda,City,2019,7,Petrol,Automatic,80775,2,Delhi,4.31
+1913,Mahindra,XUV700,2020,6,Diesel,Manual,77652,1,Chennai,11.72
+1914,Toyota,Innova,2018,8,Electric,Manual,94995,2,Delhi,15.99
+1915,Honda,Amaze,2021,5,Diesel,Manual,46243,1,Delhi,6.18
+1916,Maruti Suzuki,Brezza,2025,1,Petrol,Automatic,9051,1,Delhi,6.27
+1917,Toyota,Glanza,2017,9,Diesel,Manual,125946,1,Delhi,8.93
+1918,Tata,Harrier,2015,11,Diesel,Manual,131263,1,Chennai,2.19
+1919,Hyundai,Venue,2024,2,Diesel,Manual,18740,1,Pune,6.69
+1920,Toyota,Innova,2024,2,Petrol,Manual,10396,1,Delhi,18.71
+1921,Kia,Carens,2018,8,Diesel,Automatic,64229,1,Mumbai,6.28
+1922,Maruti Suzuki,Swift,2021,5,Petrol,Automatic,53110,1,Delhi,2.9
+1923,Hyundai,i20,2019,7,Petrol,Automatic,101515,2,Bangalore,2.23
+1924,Toyota,Glanza,2015,11,CNG,Automatic,119037,1,Bangalore,6.09
+1925,Tata,Harrier,2019,7,Electric,Automatic,95917,1,Chennai,8.04
+1926,Tata,Nexon,2019,7,Petrol,Manual,76472,1,Bangalore,1.1
+1927,Hyundai,i20,2024,2,Diesel,Manual,29822,1,Pune,6.95
+1928,Tata,Nexon,2022,4,CNG,Manual,59007,3,Bangalore,3.28
+1929,Mahindra,XUV300,2022,4,Diesel,Manual,37531,1,Hyderabad,8.99
+1930,Hyundai,i20,2018,8,Diesel,Manual,103362,1,Delhi,1.85
+1931,Toyota,Glanza,2018,8,Diesel,Automatic,75447,1,Chennai,7.76
+1932,Hyundai,i20,2018,8,Petrol,Manual,70884,1,Pune,1.1
+1933,Honda,WR-V,2016,10,Petrol,Manual,119493,1,Chennai,1.1
+1934,Kia,Seltos,2017,9,Petrol,Manual,121310,1,Pune,4.57
+1935,Tata,Punch,2025,1,Diesel,Manual,3500,1,Hyderabad,7.39
+1936,Tata,Harrier,2023,3,Petrol,Manual,24543,2,Bangalore,9.45
+1937,Toyota,Innova,2016,10,Diesel,Automatic,105474,2,Bangalore,13.81
+1938,Honda,WR-V,2024,2,Diesel,Manual,28769,1,Chennai,7.56
+1939,Mahindra,XUV700,2024,2,Petrol,Automatic,6900,1,Mumbai,17.15
+1940,Honda,City,2017,9,Petrol,Manual,63203,2,Bangalore,2.83
+1941,Honda,City,2018,8,Electric,Manual,109582,2,Hyderabad,5.34
+1942,Hyundai,i20,2021,5,Electric,Manual,44548,2,Delhi,6.23
+1943,Honda,WR-V,2020,6,Diesel,Automatic,64415,3,Mumbai,4.67
+1944,Kia,Seltos,2023,3,Petrol,Manual,58648,1,Delhi,9.62
+1945,Honda,WR-V,2021,5,Petrol,Automatic,52670,1,Hyderabad,5.26
+1946,Toyota,Innova,2015,11,Petrol,Manual,115585,1,Mumbai,12.54
+1947,Kia,Carens,2019,7,Petrol,Automatic,81511,1,Delhi,6.33
+1948,Honda,City,2017,9,CNG,Automatic,94019,1,Chennai,5.12
+1949,Hyundai,Creta,2021,5,Petrol,Manual,75479,1,Hyderabad,6.5
+1950,Tata,Nexon,2020,6,Diesel,Manual,45040,2,Mumbai,2.86
+1951,Kia,Carens,2021,5,Diesel,Manual,53667,1,Hyderabad,6.22
+1952,Mahindra,XUV300,2017,9,Diesel,Manual,99049,2,Chennai,3.15
+1953,Mahindra,Scorpio,2021,5,Petrol,Automatic,43174,3,Mumbai,8.74
+1954,Hyundai,Verna,2022,4,Petrol,Manual,38740,1,Hyderabad,4.39
+1955,Toyota,Glanza,2024,2,Diesel,Manual,13913,3,Bangalore,13.33
+1956,Kia,Sonet,2022,4,Petrol,Automatic,61845,1,Hyderabad,6.97
+1957,Tata,Punch,2017,9,Diesel,Manual,139672,1,Chennai,1.1
+1958,Hyundai,i20,2025,1,Petrol,Manual,3500,1,Hyderabad,6.16
+1959,Tata,Punch,2023,3,Electric,Manual,20504,3,Pune,7.44
+1960,Honda,City,2017,9,Petrol,Manual,99362,1,Pune,2.51
+1961,Tata,Harrier,2015,11,Petrol,Automatic,105411,1,Delhi,2.82
+1962,Kia,Carens,2025,1,Petrol,Manual,34197,1,Pune,7.98
+1963,Tata,Punch,2024,2,Diesel,Automatic,38516,1,Hyderabad,7.04
+1964,Honda,Amaze,2019,7,Petrol,Manual,70871,1,Hyderabad,3.74
+1965,Honda,Amaze,2022,4,Petrol,Manual,38396,1,Chennai,5.1
+1966,Mahindra,Scorpio,2024,2,CNG,Manual,4090,3,Pune,11.55
+1967,Maruti Suzuki,Dzire,2017,9,Petrol,Manual,105325,2,Delhi,1.1
+1968,Honda,WR-V,2015,11,Diesel,Automatic,128662,1,Pune,1.1
+1969,Honda,WR-V,2018,8,Electric,Automatic,86603,1,Delhi,6.32
+1970,Mahindra,XUV300,2020,6,Petrol,Manual,77455,1,Delhi,6.05
+1971,Mahindra,XUV300,2025,1,Petrol,Manual,7037,1,Delhi,10.63
+1972,Honda,WR-V,2016,10,CNG,Manual,122310,1,Bangalore,1.1
+1973,Hyundai,Creta,2024,2,Electric,Manual,24382,2,Delhi,10.82
+1974,Mahindra,Thar,2020,6,Petrol,Automatic,52009,1,Chennai,11.79
+1975,Mahindra,XUV300,2021,5,Electric,Manual,45892,1,Bangalore,9.89
+1976,Kia,Seltos,2024,2,Petrol,Manual,27160,1,Delhi,10.64
+1977,Honda,Amaze,2021,5,Diesel,Automatic,43092,1,Pune,7.15
+1978,Maruti Suzuki,Baleno,2019,7,Petrol,Manual,111088,1,Chennai,1.1
+1979,Hyundai,Venue,2018,8,Petrol,Automatic,100322,1,Bangalore,1.53
+1980,Toyota,Innova,2024,2,Petrol,Manual,3500,1,Mumbai,20.33
+1981,Honda,Amaze,2021,5,Petrol,Automatic,64598,1,Hyderabad,4.96
+1982,Hyundai,i20,2022,4,Petrol,Automatic,61737,1,Pune,4.89
+1983,Mahindra,XUV700,2020,6,Petrol,Manual,74779,1,Chennai,10.02
+1984,Tata,Harrier,2016,10,Petrol,Manual,108985,2,Bangalore,3.48
+1985,Kia,Carens,2017,9,Petrol,Automatic,101086,1,Pune,3.19
+1986,Kia,Carens,2022,4,Diesel,Manual,59617,3,Chennai,7.1
+1987,Kia,Seltos,2015,11,Diesel,Manual,133504,1,Delhi,4.17
+1988,Hyundai,Verna,2020,6,CNG,Manual,73510,1,Hyderabad,3.26
+1989,Kia,Carens,2024,2,Petrol,Manual,20375,3,Hyderabad,6.19
+1990,Hyundai,Creta,2016,10,Petrol,Automatic,103190,1,Chennai,4.38
+1991,Maruti Suzuki,Baleno,2018,8,CNG,Manual,62965,1,Bangalore,1.1
+1992,Hyundai,Verna,2022,4,Petrol,Automatic,35093,2,Chennai,5.63
+1993,Honda,Amaze,2019,7,CNG,Automatic,95352,1,Delhi,4.22
+1994,Maruti Suzuki,Baleno,2020,6,Petrol,Automatic,66165,1,Mumbai,3.57
+1995,Tata,Harrier,2019,7,Diesel,Automatic,84469,1,Mumbai,8.07
+1996,Hyundai,i20,2020,6,CNG,Manual,78944,1,Delhi,2.3
+1997,Tata,Nexon,2016,10,Diesel,Manual,86645,1,Mumbai,1.46
+1998,Kia,Carens,2020,6,Diesel,Automatic,71514,2,Delhi,6.14
+1999,Kia,Carens,2022,4,Electric,Automatic,46109,3,Delhi,10.03
+2000,Tata,Altroz,2016,10,CNG,Manual,114701,2,Pune,1.1
+2001,Tata,Punch,2020,6,Diesel,Manual,76289,2,Bangalore,2.92
+2002,Toyota,Innova,2017,9,Diesel,Automatic,116616,2,Bangalore,14.29
+2003,Toyota,Glanza,2019,7,Diesel,Manual,72043,2,Bangalore,8.27
+2004,Toyota,Glanza,2017,9,Electric,Manual,116254,1,Hyderabad,8.65
+2005,Honda,City,2024,2,Electric,Manual,22997,2,Hyderabad,10.35
+2006,Kia,Seltos,2025,1,Diesel,Manual,11084,1,Chennai,12.29
+2007,Tata,Nexon,2016,10,Diesel,Automatic,105802,1,Chennai,1.78
+2008,Mahindra,XUV300,2017,9,Petrol,Manual,94220,1,Hyderabad,3.64
+2009,Maruti Suzuki,Dzire,2025,1,Electric,Automatic,25077,3,Chennai,7.82
+2010,Hyundai,i20,2023,3,Electric,Manual,36313,1,Hyderabad,7.62
+2011,Toyota,Fortuner,2021,5,Petrol,Automatic,51465,2,Bangalore,27.76
+2012,Tata,Nexon,2017,9,CNG,Manual,124148,1,Chennai,1.1
+2013,Toyota,Fortuner,2018,8,Petrol,Manual,97412,1,Chennai,24.16
+2014,Tata,Nexon,2023,3,Petrol,Automatic,44335,2,Bangalore,5.31
+2015,Honda,Amaze,2021,5,CNG,Manual,44950,1,Chennai,4.17
+2016,Mahindra,Thar,2023,3,Petrol,Manual,53366,3,Chennai,10.9
+2017,Toyota,Innova,2020,6,Petrol,Automatic,70044,1,Delhi,17.52
+2018,Honda,WR-V,2015,11,Petrol,Automatic,121953,1,Mumbai,1.1
+2019,Hyundai,Creta,2017,9,CNG,Automatic,91174,1,Delhi,5.03
+2020,Tata,Harrier,2016,10,Diesel,Automatic,137628,2,Bangalore,3.6
+2021,Maruti Suzuki,Baleno,2016,10,CNG,Automatic,118539,1,Chennai,1.1
+2022,Maruti Suzuki,Dzire,2021,5,Electric,Manual,50048,2,Hyderabad,4.86
+2023,Kia,Carens,2019,7,CNG,Automatic,88539,1,Hyderabad,5.65
+2024,Hyundai,Venue,2015,11,Petrol,Automatic,134728,1,Delhi,1.1
+2025,Honda,WR-V,2024,2,Petrol,Automatic,39956,1,Chennai,7.26
+2026,Kia,Carens,2024,2,Diesel,Manual,30536,1,Hyderabad,9.36
+2027,Maruti Suzuki,Dzire,2017,9,Petrol,Automatic,112355,1,Pune,1.1
+2028,Tata,Nexon,2015,11,Petrol,Manual,119092,1,Pune,1.1
+2029,Maruti Suzuki,Brezza,2015,11,Petrol,Manual,126788,1,Hyderabad,1.1
+2030,Tata,Harrier,2015,11,Petrol,Automatic,129929,1,Pune,2.75
+2031,Honda,WR-V,2022,4,Diesel,Manual,61407,3,Mumbai,5.43
+2032,Maruti Suzuki,Swift,2024,2,CNG,Manual,14871,1,Hyderabad,4.67
+2033,Hyundai,i20,2016,10,Diesel,Manual,137039,1,Bangalore,1.1
+2034,Toyota,Glanza,2023,3,Petrol,Automatic,58412,2,Hyderabad,10.08
+2035,Honda,Amaze,2015,11,Diesel,Automatic,130341,2,Chennai,1.1
+2036,Toyota,Glanza,2022,4,Diesel,Automatic,41429,1,Delhi,13.23
+2037,Kia,Carens,2024,2,CNG,Manual,18204,3,Hyderabad,7.28
+2038,Hyundai,i20,2025,1,Petrol,Manual,3500,1,Mumbai,7.05
+2039,Maruti Suzuki,Brezza,2018,8,CNG,Manual,98031,2,Pune,1.1
+2040,Honda,WR-V,2015,11,CNG,Automatic,136477,3,Hyderabad,1.1
+2041,Maruti Suzuki,Dzire,2024,2,Petrol,Manual,3500,2,Mumbai,3.99
+2042,Toyota,Innova,2021,5,Diesel,Automatic,60251,1,Pune,18.42
+2043,Honda,WR-V,2023,3,Petrol,Manual,54475,1,Bangalore,4.77
+2044,Kia,Sonet,2018,8,Petrol,Manual,75599,2,Mumbai,2.02
+2045,Maruti Suzuki,Brezza,2023,3,CNG,Manual,43276,2,Mumbai,3.32
+2046,Mahindra,XUV700,2022,4,Diesel,Manual,64458,1,Bangalore,14.21
+2047,Kia,Carens,2023,3,Diesel,Automatic,36661,1,Bangalore,9.59
+2048,Honda,WR-V,2023,3,Petrol,Automatic,28232,1,Delhi,8.55
+2049,Mahindra,XUV700,2018,8,Petrol,Manual,79279,1,Chennai,8.52
+2050,Toyota,Glanza,2017,9,Petrol,Manual,98195,1,Mumbai,6.13
+2051,Honda,City,2017,9,Petrol,Manual,74306,1,Chennai,3.3
+2052,Toyota,Fortuner,2020,6,Petrol,Manual,59778,1,Chennai,26.19
+2053,Maruti Suzuki,Brezza,2022,4,Petrol,Manual,40324,1,Chennai,3.06
+2054,Honda,Amaze,2025,1,Diesel,Manual,4998,3,Delhi,6.9
+2055,Toyota,Innova,2025,1,CNG,Manual,43630,1,Mumbai,19.84
+2056,Tata,Harrier,2024,2,Diesel,Manual,13202,1,Hyderabad,9.11
+2057,Kia,Sonet,2018,8,Diesel,Manual,88711,2,Chennai,3.0
+2058,Honda,WR-V,2017,9,Diesel,Manual,112309,1,Pune,2.51
+2059,Hyundai,i20,2016,10,Petrol,Manual,120171,2,Chennai,1.1
+2060,Honda,City,2015,11,Petrol,Manual,128429,1,Chennai,1.1
+2061,Kia,Sonet,2020,6,Electric,Manual,58253,1,Hyderabad,8.45
+2062,Mahindra,XUV300,2018,8,Petrol,Manual,95345,1,Pune,4.75
+2063,Mahindra,Thar,2016,10,Petrol,Manual,100394,2,Hyderabad,7.01
+2064,Kia,Carens,2018,8,CNG,Manual,85005,1,Mumbai,3.48
+2065,Honda,Amaze,2016,10,Diesel,Automatic,112259,2,Pune,1.54
+2066,Hyundai,Verna,2021,5,Petrol,Manual,65676,1,Pune,4.35
+2067,Maruti Suzuki,Baleno,2025,1,Petrol,Manual,11934,2,Mumbai,5.14
+2068,Hyundai,i20,2023,3,Petrol,Manual,34378,1,Bangalore,4.73
+2069,Honda,WR-V,2017,9,Petrol,Automatic,108599,1,Pune,1.1
+2070,Hyundai,Venue,2018,8,CNG,Automatic,91348,2,Chennai,1.1
+2071,Tata,Harrier,2025,1,Diesel,Manual,13791,1,Bangalore,11.01
+2072,Honda,WR-V,2025,1,Petrol,Manual,44955,1,Pune,6.76
+2073,Maruti Suzuki,Dzire,2015,11,Petrol,Automatic,116504,1,Pune,1.1
+2074,Toyota,Fortuner,2022,4,Petrol,Manual,63835,1,Mumbai,27.06
+2075,Hyundai,Venue,2020,6,Petrol,Manual,69051,1,Delhi,2.45
+2076,Mahindra,Scorpio,2022,4,Petrol,Manual,41362,1,Bangalore,10.55
+2077,Hyundai,Verna,2015,11,Electric,Manual,145053,2,Mumbai,1.77
+2078,Hyundai,Venue,2020,6,Petrol,Manual,83951,2,Pune,2.39
+2079,Honda,City,2019,7,CNG,Manual,81660,1,Hyderabad,4.66
+2080,Hyundai,Verna,2016,10,Diesel,Automatic,88286,2,Pune,1.21
+2081,Tata,Nexon,2015,11,Petrol,Manual,149464,2,Delhi,1.1
+2082,Toyota,Glanza,2022,4,Diesel,Manual,58700,1,Mumbai,11.76
+2083,Maruti Suzuki,Brezza,2023,3,Electric,Manual,26375,1,Pune,7.92
+2084,Mahindra,XUV300,2022,4,Petrol,Manual,41044,1,Mumbai,7.8
+2085,Toyota,Innova,2018,8,Diesel,Automatic,109348,1,Delhi,15.49
+2086,Kia,Sonet,2015,11,Diesel,Manual,161620,1,Bangalore,2.66
+2087,Tata,Harrier,2018,8,Diesel,Manual,113652,1,Pune,5.07
+2088,Tata,Altroz,2018,8,Petrol,Automatic,93783,2,Hyderabad,1.1
+2089,Honda,WR-V,2017,9,Petrol,Manual,98260,1,Bangalore,1.56
+2090,Kia,Sonet,2024,2,Petrol,Manual,33663,1,Delhi,9.23
+2091,Kia,Seltos,2017,9,Diesel,Automatic,113012,1,Delhi,6.32
+2092,Toyota,Fortuner,2017,9,Diesel,Automatic,108739,1,Hyderabad,25.52
+2093,Toyota,Glanza,2023,3,Petrol,Manual,28177,1,Mumbai,11.54
+2094,Honda,Amaze,2016,10,Diesel,Automatic,99020,1,Mumbai,3.18
+2095,Hyundai,Verna,2016,10,Diesel,Automatic,97570,1,Hyderabad,2.23
+2096,Kia,Carens,2015,11,Diesel,Manual,90932,1,Chennai,1.74
+2097,Tata,Punch,2016,10,Petrol,Manual,133584,1,Hyderabad,1.1
+2098,Mahindra,XUV700,2019,7,Petrol,Manual,78875,1,Delhi,10.1
+2099,Maruti Suzuki,Swift,2024,2,Petrol,Automatic,21666,2,Pune,5.49
+2100,Honda,City,2025,1,Petrol,Manual,5184,1,Mumbai,10.02
+2101,Maruti Suzuki,Dzire,2016,10,Electric,Manual,126647,1,Bangalore,2.07
+2102,Kia,Seltos,2021,5,Diesel,Automatic,69811,2,Pune,10.73
+2103,Honda,City,2016,10,CNG,Automatic,119580,1,Bangalore,3.26
+2104,Maruti Suzuki,Swift,2022,4,Petrol,Automatic,43602,1,Hyderabad,5.08
+2105,Tata,Harrier,2020,6,CNG,Manual,67858,1,Mumbai,7.5
+2106,Toyota,Glanza,2023,3,CNG,Automatic,7365,1,Pune,12.53
+2107,Mahindra,XUV700,2021,5,Petrol,Manual,66056,1,Delhi,11.56
+2108,Mahindra,Scorpio,2024,2,Diesel,Manual,20375,2,Chennai,12.19
+2109,Honda,WR-V,2023,3,Electric,Automatic,34985,1,Mumbai,9.66
+2110,Toyota,Innova,2023,3,CNG,Manual,21858,2,Mumbai,18.13
+2111,Hyundai,i20,2017,9,Petrol,Manual,104855,3,Chennai,1.1
+2112,Toyota,Innova,2015,11,CNG,Automatic,130235,1,Mumbai,13.07
+2113,Mahindra,Scorpio,2019,7,Petrol,Manual,54695,2,Hyderabad,6.17
+2114,Mahindra,Scorpio,2017,9,Diesel,Manual,129547,1,Bangalore,6.13
+2115,Tata,Nexon,2023,3,Petrol,Automatic,43885,1,Hyderabad,5.35
+2116,Kia,Sonet,2019,7,CNG,Manual,82695,1,Bangalore,4.57
+2117,Mahindra,Thar,2023,3,Petrol,Manual,30192,1,Pune,12.57
+2118,Toyota,Glanza,2018,8,Diesel,Manual,93057,2,Chennai,7.32
+2119,Hyundai,i20,2015,11,Electric,Manual,115583,1,Pune,1.49
+2120,Mahindra,XUV700,2016,10,Diesel,Manual,117889,1,Delhi,7.63
+2121,Mahindra,XUV700,2023,3,Petrol,Manual,14946,2,Chennai,11.53
+2122,Mahindra,Scorpio,2018,8,Diesel,Manual,97051,1,Hyderabad,7.85
+2123,Mahindra,XUV700,2020,6,Petrol,Automatic,44557,1,Pune,12.2
+2124,Toyota,Fortuner,2017,9,Petrol,Manual,102976,1,Pune,23.53
+2125,Kia,Sonet,2017,9,Diesel,Manual,133364,3,Mumbai,2.71
+2126,Maruti Suzuki,Dzire,2024,2,Petrol,Manual,22886,2,Hyderabad,3.88
+2127,Maruti Suzuki,Dzire,2016,10,Diesel,Automatic,115838,3,Pune,1.1
+2128,Hyundai,i20,2024,2,Electric,Manual,40393,2,Pune,7.71
+2129,Kia,Sonet,2018,8,Petrol,Automatic,94458,2,Chennai,3.86
+2130,Hyundai,Verna,2021,5,Petrol,Automatic,74011,1,Pune,5.44
+2131,Mahindra,XUV700,2025,1,Petrol,Manual,26037,1,Pune,14.61
+2132,Kia,Sonet,2017,9,Petrol,Manual,99763,2,Hyderabad,1.24
+2133,Kia,Sonet,2021,5,CNG,Manual,42636,1,Chennai,6.25
+2134,Kia,Sonet,2020,6,Petrol,Manual,76495,1,Pune,4.1
+2135,Honda,City,2024,2,Diesel,Manual,50922,1,Delhi,9.19
+2136,Hyundai,Venue,2023,3,Diesel,Automatic,5637,3,Mumbai,6.55
+2137,Mahindra,Scorpio,2022,4,CNG,Automatic,55064,1,Pune,11.46
+2138,Honda,City,2017,9,Petrol,Manual,79984,1,Delhi,3.48
+2139,Maruti Suzuki,Dzire,2015,11,CNG,Automatic,98367,1,Bangalore,1.1
+2140,Hyundai,i20,2024,2,Electric,Manual,12704,1,Pune,9.0
+2141,Tata,Punch,2020,6,Petrol,Automatic,84160,1,Mumbai,3.71
+2142,Hyundai,i20,2025,1,Petrol,Manual,14422,1,Chennai,6.32
+2143,Maruti Suzuki,Brezza,2022,4,Petrol,Manual,59562,1,Hyderabad,3.73
+2144,Hyundai,i20,2017,9,CNG,Manual,99797,2,Delhi,1.1
+2145,Maruti Suzuki,Dzire,2015,11,CNG,Automatic,129764,1,Hyderabad,1.1
+2146,Toyota,Glanza,2024,2,Petrol,Automatic,10079,1,Bangalore,12.5
+2147,Honda,City,2024,2,Diesel,Manual,44327,1,Pune,8.8
+2148,Maruti Suzuki,Dzire,2020,6,Diesel,Manual,54542,1,Chennai,3.06
+2149,Maruti Suzuki,Brezza,2022,4,Petrol,Manual,30031,2,Delhi,2.62
+2150,Maruti Suzuki,Dzire,2018,8,Petrol,Manual,89933,1,Bangalore,1.1
+2151,Tata,Punch,2022,4,Petrol,Manual,49586,2,Hyderabad,3.86
+2152,Mahindra,Scorpio,2017,9,Diesel,Manual,129704,2,Mumbai,7.1
+2153,Honda,City,2016,10,Petrol,Automatic,108190,2,Bangalore,2.73
+2154,Mahindra,Scorpio,2018,8,Petrol,Manual,97201,1,Delhi,6.82
+2155,Kia,Seltos,2023,3,Diesel,Automatic,45047,2,Hyderabad,9.95
+2156,Honda,Amaze,2023,3,Petrol,Manual,63853,1,Hyderabad,6.02
+2157,Toyota,Glanza,2022,4,CNG,Automatic,24087,2,Pune,10.87
+2158,Tata,Harrier,2018,8,Electric,Automatic,78892,1,Pune,8.02
+2159,Mahindra,XUV300,2020,6,Diesel,Automatic,91377,1,Mumbai,8.49
+2160,Toyota,Innova,2019,7,Petrol,Automatic,86885,2,Delhi,14.58
+2161,Mahindra,Scorpio,2018,8,Diesel,Automatic,93108,1,Delhi,8.92
+2162,Honda,Amaze,2021,5,Electric,Manual,63118,1,Hyderabad,6.64
+2163,Kia,Sonet,2016,10,Petrol,Manual,129873,1,Hyderabad,1.24
+2164,Toyota,Innova,2015,11,Diesel,Manual,107167,2,Mumbai,12.64
+2165,Maruti Suzuki,Dzire,2024,2,Petrol,Automatic,21666,1,Hyderabad,4.8
+2166,Kia,Sonet,2017,9,Petrol,Automatic,88045,1,Delhi,3.74
+2167,Maruti Suzuki,Dzire,2021,5,CNG,Manual,79026,1,Pune,3.34
+2168,Honda,Amaze,2025,1,Diesel,Manual,17124,1,Mumbai,9.7
+2169,Honda,City,2020,6,Petrol,Automatic,90759,1,Hyderabad,5.46
+2170,Hyundai,Venue,2022,4,Electric,Manual,62410,1,Chennai,7.6
+2171,Tata,Nexon,2025,1,Diesel,Manual,34570,1,Chennai,7.44
+2172,Honda,WR-V,2025,1,Diesel,Manual,22107,1,Chennai,8.39
+2173,Honda,City,2022,4,Diesel,Manual,43050,1,Mumbai,7.76
+2174,Maruti Suzuki,Swift,2016,10,Diesel,Automatic,102966,2,Mumbai,1.1
+2175,Hyundai,Venue,2022,4,Diesel,Automatic,56939,1,Bangalore,6.72
+2176,Hyundai,Creta,2015,11,Petrol,Automatic,137502,2,Mumbai,2.42
+2177,Kia,Sonet,2024,2,Petrol,Manual,17912,1,Delhi,8.16
+2178,Maruti Suzuki,Dzire,2025,1,Diesel,Manual,9596,1,Pune,5.97
+2179,Mahindra,Scorpio,2018,8,Petrol,Automatic,87612,2,Pune,7.69
+2180,Kia,Sonet,2020,6,Petrol,Manual,79381,1,Chennai,5.15
+2181,Tata,Punch,2017,9,Petrol,Manual,89741,1,Bangalore,1.75
+2182,Toyota,Glanza,2021,5,Petrol,Automatic,35339,1,Bangalore,10.09
+2183,Hyundai,Venue,2016,10,Electric,Manual,127495,2,Bangalore,2.14
+2184,Honda,City,2022,4,Diesel,Manual,34088,1,Hyderabad,9.41
+2185,Mahindra,XUV300,2018,8,Petrol,Automatic,103598,1,Chennai,3.57
+2186,Tata,Harrier,2020,6,CNG,Manual,55390,1,Chennai,6.2
+2187,Hyundai,i20,2023,3,Petrol,Manual,25664,3,Hyderabad,4.26
+2188,Maruti Suzuki,Swift,2015,11,Diesel,Manual,128433,1,Mumbai,1.1
+2189,Hyundai,Venue,2025,1,Petrol,Manual,3500,1,Hyderabad,5.83
+2190,Mahindra,Thar,2021,5,Diesel,Manual,41607,1,Pune,11.83
+2191,Toyota,Glanza,2015,11,Petrol,Manual,121270,1,Delhi,4.9
+2192,Hyundai,Creta,2021,5,Petrol,Manual,52194,1,Pune,6.88
+2193,Toyota,Innova,2019,7,Petrol,Manual,89479,3,Bangalore,14.5
+2194,Kia,Seltos,2024,2,CNG,Manual,47651,2,Delhi,8.75
+2195,Honda,City,2022,4,Petrol,Manual,45928,1,Chennai,6.37
+2196,Tata,Harrier,2023,3,Diesel,Manual,22843,2,Delhi,8.85
+2197,Maruti Suzuki,Baleno,2019,7,Diesel,Manual,58166,1,Delhi,1.73
+2198,Maruti Suzuki,Brezza,2017,9,Petrol,Manual,95387,1,Hyderabad,1.1
+2199,Honda,City,2023,3,Diesel,Automatic,31971,1,Chennai,9.97
+2200,Hyundai,Verna,2015,11,Petrol,Automatic,125448,1,Hyderabad,1.1
+2201,Mahindra,Thar,2025,1,Petrol,Manual,3500,2,Hyderabad,13.57
+2202,Hyundai,Creta,2015,11,Diesel,Manual,123670,1,Chennai,2.65
+2203,Kia,Seltos,2021,5,Petrol,Automatic,63629,1,Pune,8.89
+2204,Honda,WR-V,2015,11,Diesel,Automatic,146222,1,Pune,1.1
+2205,Kia,Carens,2015,11,Diesel,Manual,122110,1,Delhi,1.66
+2206,Kia,Seltos,2024,2,Petrol,Manual,30401,1,Pune,10.71
+2207,Toyota,Fortuner,2025,1,Petrol,Automatic,14895,1,Bangalore,30.82
+2208,Hyundai,Creta,2025,1,Electric,Manual,4149,2,Hyderabad,12.2
+2209,Tata,Harrier,2024,2,Petrol,Automatic,18585,1,Chennai,9.88
+2210,Mahindra,XUV700,2023,3,Petrol,Manual,40833,1,Delhi,12.96
+2211,Toyota,Fortuner,2024,2,Diesel,Automatic,29444,1,Chennai,30.91
+2212,Tata,Nexon,2021,5,Diesel,Automatic,44491,1,Mumbai,6.42
+2213,Tata,Altroz,2022,4,Petrol,Automatic,62829,2,Chennai,4.12
+2214,Tata,Punch,2017,9,Petrol,Automatic,77593,2,Bangalore,1.1
+2215,Honda,WR-V,2022,4,Petrol,Automatic,65953,1,Bangalore,7.25
+2216,Honda,WR-V,2017,9,CNG,Manual,79117,1,Bangalore,2.84
+2217,Hyundai,Verna,2017,9,Petrol,Manual,111375,3,Delhi,1.1
+2218,Mahindra,XUV300,2023,3,Petrol,Manual,38442,1,Delhi,9.45
+2219,Tata,Nexon,2020,6,Electric,Manual,29377,1,Chennai,6.3
+2220,Honda,WR-V,2017,9,Petrol,Automatic,78814,2,Bangalore,2.12
+2221,Toyota,Fortuner,2017,9,Petrol,Automatic,111385,1,Delhi,24.42
+2222,Kia,Carens,2021,5,Petrol,Manual,49723,1,Bangalore,5.98
+2223,Tata,Punch,2019,7,Diesel,Manual,77974,1,Bangalore,2.38
+2224,Hyundai,i20,2022,4,Petrol,Manual,35116,3,Mumbai,3.68
+2225,Mahindra,Thar,2019,7,Diesel,Manual,50129,1,Chennai,10.86
+2226,Maruti Suzuki,Baleno,2019,7,Diesel,Manual,78239,3,Delhi,1.1
+2227,Honda,City,2021,5,Petrol,Automatic,70166,1,Chennai,6.47
+2228,Kia,Carens,2017,9,Diesel,Automatic,88842,2,Pune,3.81
+2229,Kia,Seltos,2021,5,Diesel,Manual,61705,1,Chennai,9.14
+2230,Kia,Carens,2017,9,CNG,Automatic,106202,1,Mumbai,4.45
+2231,Maruti Suzuki,Brezza,2018,8,CNG,Manual,94320,2,Chennai,1.1
+2232,Toyota,Innova,2015,11,CNG,Manual,111420,2,Bangalore,12.4
+2233,Honda,Amaze,2016,10,Diesel,Automatic,146835,1,Mumbai,2.22
+2234,Kia,Sonet,2024,2,Petrol,Manual,7451,1,Bangalore,9.37
+2235,Maruti Suzuki,Dzire,2024,2,Petrol,Manual,37459,1,Chennai,4.24
+2236,Kia,Seltos,2025,1,CNG,Manual,25019,1,Pune,11.05
+2237,Kia,Carens,2023,3,Diesel,Manual,53807,1,Hyderabad,8.09
+2238,Hyundai,Creta,2019,7,Diesel,Manual,84385,1,Bangalore,5.82
+2239,Mahindra,Thar,2019,7,Petrol,Manual,51663,1,Chennai,9.04
+2240,Hyundai,Creta,2022,4,Diesel,Automatic,36052,1,Mumbai,9.05
+2241,Maruti Suzuki,Baleno,2020,6,Petrol,Manual,77926,2,Pune,1.1
+2242,Hyundai,i20,2018,8,Petrol,Automatic,89749,1,Pune,1.8
+2243,Hyundai,i20,2024,2,Diesel,Manual,18655,1,Pune,5.92
+2244,Honda,WR-V,2020,6,Electric,Manual,62238,1,Mumbai,6.12
+2245,Tata,Harrier,2017,9,Petrol,Manual,103010,1,Chennai,3.39
+2246,Kia,Seltos,2025,1,Diesel,Manual,3500,1,Bangalore,13.48
+2247,Kia,Sonet,2025,1,Diesel,Automatic,27886,1,Delhi,11.63
+2248,Maruti Suzuki,Brezza,2017,9,Petrol,Manual,122387,1,Bangalore,1.1
+2249,Toyota,Innova,2021,5,Diesel,Manual,58335,3,Pune,16.72
+2250,Mahindra,XUV700,2022,4,Petrol,Manual,42181,1,Hyderabad,12.3
+2251,Hyundai,i20,2022,4,Petrol,Automatic,48368,1,Bangalore,5.89
+2252,Maruti Suzuki,Swift,2023,3,Petrol,Manual,28140,1,Chennai,3.88
+2253,Kia,Seltos,2019,7,Petrol,Automatic,83282,1,Hyderabad,7.65
+2254,Toyota,Fortuner,2015,11,Electric,Manual,109863,1,Hyderabad,24.24
+2255,Mahindra,Thar,2019,7,Petrol,Manual,91297,1,Delhi,8.98
+2256,Kia,Carens,2025,1,Petrol,Manual,32091,2,Chennai,7.89
+2257,Tata,Altroz,2022,4,Petrol,Manual,42664,2,Mumbai,3.3
+2258,Toyota,Innova,2022,4,Diesel,Manual,38221,2,Pune,16.56
+2259,Maruti Suzuki,Baleno,2020,6,Petrol,Manual,72082,1,Chennai,1.51
+2260,Hyundai,Creta,2018,8,Petrol,Manual,82823,1,Bangalore,5.16
+2261,Kia,Seltos,2024,2,Petrol,Automatic,26160,2,Chennai,11.79
+2262,Hyundai,Creta,2018,8,Petrol,Automatic,73064,1,Hyderabad,5.05
+2263,Hyundai,Verna,2019,7,Diesel,Manual,62582,1,Delhi,2.66
+2264,Tata,Punch,2025,1,Petrol,Automatic,39800,1,Pune,6.98
+2265,Maruti Suzuki,Swift,2023,3,Diesel,Manual,14860,2,Hyderabad,4.58
+2266,Tata,Harrier,2023,3,Petrol,Automatic,43790,1,Pune,8.75
+2267,Kia,Sonet,2022,4,Diesel,Manual,71461,2,Mumbai,7.09
+2268,Toyota,Fortuner,2015,11,CNG,Automatic,127707,1,Pune,22.52
+2269,Toyota,Innova,2025,1,Electric,Manual,3500,2,Delhi,21.72
+2270,Maruti Suzuki,Baleno,2015,11,Diesel,Manual,157766,1,Chennai,1.1
+2271,Tata,Punch,2016,10,CNG,Manual,104226,3,Mumbai,1.1
+2272,Honda,Amaze,2023,3,Petrol,Manual,56500,2,Chennai,4.29
+2273,Toyota,Fortuner,2017,9,CNG,Manual,116624,1,Delhi,23.92
+2274,Toyota,Glanza,2023,3,Diesel,Automatic,11401,1,Mumbai,13.99
+2275,Hyundai,Creta,2015,11,Electric,Manual,142072,3,Delhi,3.58
+2276,Kia,Carens,2020,6,Petrol,Automatic,54844,1,Mumbai,6.99
+2277,Kia,Sonet,2018,8,Petrol,Manual,98620,1,Bangalore,3.49
+2278,Toyota,Glanza,2018,8,Petrol,Automatic,111237,1,Chennai,8.13
+2279,Tata,Nexon,2017,9,Petrol,Manual,73864,1,Mumbai,1.1
+2280,Maruti Suzuki,Baleno,2015,11,Petrol,Manual,141951,1,Chennai,1.1
+2281,Maruti Suzuki,Brezza,2015,11,Petrol,Automatic,139802,1,Delhi,1.1
+2282,Kia,Carens,2016,10,Petrol,Manual,104304,1,Chennai,2.03
+2283,Hyundai,Creta,2020,6,Petrol,Automatic,62688,3,Hyderabad,4.73
+2284,Honda,WR-V,2021,5,Petrol,Automatic,25425,1,Bangalore,5.4
+2285,Kia,Seltos,2016,10,Diesel,Manual,107557,1,Delhi,5.21
+2286,Honda,WR-V,2021,5,Petrol,Manual,36143,1,Pune,5.28
+2287,Maruti Suzuki,Dzire,2023,3,Petrol,Manual,35392,3,Mumbai,2.9
+2288,Mahindra,XUV700,2018,8,Electric,Automatic,94934,1,Chennai,13.78
+2289,Tata,Harrier,2023,3,Petrol,Automatic,28242,2,Pune,7.85
+2290,Honda,WR-V,2023,3,Diesel,Manual,20022,2,Mumbai,7.84
+2291,Mahindra,XUV700,2021,5,Diesel,Manual,53068,1,Hyderabad,12.74
+2292,Maruti Suzuki,Dzire,2023,3,CNG,Automatic,25259,1,Delhi,5.63
+2293,Maruti Suzuki,Swift,2019,7,Diesel,Automatic,118391,1,Pune,2.45
+2294,Tata,Nexon,2025,1,Diesel,Manual,26419,1,Hyderabad,7.85
+2295,Maruti Suzuki,Brezza,2018,8,Petrol,Automatic,109884,1,Pune,1.1
+2296,Mahindra,Thar,2021,5,Petrol,Automatic,64607,3,Mumbai,10.94
+2297,Kia,Sonet,2018,8,Petrol,Manual,97764,1,Bangalore,3.61
+2298,Toyota,Fortuner,2017,9,Diesel,Automatic,84335,3,Bangalore,24.34
+2299,Maruti Suzuki,Baleno,2021,5,Petrol,Automatic,70320,2,Hyderabad,2.17
+2300,Hyundai,Creta,2018,8,Petrol,Manual,112620,1,Delhi,4.23
+2301,Kia,Seltos,2015,11,Petrol,Automatic,128016,1,Delhi,3.9
+2302,Hyundai,Venue,2023,3,Diesel,Manual,31552,1,Mumbai,6.07
+2303,Hyundai,i20,2015,11,CNG,Manual,139064,1,Delhi,1.1
+2304,Maruti Suzuki,Dzire,2023,3,Petrol,Manual,48594,1,Hyderabad,4.25
+2305,Honda,City,2017,9,Diesel,Manual,133932,1,Pune,2.83
+2306,Kia,Sonet,2018,8,Electric,Manual,107726,2,Pune,6.12
+2307,Tata,Harrier,2015,11,Petrol,Automatic,136711,1,Bangalore,3.09
+2308,Kia,Sonet,2016,10,Diesel,Manual,103632,1,Bangalore,2.58
+2309,Tata,Harrier,2025,1,Petrol,Automatic,12889,1,Chennai,10.17
+2310,Kia,Carens,2016,10,Electric,Automatic,120957,1,Chennai,6.63
+2311,Hyundai,i20,2023,3,Petrol,Automatic,54411,1,Chennai,5.15
+2312,Mahindra,XUV700,2017,9,Petrol,Automatic,117897,2,Hyderabad,8.04
+2313,Hyundai,Creta,2018,8,Diesel,Manual,95547,2,Pune,4.4
+2314,Mahindra,Thar,2024,2,Petrol,Manual,15319,2,Mumbai,12.77
+2315,Honda,Amaze,2023,3,Petrol,Manual,50042,1,Delhi,5.67
+2316,Toyota,Innova,2021,5,Electric,Manual,36806,3,Pune,17.9
+2317,Maruti Suzuki,Baleno,2021,5,Petrol,Manual,67412,1,Bangalore,3.39
+2318,Honda,WR-V,2020,6,Petrol,Manual,77938,2,Chennai,2.65
+2319,Hyundai,i20,2020,6,Diesel,Manual,53809,1,Pune,3.89
+2320,Toyota,Glanza,2018,8,Petrol,Automatic,94777,2,Mumbai,8.26
+2321,Tata,Nexon,2021,5,Diesel,Manual,45928,1,Bangalore,4.76
+2322,Hyundai,Creta,2019,7,Diesel,Manual,53368,2,Delhi,5.41
+2323,Toyota,Fortuner,2025,1,Petrol,Automatic,3500,1,Chennai,29.77
+2324,Kia,Sonet,2025,1,Diesel,Manual,3500,1,Bangalore,10.05
+2325,Maruti Suzuki,Swift,2017,9,Electric,Automatic,105236,1,Mumbai,4.07
+2326,Tata,Harrier,2016,10,Petrol,Manual,113449,1,Mumbai,3.34
+2327,Maruti Suzuki,Swift,2021,5,Electric,Manual,72396,1,Pune,4.61
+2328,Toyota,Glanza,2017,9,Petrol,Manual,89305,1,Mumbai,7.23
+2329,Tata,Altroz,2015,11,Diesel,Manual,138572,1,Chennai,1.1
+2330,Maruti Suzuki,Brezza,2019,7,Diesel,Manual,87271,1,Chennai,1.85
+2331,Maruti Suzuki,Brezza,2024,2,Petrol,Manual,45156,1,Mumbai,6.22
+2332,Kia,Carens,2018,8,Petrol,Manual,112727,1,Delhi,3.33
+2333,Mahindra,XUV300,2019,7,CNG,Manual,90530,1,Delhi,5.58
+2334,Kia,Sonet,2015,11,CNG,Manual,121293,3,Delhi,1.1
+2335,Tata,Punch,2016,10,Diesel,Manual,104138,3,Chennai,1.1
+2336,Toyota,Glanza,2017,9,Petrol,Manual,94896,2,Pune,5.43
+2337,Mahindra,XUV300,2015,11,Petrol,Automatic,145477,1,Pune,3.75
+2338,Toyota,Fortuner,2016,10,Diesel,Manual,118926,1,Pune,23.84
+2339,Maruti Suzuki,Brezza,2020,6,Petrol,Manual,90230,2,Chennai,1.1
+2340,Maruti Suzuki,Swift,2023,3,Petrol,Automatic,52614,1,Chennai,3.25
+2341,Tata,Punch,2024,2,CNG,Manual,9874,1,Bangalore,6.76
+2342,Toyota,Innova,2016,10,Petrol,Manual,88197,1,Chennai,11.64
+2343,Mahindra,XUV300,2020,6,Petrol,Automatic,65990,3,Delhi,5.49
+2344,Tata,Harrier,2017,9,Petrol,Automatic,102731,1,Pune,4.99
+2345,Tata,Altroz,2023,3,Petrol,Manual,20173,1,Hyderabad,5.45
+2346,Hyundai,Creta,2017,9,Electric,Manual,106799,1,Chennai,6.26
+2347,Maruti Suzuki,Brezza,2023,3,Diesel,Automatic,8455,1,Mumbai,6.14
+2348,Mahindra,XUV300,2015,11,Diesel,Automatic,106166,2,Pune,3.43
+2349,Toyota,Innova,2016,10,Diesel,Automatic,117810,1,Hyderabad,13.87
+2350,Mahindra,Scorpio,2016,10,Petrol,Manual,130916,2,Delhi,5.14
+2351,Maruti Suzuki,Swift,2020,6,Electric,Automatic,87693,1,Hyderabad,4.67
+2352,Toyota,Fortuner,2015,11,Petrol,Manual,143676,3,Bangalore,20.26
+2353,Toyota,Glanza,2015,11,Petrol,Automatic,132798,3,Hyderabad,4.37
+2354,Kia,Sonet,2016,10,Diesel,Automatic,112567,1,Delhi,4.48
+2355,Honda,Amaze,2017,9,Diesel,Manual,77473,3,Delhi,1.43
+2356,Honda,City,2016,10,Petrol,Automatic,98285,2,Mumbai,4.24
+2357,Kia,Seltos,2020,6,Petrol,Automatic,63369,1,Bangalore,8.95
+2358,Kia,Sonet,2019,7,Diesel,Manual,106887,2,Chennai,5.46
+2359,Maruti Suzuki,Dzire,2015,11,Diesel,Automatic,141689,1,Delhi,1.1
+2360,Toyota,Innova,2019,7,Petrol,Manual,73666,1,Pune,14.26
+2361,Hyundai,Creta,2025,1,Diesel,Manual,6728,1,Delhi,10.47
+2362,Mahindra,Thar,2024,2,Diesel,Manual,33877,1,Bangalore,14.02
+2363,Honda,Amaze,2025,1,Petrol,Automatic,16680,2,Hyderabad,8.01
+2364,Hyundai,Creta,2018,8,Petrol,Automatic,67304,1,Hyderabad,5.69
+2365,Honda,City,2022,4,Petrol,Automatic,30470,2,Delhi,6.79
+2366,Tata,Nexon,2021,5,Petrol,Automatic,76802,1,Hyderabad,3.71
+2367,Mahindra,XUV700,2015,11,Diesel,Manual,136235,2,Chennai,6.64
+2368,Kia,Seltos,2018,8,Diesel,Manual,101205,1,Hyderabad,6.31
+2369,Mahindra,XUV700,2023,3,CNG,Automatic,46063,1,Pune,14.47
+2370,Mahindra,XUV700,2016,10,Petrol,Automatic,100204,1,Delhi,8.81
+2371,Toyota,Glanza,2020,6,Diesel,Manual,68594,2,Mumbai,7.78
+2372,Maruti Suzuki,Dzire,2021,5,Diesel,Manual,69920,1,Pune,2.99
+2373,Honda,City,2023,3,Petrol,Manual,3500,2,Chennai,7.09
+2374,Honda,City,2020,6,Diesel,Manual,70137,3,Chennai,4.96
+2375,Kia,Sonet,2022,4,Petrol,Manual,42217,2,Pune,5.15
+2376,Tata,Punch,2018,8,Petrol,Manual,100225,2,Bangalore,1.1
+2377,Tata,Nexon,2020,6,CNG,Automatic,56918,2,Bangalore,2.3
+2378,Tata,Nexon,2022,4,CNG,Manual,22725,1,Chennai,5.27
+2379,Hyundai,i20,2019,7,Petrol,Manual,102370,1,Bangalore,2.52
+2380,Maruti Suzuki,Baleno,2023,3,Petrol,Manual,23126,2,Hyderabad,3.01
+2381,Tata,Punch,2024,2,Diesel,Automatic,37555,3,Bangalore,6.97
+2382,Kia,Seltos,2020,6,Petrol,Manual,55391,3,Delhi,7.37
+2383,Toyota,Glanza,2024,2,Electric,Automatic,34449,2,Chennai,15.17
+2384,Toyota,Fortuner,2023,3,Petrol,Manual,24495,1,Pune,28.21
+2385,Toyota,Innova,2023,3,Electric,Automatic,27256,1,Mumbai,22.8
+2386,Toyota,Innova,2018,8,Petrol,Automatic,110473,1,Pune,14.66
+2387,Honda,City,2022,4,Petrol,Automatic,49419,2,Bangalore,7.32
+2388,Maruti Suzuki,Baleno,2018,8,Diesel,Automatic,100373,1,Chennai,2.08
+2389,Toyota,Innova,2024,2,Diesel,Manual,12353,1,Mumbai,21.07
+2390,Kia,Carens,2016,10,Diesel,Manual,135638,1,Chennai,2.03
+2391,Maruti Suzuki,Swift,2023,3,Petrol,Manual,17894,1,Chennai,3.88
+2392,Tata,Altroz,2019,7,Petrol,Manual,69088,1,Mumbai,1.7
+2393,Honda,Amaze,2019,7,Diesel,Manual,92084,1,Hyderabad,4.19
+2394,Toyota,Glanza,2017,9,Diesel,Manual,128220,2,Pune,5.89
+2395,Maruti Suzuki,Swift,2020,6,Petrol,Manual,80169,1,Hyderabad,1.1
+2396,Tata,Punch,2020,6,Petrol,Manual,69719,1,Bangalore,4.07
+2397,Mahindra,XUV300,2021,5,Petrol,Manual,69315,1,Pune,6.94
+2398,Hyundai,i20,2017,9,Electric,Manual,96338,2,Chennai,3.36
+2399,Maruti Suzuki,Brezza,2020,6,Diesel,Manual,72200,2,Bangalore,2.31
+2400,Kia,Sonet,2017,9,CNG,Automatic,111665,2,Chennai,3.38
+2401,Maruti Suzuki,Brezza,2018,8,Petrol,Manual,71806,3,Chennai,1.1
+2402,Mahindra,Scorpio,2024,2,Petrol,Manual,19628,2,Delhi,12.2
+2403,Hyundai,Verna,2016,10,CNG,Automatic,123496,2,Chennai,1.1
+2404,Mahindra,XUV300,2017,9,Petrol,Manual,108069,1,Mumbai,4.6
+2405,Honda,WR-V,2021,5,Petrol,Manual,51151,1,Delhi,5.13
+2406,Hyundai,Creta,2015,11,Petrol,Manual,108482,3,Delhi,1.1
+2407,Hyundai,Verna,2018,8,Petrol,Automatic,107454,2,Bangalore,1.84
+2408,Hyundai,i20,2016,10,CNG,Manual,109873,1,Hyderabad,1.1
+2409,Mahindra,Scorpio,2017,9,Diesel,Manual,101535,1,Hyderabad,6.99
+2410,Toyota,Innova,2015,11,Electric,Manual,130741,1,Hyderabad,14.36
+2411,Honda,WR-V,2018,8,CNG,Manual,61414,1,Hyderabad,2.53
+2412,Honda,City,2015,11,Diesel,Manual,120216,1,Chennai,1.25
+2413,Maruti Suzuki,Baleno,2025,1,Petrol,Automatic,23850,1,Mumbai,6.97
+2414,Mahindra,XUV700,2017,9,Petrol,Automatic,124106,1,Bangalore,8.7
+2415,Hyundai,Verna,2016,10,Petrol,Automatic,95604,2,Bangalore,1.1
+2416,Tata,Punch,2022,4,CNG,Manual,50791,1,Delhi,5.17
+2417,Toyota,Glanza,2025,1,Electric,Automatic,30757,2,Bangalore,15.83
+2418,Maruti Suzuki,Baleno,2022,4,Diesel,Automatic,61893,1,Chennai,4.06
+2419,Maruti Suzuki,Dzire,2024,2,Diesel,Automatic,14434,1,Mumbai,7.15
+2420,Mahindra,XUV700,2021,5,Diesel,Manual,77889,1,Pune,13.76
+2421,Tata,Altroz,2025,1,CNG,Automatic,25394,2,Pune,7.17
+2422,Toyota,Fortuner,2023,3,Diesel,Automatic,64736,3,Bangalore,27.66
+2423,Toyota,Innova,2023,3,Diesel,Manual,18099,1,Mumbai,20.17
+2424,Mahindra,Scorpio,2017,9,Diesel,Manual,120355,3,Bangalore,5.82
+2425,Maruti Suzuki,Baleno,2015,11,Diesel,Manual,132966,1,Hyderabad,1.1
+2426,Hyundai,i20,2021,5,Petrol,Manual,55592,3,Delhi,2.97
+2427,Tata,Nexon,2019,7,Petrol,Automatic,82055,1,Bangalore,1.83
+2428,Kia,Sonet,2023,3,Petrol,Automatic,60827,1,Hyderabad,7.0
+2429,Mahindra,XUV300,2016,10,Diesel,Manual,88546,1,Chennai,3.11
+2430,Mahindra,Scorpio,2017,9,Diesel,Manual,124646,2,Delhi,7.2
+2431,Toyota,Fortuner,2018,8,Diesel,Automatic,111306,2,Pune,25.82
+2432,Kia,Seltos,2018,8,Petrol,Automatic,85553,2,Mumbai,7.01
+2433,Maruti Suzuki,Dzire,2022,4,Petrol,Manual,53236,1,Delhi,3.61
+2434,Hyundai,Creta,2024,2,Diesel,Manual,23188,1,Delhi,9.74
+2435,Honda,WR-V,2015,11,Diesel,Automatic,123577,1,Pune,1.92
+2436,Maruti Suzuki,Swift,2019,7,Petrol,Manual,68669,1,Chennai,1.17
+2437,Kia,Carens,2018,8,Diesel,Manual,100304,1,Pune,4.32
+2438,Hyundai,i20,2015,11,Diesel,Automatic,113339,1,Hyderabad,1.1
+2439,Kia,Seltos,2023,3,CNG,Automatic,30140,1,Chennai,10.65
+2440,Maruti Suzuki,Baleno,2024,2,Diesel,Manual,36033,2,Mumbai,5.5
+2441,Maruti Suzuki,Brezza,2015,11,CNG,Automatic,147270,1,Pune,1.1
+2442,Hyundai,Venue,2025,1,Petrol,Automatic,19514,1,Bangalore,8.9
+2443,Tata,Harrier,2019,7,Electric,Manual,97052,1,Delhi,7.29
+2444,Hyundai,Venue,2019,7,Petrol,Manual,69889,1,Bangalore,2.44
+2445,Mahindra,Thar,2025,1,Petrol,Automatic,11890,3,Chennai,13.91
+2446,Toyota,Fortuner,2015,11,Petrol,Manual,135647,2,Chennai,19.09
+2447,Maruti Suzuki,Dzire,2021,5,Diesel,Automatic,29381,1,Bangalore,4.93
+2448,Honda,Amaze,2022,4,Petrol,Automatic,32099,2,Bangalore,6.61
+2449,Tata,Nexon,2021,5,Petrol,Manual,42721,1,Mumbai,4.8
+2450,Hyundai,i20,2020,6,Diesel,Manual,61786,3,Pune,2.92
+2451,Tata,Punch,2022,4,CNG,Manual,36171,2,Chennai,3.71
+2452,Hyundai,i20,2025,1,Diesel,Automatic,38194,2,Hyderabad,8.39
+2453,Mahindra,Scorpio,2016,10,CNG,Manual,92993,2,Delhi,5.16
+2454,Honda,Amaze,2016,10,Petrol,Automatic,132637,1,Bangalore,1.52
+2455,Tata,Altroz,2015,11,Diesel,Manual,122953,1,Hyderabad,1.1
+2456,Kia,Carens,2022,4,Diesel,Automatic,53859,1,Hyderabad,8.69
+2457,Mahindra,Scorpio,2016,10,CNG,Manual,97254,1,Mumbai,6.85
+2458,Kia,Carens,2023,3,Diesel,Manual,9094,1,Chennai,8.16
+2459,Hyundai,i20,2020,6,Petrol,Manual,54913,2,Bangalore,1.61
+2460,Toyota,Innova,2023,3,Electric,Automatic,24437,2,Pune,21.32
+2461,Honda,WR-V,2022,4,Petrol,Manual,54978,2,Hyderabad,3.46
+2462,Hyundai,i20,2019,7,CNG,Manual,93820,1,Mumbai,1.83
+2463,Toyota,Innova,2022,4,CNG,Manual,46899,1,Chennai,18.18
+2464,Maruti Suzuki,Baleno,2022,4,Petrol,Automatic,32877,3,Chennai,3.04
+2465,Tata,Nexon,2018,8,Petrol,Manual,80205,1,Chennai,2.18
+2466,Hyundai,Verna,2020,6,Diesel,Automatic,70487,1,Mumbai,5.15
+2467,Maruti Suzuki,Baleno,2018,8,CNG,Manual,92830,1,Pune,1.1
+2468,Mahindra,Thar,2017,9,Diesel,Manual,103605,1,Chennai,9.49
+2469,Honda,WR-V,2019,7,Diesel,Automatic,102288,1,Bangalore,5.26
+2470,Hyundai,i20,2017,9,Diesel,Manual,83918,1,Mumbai,1.54
+2471,Honda,Amaze,2020,6,Diesel,Manual,76078,1,Delhi,3.91
+2472,Tata,Nexon,2022,4,Petrol,Manual,37976,1,Chennai,4.81
+2473,Honda,Amaze,2019,7,Petrol,Manual,78469,1,Mumbai,3.01
+2474,Tata,Nexon,2018,8,Petrol,Manual,87810,1,Hyderabad,1.1
+2475,Mahindra,Thar,2020,6,Petrol,Manual,76262,1,Chennai,10.85
+2476,Maruti Suzuki,Swift,2018,8,CNG,Automatic,80180,1,Delhi,2.54
+2477,Kia,Sonet,2025,1,CNG,Automatic,28842,1,Hyderabad,9.97
+2478,Toyota,Fortuner,2019,7,Petrol,Manual,80707,2,Chennai,25.02
+2479,Maruti Suzuki,Dzire,2024,2,CNG,Manual,33105,1,Delhi,4.73
+2480,Mahindra,Scorpio,2022,4,CNG,Manual,82391,1,Delhi,10.86
+2481,Tata,Punch,2021,5,Diesel,Automatic,78186,1,Delhi,4.92
+2482,Toyota,Innova,2017,9,Diesel,Automatic,70936,2,Bangalore,15.52
+2483,Tata,Harrier,2024,2,Petrol,Manual,29772,1,Bangalore,7.99
+2484,Maruti Suzuki,Swift,2015,11,Diesel,Automatic,104294,1,Mumbai,1.1
+2485,Hyundai,i20,2020,6,Petrol,Manual,79166,1,Bangalore,2.62
+2486,Tata,Punch,2025,1,Petrol,Manual,6316,1,Delhi,6.3
+2487,Tata,Harrier,2019,7,Petrol,Automatic,77751,1,Bangalore,5.92
+2488,Maruti Suzuki,Baleno,2019,7,Diesel,Automatic,66648,1,Chennai,2.23
+2489,Kia,Carens,2017,9,Petrol,Automatic,99131,1,Mumbai,4.15
+2490,Mahindra,XUV700,2016,10,Petrol,Automatic,116459,1,Pune,8.26
+2491,Kia,Carens,2025,1,Petrol,Manual,26003,2,Hyderabad,8.74
+2492,Maruti Suzuki,Baleno,2019,7,Diesel,Manual,55274,1,Mumbai,3.19
+2493,Mahindra,XUV700,2017,9,Diesel,Manual,117410,1,Chennai,9.22
+2494,Honda,WR-V,2015,11,Petrol,Manual,148919,1,Mumbai,1.1
+2495,Hyundai,Creta,2016,10,Petrol,Manual,91112,1,Chennai,2.0
+2496,Honda,City,2018,8,Electric,Manual,53215,2,Pune,5.86
+2497,Tata,Harrier,2025,1,CNG,Automatic,8075,1,Pune,11.04
+2498,Hyundai,Venue,2023,3,Diesel,Automatic,15812,1,Hyderabad,7.78
+2499,Kia,Seltos,2022,4,Petrol,Automatic,40637,1,Pune,10.45
+2500,Tata,Altroz,2017,9,Diesel,Automatic,138606,2,Chennai,1.1

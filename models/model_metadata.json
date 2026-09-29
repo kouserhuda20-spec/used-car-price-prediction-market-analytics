@@ -1,0 +1,16 @@
+{
+  "best_model": "GradientBoosting",
+  "features": [
+    "brand",
+    "model",
+    "year",
+    "age",
+    "fuel",
+    "transmission",
+    "kilometers",
+    "owners",
+    "location"
+  ],
+  "target": "price_lakh",
+  "rows": 2500
+}
